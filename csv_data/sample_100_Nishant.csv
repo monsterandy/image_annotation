@@ -1,87 +1,117 @@
 topic,hashtag,tweet_id,image_path,sample_path,label,body_text,image_text,text_with_OCR
-Mask,NoMasks,1290561571312328706,./data_Mask/NoMasks/tweets1/Eej-523WsAAJa6h.jpg,./annotation_data/Mask/Eej-523WsAAJa6h.jpg,,"@RupertaMargate @FrancaisFarage @John35542712 @WestminsterWAG What?
-Based on what I've seen, as above ...the conspiracy theorists and #NoMasks brigade are often Brexiters and/or Trump fans 🤪🤪 https://t.co/3S2xvR2lfc", FALLONTONIGHT ,Ser ah
-Immigration,cdnpoli,1297693936782213123,./data_Immigration/cdnpoli/tweets4/EgJVvpkUMAALB8Z.png,./annotation_data/Immigration/EgJVvpkUMAALB8Z.png,,"You beat me to it, lol .. #cpc #cpcldr #cdnpoli @CPC_HQ @DonMartinCTV https://t.co/9eUCgkDGyL https://t.co/pECUu00tGi", You couldnt organize a two car funeral procession somee cards user card ,You organize two car funeral procession iS
-Vaccine,CovidHoax,1294984802890911746,./data_Vaccine/CovidHoax/tweets3/Efi1z_iXsAICXnH.jpg,./annotation_data/Vaccine/Efi1z_iXsAICXnH.jpg,,"States are stock piling food in empty arenas, getting ready for #CivilWar the Elite #DivideAndConquer #Riots #RaceWars #NWO is here! #SnakePoem #TrojanHorse #CovidHoax 
-🔥NEVER LOCKED UP #HILLARY, AND HE NEVER WILL! 🤬🔥 https://t.co/lmhif2oU76", Operation Mockingbird Public Perception Management Programming FOx NEWS CNN CIA Project  Fake News ,Public in Project Fake News
-Political,maga,1297377429405614081,./data_Political/maga/tweets4/EgE11wjUcAA4FsE.jpg,./annotation_data/Political/EgE11wjUcAA4FsE.jpg,,.@realDonaldTrump #MAGA She’s known you ALL your life. Speaking candidly. https://t.co/1a1eOSQ7if, reobhan YOU CANT TRUST HIM SECRET AUDIO OF TRUMPS SISTER ,Em TRUST HIM SECRET AUDIO OF OF ae rig aA Se
-Boomer,trumpliesamericansdie,1298382512016818176,./data_Boomer/trumpliesamericansdie/tweets4/EgTIA2cWAAAKPS1.jpg,./annotation_data/Boomer/EgTIA2cWAAAKPS1.jpg,,"On Nov.3 Vote for Joe Biden and all Democrats Senators. Tell Trump we don't want a dictator we live in a democracy.
+Mask,NoMasks,1290561571312328706,./data_Mask/NoMasks/tweets1/Eej-523WsAAJa6h.jpg,./annotation_data/Mask/Eej-523WsAAJa6h.jpg,2.0,"@RupertaMargate @FrancaisFarage @John35542712 @WestminsterWAG What?
+Based on what I've seen, as above ...the conspiracy theorists and #NoMasks brigade are often Brexiters and/or Trump fans 🤪🤪 https://t.co/3S2xvR2lfc"," FALLONTONIGHT 
+",Ser ah
+Immigration,cdnpoli,1297693936782213123,./data_Immigration/cdnpoli/tweets4/EgJVvpkUMAALB8Z.png,./annotation_data/Immigration/EgJVvpkUMAALB8Z.png,0.0,"You beat me to it, lol .. #cpc #cpcldr #cdnpoli @CPC_HQ @DonMartinCTV https://t.co/9eUCgkDGyL https://t.co/pECUu00tGi"," You couldnt organize a two car funeral procession somee cards user card 
+",You organize two car funeral procession iS
+Vaccine,CovidHoax,1294984802890911746,./data_Vaccine/CovidHoax/tweets3/Efi1z_iXsAICXnH.jpg,./annotation_data/Vaccine/Efi1z_iXsAICXnH.jpg,0.0,"States are stock piling food in empty arenas, getting ready for #CivilWar the Elite #DivideAndConquer #Riots #RaceWars #NWO is here! #SnakePoem #TrojanHorse #CovidHoax 
+🔥NEVER LOCKED UP #HILLARY, AND HE NEVER WILL! 🤬🔥 https://t.co/lmhif2oU76"," Operation Mockingbird Public Perception Management Programming FOx NEWS CNN CIA Project  Fake News 
+",Public in Project Fake News
+Political,maga,1297377429405614081,./data_Political/maga/tweets4/EgE11wjUcAA4FsE.jpg,./annotation_data/Political/EgE11wjUcAA4FsE.jpg,1.0,.@realDonaldTrump #MAGA She’s known you ALL your life. Speaking candidly. https://t.co/1a1eOSQ7if," reobhan YOU CANT TRUST HIM SECRET AUDIO OF TRUMPS SISTER 
+",Em TRUST HIM SECRET AUDIO OF OF ae rig aA Se
+Boomer,trumpliesamericansdie,1298382512016818176,./data_Boomer/trumpliesamericansdie/tweets4/EgTIA2cWAAAKPS1.jpg,./annotation_data/Boomer/EgTIA2cWAAAKPS1.jpg,1.0,"On Nov.3 Vote for Joe Biden and all Democrats Senators. Tell Trump we don't want a dictator we live in a democracy.
 #TrumpChaos
 #TrumpLiesAmericansDie 
-#TrumpIsALaughingStock https://t.co/ALX0vvzJYT", No Trump Youre Fired ,No Trump re Fired Spec
-Mask,masks,1289427764341166080,./data_Mask/masks/tweets1/EeT3toLVAAAv1EA.jpg,./annotation_data/Mask/EeT3toLVAAAv1EA.jpg,,I #feel like #crap but #alive so im #happy for #that. Have to #shop then #get on with more #masks. Cant #wait. https://t.co/54ZhuA1Zis, WERK ,
-Vaccine,CoronavirusVaccine,1295569664861380608,./data_Vaccine/CoronavirusVaccine/tweets3/EfrI7yGUEAAyPGX.jpg,./annotation_data/Vaccine/EfrI7yGUEAAyPGX.jpg,,"are you getting it now?
+#TrumpIsALaughingStock https://t.co/ALX0vvzJYT"," No Trump Youre Fired 
+",No Trump re Fired Spec
+Mask,masks,1289427764341166080,./data_Mask/masks/tweets1/EeT3toLVAAAv1EA.jpg,./annotation_data/Mask/EeT3toLVAAAv1EA.jpg,1.0,I #feel like #crap but #alive so im #happy for #that. Have to #shop then #get on with more #masks. Cant #wait. https://t.co/54ZhuA1Zis," WERK 
+",
+Vaccine,CoronavirusVaccine,1295569664861380608,./data_Vaccine/CoronavirusVaccine/tweets3/EfrI7yGUEAAyPGX.jpg,./annotation_data/Vaccine/EfrI7yGUEAAyPGX.jpg,0.0,"are you getting it now?
 see how this game is played?
 rinse and repeat in every country on earth..
-#CoronavirusVaccine https://t.co/jMrsw5iDcQ", No influenza deaths recorded in Australia so far this winter AUGUST 17 2020 426pm WATCH VIDEO THE NEWSCOMAU  150 Can you catch COVID19 twice ,No influenza in so far this winter AUGUST WATCH ae aa VIDEO ta ae ae ae We Can you catch twice of
-Boomer,karen,1297799651899449346,./data_Boomer/karen/tweets4/EgK15rHWAAAshUU.jpg,./annotation_data/Boomer/EgK15rHWAAAshUU.jpg,,"@thekjohnston Oh look, a bored, white, jobless but probably unemployable attention-seeker #karen https://t.co/9t13yWKnDD", Groundbreaking ,He wy
-Political,Trump2020,1298444723837964289,./data_Political/Trump2020/tweets4/EgUAmGhWoAU7E2o.jpg,./annotation_data/Political/EgUAmGhWoAU7E2o.jpg,,#Trump2020Landslide  #Trump2020 #Trump the war is coming..  get ready to defend this beautiful land.. https://t.co/varRZ3pY0W, ll  55 950 PM Mon Aug 24 Mike Kaminsky v Katy Krasnow Hickman County Antifa 17h Election Day nears Comrades Prepare to defend your rights ANTIFA COMRADES ON NOV 4 DONT FORGET TO DISGUISE YOURSELVES AS PATRIOTSTRUMP SUPPORTERS WEAR MAGA HATS USA FLAGS 3ER INSIGNIAS A CONVINCING POLICE UNIFORM IS EVEN BETTER THIS WAY POLICE AND PATRIOTS RESPONDING TO US WONT KNOW WHO THEIR ENEMIES ARE AND ONLOOKERS AND THE MEDIA WILL THINK THERE ARE TRUMP SUPPORTERS RIOTING SO ITS HARDER TO TURN POPULAR OPINION AGAINST US Type Message Me We O GIF  ,Ce on County PROSE Tae nese ON DONT FORGET TO DISGUISE YOURSELVES AS Me cee en Ce POLICE UNIFORM IS EVEN BETTER Od
-Vaccine,CoronavirusVaccine,1293151031505821696,./data_Vaccine/CoronavirusVaccine/tweets2/EfIx5eFVoAAltxk.jpg,./annotation_data/Vaccine/EfIx5eFVoAAltxk.jpg,,"#RussianVaccine
+#CoronavirusVaccine https://t.co/jMrsw5iDcQ"," No influenza deaths recorded in Australia so far this winter AUGUST 17 2020 426pm WATCH VIDEO THE NEWSCOMAU  150 Can you catch COVID19 twice 
+",No influenza in so far this winter AUGUST WATCH ae aa VIDEO ta ae ae ae We Can you catch twice of
+Boomer,karen,1297799651899449346,./data_Boomer/karen/tweets4/EgK15rHWAAAshUU.jpg,./annotation_data/Boomer/EgK15rHWAAAshUU.jpg,0.0,"@thekjohnston Oh look, a bored, white, jobless but probably unemployable attention-seeker #karen https://t.co/9t13yWKnDD"," Groundbreaking 
+",He wy
+Political,Trump2020,1298444723837964289,./data_Political/Trump2020/tweets4/EgUAmGhWoAU7E2o.jpg,./annotation_data/Political/EgUAmGhWoAU7E2o.jpg,2.0,#Trump2020Landslide  #Trump2020 #Trump the war is coming..  get ready to defend this beautiful land.. https://t.co/varRZ3pY0W," ll  55 950 PM Mon Aug 24 Mike Kaminsky v Katy Krasnow Hickman County Antifa 17h Election Day nears Comrades Prepare to defend your rights ANTIFA COMRADES ON NOV 4 DONT FORGET TO DISGUISE YOURSELVES AS PATRIOTSTRUMP SUPPORTERS WEAR MAGA HATS USA FLAGS 3ER INSIGNIAS A CONVINCING POLICE UNIFORM IS EVEN BETTER THIS WAY POLICE AND PATRIOTS RESPONDING TO US WONT KNOW WHO THEIR ENEMIES ARE AND ONLOOKERS AND THE MEDIA WILL THINK THERE ARE TRUMP SUPPORTERS RIOTING SO ITS HARDER TO TURN POPULAR OPINION AGAINST US Type Message Me We O GIF  
+",Ce on County PROSE Tae nese ON DONT FORGET TO DISGUISE YOURSELVES AS Me cee en Ce POLICE UNIFORM IS EVEN BETTER Od
+Vaccine,CoronavirusVaccine,1293151031505821696,./data_Vaccine/CoronavirusVaccine/tweets2/EfIx5eFVoAAltxk.jpg,./annotation_data/Vaccine/EfIx5eFVoAAltxk.jpg,0.0,"#RussianVaccine
 
-Russia registered world first #CoronavirusVaccine, President Vladimir Putin says his own  daughter vaccinated with that #RussianVaccine......🙏🏻🙏🏻 https://t.co/TuQIZiQv03", THE WORLDS FIRST CORONAVIRUS VACCINE REGISTERED IN RUSSIA Vacciar COVID Vaccine COVID19 Vaccim COVID H 3 RUSSIAN PRESIDENT VLADIMIR PUTIN SAYS HIS OWN DAUGHTER HAS BEEN VACCINATED WITH THE VACCIN ,ann pina ae ey at PRESIDENT WITH THE VACCINE
-Political,Trump2020,1290096753144807425,./data_Political/Trump2020/tweets1/EedYKPYXkAAonhv.jpg,./annotation_data/Political/EedYKPYXkAAonhv.jpg,,"@RepAdamSchiff @Gerrrrrrrr8 Let me make this #PerfectlyClear
+Russia registered world first #CoronavirusVaccine, President Vladimir Putin says his own  daughter vaccinated with that #RussianVaccine......🙏🏻🙏🏻 https://t.co/TuQIZiQv03"," THE WORLDS FIRST CORONAVIRUS VACCINE REGISTERED IN RUSSIA Vacciar COVID Vaccine COVID19 Vaccim COVID H 3 RUSSIAN PRESIDENT VLADIMIR PUTIN SAYS HIS OWN DAUGHTER HAS BEEN VACCINATED WITH THE VACCIN 
+",ann pina ae ey at PRESIDENT WITH THE VACCINE
+Political,Trump2020,1290096753144807425,./data_Political/Trump2020/tweets1/EedYKPYXkAAonhv.jpg,./annotation_data/Political/EedYKPYXkAAonhv.jpg,1.0,"@RepAdamSchiff @Gerrrrrrrr8 Let me make this #PerfectlyClear
 #Trump2020
 #GodBlessAmerica 
-#GodBlessPresidentTrump https://t.co/YZE1LMTPkv", Its no longer Republicans versus the Democrats its America versus socialism House Majority Leader  Kevin McCarthyCalifornia ,Its no longer on versus the its versus socialism House Majority Leader
-Boomer,karen,1297131490585784321,./data_Boomer/karen/tweets4/EgBWN0UXsAAcil_.jpg,./annotation_data/Boomer/EgBWN0UXsAAcil_.jpg,,"Good morning Karen......how many of you agree with Karen’s pronunciation????  
-More to come in separate tweet #Karen #whatdidusay https://t.co/UPMNHluDLd", Aluminum Foil  10 full Reynolds Wrap 200 TRUSTED AROUND THE WORLD SINCE ,Aluminum War aa Oe
-Immigration,cdnpoli,1289977533673254913,./data_Immigration/cdnpoli/tweets1/EebrujFUYAAEoy0.jpg,./annotation_data/Immigration/EebrujFUYAAEoy0.jpg,,"Donald J #Trump, aka The Donald, media marvel, but...
-FAILURE TO DELIVER. #uspoli #GOP #maga2020 #kag2020 #covidiots #covid19 #POTUS45 #FoxNews #cdnpoli https://t.co/ZQ5gA6PlpL", MAPVEL AGE OF THE LAMPS ,pi GE if AE ES
-Political,Trump2020,1296968968289345536,./data_Political/Trump2020/tweets4/Ef_CZSBWkAAP-FV.jpg,./annotation_data/Political/Ef_CZSBWkAAP-FV.jpg,,"“Straight Outta Tha Communist Manifesto”
-#JoeBlow #JoeAndTheHoe #Trump2020 #Trump2020Landslide https://t.co/kHCLnLh0P0", IF THIS WAS A ALBUM COVERWHAT WOULD YOU NAME ITO PARENTAL ADVISORY EXPLICIT CONTENT made with mematic ,IF THIS WAS ALBUM COVER vee WOULD YOU IT ne Ge io oe date ne tA we Wo oS
-AsianHate,ChinaLiedPeopleDied,1297404417201729537,./data_AsianHate/ChinaLiedPeopleDied/tweets4/EgFOZFXUMAAyyUm.jpg,./annotation_data/AsianHate/EgFOZFXUMAAyyUm.jpg,,"@StateDept @SecPompeo Freedom is not free, we must stop #CCPChina to crushing our freedom and human rights, we all know that CCP is terrism. 
-#ChinaLiedPeopleDied #CCP_is_terrorist https://t.co/bygxa32VyA", CC The CCP lies and makes those who tell the truth UNUM disappear SECRETARY OF STATE MICHAEL R POMPEO Photo State DeptRon Przysucha ,ae and those ne who tell the truth SECRETARY OF STATE
-Mask,masks,1298378857423101952,./data_Mask/masks/tweets4/EgTEr14U0AEK1JL.jpg,./annotation_data/Mask/EgTEr14U0AEK1JL.jpg,,"Back to school shopping with my new high school student. Maybe my tee will be a reminder to the anti-maskers. But I doubt it. 
+#GodBlessPresidentTrump https://t.co/YZE1LMTPkv"," Its no longer Republicans versus the Democrats its America versus socialism House Majority Leader  Kevin McCarthyCalifornia 
+",Its no longer on versus the its versus socialism House Majority Leader
+Boomer,karen,1297131490585784321,./data_Boomer/karen/tweets4/EgBWN0UXsAAcil_.jpg,./annotation_data/Boomer/EgBWN0UXsAAcil_.jpg,0.0,"Good morning Karen......how many of you agree with Karen’s pronunciation????  
+More to come in separate tweet #Karen #whatdidusay https://t.co/UPMNHluDLd"," Aluminum Foil  10 full Reynolds Wrap 200 TRUSTED AROUND THE WORLD SINCE 
+",Aluminum War aa Oe
+Immigration,cdnpoli,1289977533673254913,./data_Immigration/cdnpoli/tweets1/EebrujFUYAAEoy0.jpg,./annotation_data/Immigration/EebrujFUYAAEoy0.jpg,2.0,"Donald J #Trump, aka The Donald, media marvel, but...
+FAILURE TO DELIVER. #uspoli #GOP #maga2020 #kag2020 #covidiots #covid19 #POTUS45 #FoxNews #cdnpoli https://t.co/ZQ5gA6PlpL"," MAPVEL AGE OF THE LAMPS 
+",pi GE if AE ES
+Political,Trump2020,1296968968289345536,./data_Political/Trump2020/tweets4/Ef_CZSBWkAAP-FV.jpg,./annotation_data/Political/Ef_CZSBWkAAP-FV.jpg,1.0,"“Straight Outta Tha Communist Manifesto”
+#JoeBlow #JoeAndTheHoe #Trump2020 #Trump2020Landslide https://t.co/kHCLnLh0P0"," IF THIS WAS A ALBUM COVERWHAT WOULD YOU NAME ITO PARENTAL ADVISORY EXPLICIT CONTENT made with mematic 
+",IF THIS WAS ALBUM COVER vee WOULD YOU IT ne Ge io oe date ne tA we Wo oS
+AsianHate,ChinaLiedPeopleDied,1297404417201729537,./data_AsianHate/ChinaLiedPeopleDied/tweets4/EgFOZFXUMAAyyUm.jpg,./annotation_data/AsianHate/EgFOZFXUMAAyyUm.jpg,0.0,"@StateDept @SecPompeo Freedom is not free, we must stop #CCPChina to crushing our freedom and human rights, we all know that CCP is terrism. 
+#ChinaLiedPeopleDied #CCP_is_terrorist https://t.co/bygxa32VyA"," CC The CCP lies and makes those who tell the truth UNUM disappear SECRETARY OF STATE MICHAEL R POMPEO Photo State DeptRon Przysucha 
+",ae and those ne who tell the truth SECRETARY OF STATE
+Mask,masks,1298378857423101952,./data_Mask/masks/tweets4/EgTEr14U0AEK1JL.jpg,./annotation_data/Mask/EgTEr14U0AEK1JL.jpg,0.0,"Back to school shopping with my new high school student. Maybe my tee will be a reminder to the anti-maskers. But I doubt it. 
 
 #masks
 @NHM_London 
-@NHM_Science https://t.co/ZCys0W8pkV", NE BUILT I CHARLES DARWIN ON THE ORIGIN OF SPECIES WORLD TOUR ,na aA ON THE ORIGIN OF SPECIES WORLD TOUR
-Immigration,americafirst,1295930048583815168,./data_Immigration/americafirst/tweets3/EfwRdl_WoAAuKgA.jpg,./annotation_data/Immigration/EfwRdl_WoAAuKgA.jpg,,"Vindiciae Contra Tyrannos: Defense of Liberty Against Tyrants.
+@NHM_Science https://t.co/ZCys0W8pkV"," NE BUILT I CHARLES DARWIN ON THE ORIGIN OF SPECIES WORLD TOUR 
+",na aA ON THE ORIGIN OF SPECIES WORLD TOUR
+Immigration,americafirst,1295930048583815168,./data_Immigration/americafirst/tweets3/EfwRdl_WoAAuKgA.jpg,./annotation_data/Immigration/EfwRdl_WoAAuKgA.jpg,1.0,"Vindiciae Contra Tyrannos: Defense of Liberty Against Tyrants.
 
 Good night @POTUS @FLOTUS and all Patriots!
 
-#DefeatSpanberger #Virginia #VoterID #Hannity #IngrahamAngle #BlueLivesMatter #Military #2A #BackTheBlue #VoteRed2020 #AmericaFirst #AmericansFirst #1A #FoxNewsAtNight https://t.co/DQKltGVRw7", WE DONT CARE WHICH ONE YOU ARE WE ARE AGAINST ALL ENEMIES FOREIGN AND OMESTIC facebook PadriolRevohbion  YOUR ASS IS OURS ,WED CARE WHICH ONE YOU ARE WE ARE AGAINST ALL FOREIGN we Ay cal oil YOUR ASS IS
-Boomer,trumpliesamericansdie,1292988243886170117,./data_Boomer/trumpliesamericansdie/tweets2/EfGdrJ3XYAIrNeU.jpg,./annotation_data/Boomer/EfGdrJ3XYAIrNeU.jpg,,"Reporters SHOULD #InterruptTrump , and all WALK OUT as one when he lies and bullies a fellow reporter. 
+#DefeatSpanberger #Virginia #VoterID #Hannity #IngrahamAngle #BlueLivesMatter #Military #2A #BackTheBlue #VoteRed2020 #AmericaFirst #AmericansFirst #1A #FoxNewsAtNight https://t.co/DQKltGVRw7"," WE DONT CARE WHICH ONE YOU ARE WE ARE AGAINST ALL ENEMIES FOREIGN AND OMESTIC facebook PadriolRevohbion  YOUR ASS IS OURS 
+",WED CARE WHICH ONE YOU ARE WE ARE AGAINST ALL FOREIGN we Ay cal oil YOUR ASS IS
+Boomer,trumpliesamericansdie,1292988243886170117,./data_Boomer/trumpliesamericansdie/tweets2/EfGdrJ3XYAIrNeU.jpg,./annotation_data/Boomer/EfGdrJ3XYAIrNeU.jpg,1.0,"Reporters SHOULD #InterruptTrump , and all WALK OUT as one when he lies and bullies a fellow reporter. 
 His ""briefings"" are no more than masturbatory rallies for himself anyway, and not worthy of even covering! 
-#TrumpIsACompleteFailure #LiarInChief #TrumpLiesAmericansDie https://t.co/54mNQ4RL7S",  TRUMP 2020 IT IS WHAT IT IS  SCAMAZON ,aa Ta za AS
-Immigration,americafirst,1298375010113945600,./data_Immigration/americafirst/tweets4/EgTBK-tXsAUI3bp.jpg,./annotation_data/Immigration/EgTBK-tXsAUI3bp.jpg,,He's gonna mail in his vote. #America #AmericaFirst #RNC2020 #freedom @J47130015 @catturd2 @DonaldJTrumpJr @realDonaldTrump @w_terrence #SocialismKills https://t.co/NdLzRbe5n9, BIDEN BIDEN FOR TRUMP ,
-Vaccine,VaccinesWork,1298624526176202752,./data_Vaccine/VaccinesWork/tweets4/EgWjYVyWkAEa7eo.jpg,./annotation_data/Vaccine/EgWjYVyWkAEa7eo.jpg,,"Africa reached a remarkable milestone and was declared wild #polio free
+#TrumpIsACompleteFailure #LiarInChief #TrumpLiesAmericansDie https://t.co/54mNQ4RL7S","  TRUMP 2020 IT IS WHAT IT IS  SCAMAZON 
+",aa Ta za AS
+Immigration,americafirst,1298375010113945600,./data_Immigration/americafirst/tweets4/EgTBK-tXsAUI3bp.jpg,./annotation_data/Immigration/EgTBK-tXsAUI3bp.jpg,1.0,He's gonna mail in his vote. #America #AmericaFirst #RNC2020 #freedom @J47130015 @catturd2 @DonaldJTrumpJr @realDonaldTrump @w_terrence #SocialismKills https://t.co/NdLzRbe5n9," BIDEN BIDEN FOR TRUMP 
+",
+Vaccine,VaccinesWork,1298624526176202752,./data_Vaccine/VaccinesWork/tweets4/EgWjYVyWkAEa7eo.jpg,./annotation_data/Vaccine/EgWjYVyWkAEa7eo.jpg,2.0,"Africa reached a remarkable milestone and was declared wild #polio free
 
 Because #VaccinesWork
 Because of reliable supply chains
 Because of strong partnerships
 Because of dedicated health workers
  
-Congratulations to #Africa and to everyone supporting the fight to #EndPolio. https://t.co/gU6L3P89vT", EndPolio 062 unicef O for every child ,for every child
-AsianHate,ChinaVirus,1298246090517614593,./data_AsianHate/ChinaVirus/tweets4/EgRLtJ5XYAIMMOt.png,./annotation_data/AsianHate/EgRLtJ5XYAIMMOt.png,,Have you seen how #Chinavirus introduced all kind of #ConspiracyTheories  and #qanon into Mainstream population talk in the last couple of months. Now everybody is Conspiracy Theorist or Living the Conspiracy ? https://t.co/MpRQdnw10s, If they say people who do not vaccinate are a danger to people who do vaccinate what are those vaccines actually for then  Just trying to free your mind  Morpheus ,If they say people who do not vaccinate are danger to people who do vaccinate what are those actually for then mind Just trying to free your me
-AsianHate,CCPVirus,1293531005043855361,./data_AsianHate/CCPVirus/tweets2/EfOKPNkWAAApjCj.jpg,./annotation_data/AsianHate/EfOKPNkWAAApjCj.jpg,,"@honghong975 CCP tries to colonize our country Iran by a secret 25-years treaty. CCP will never stop its expansionism ideology and will delete freedom once they control a country.
+Congratulations to #Africa and to everyone supporting the fight to #EndPolio. https://t.co/gU6L3P89vT"," EndPolio 062 unicef O for every child 
+",for every child
+AsianHate,ChinaVirus,1298246090517614593,./data_AsianHate/ChinaVirus/tweets4/EgRLtJ5XYAIMMOt.png,./annotation_data/AsianHate/EgRLtJ5XYAIMMOt.png,1.0,Have you seen how #Chinavirus introduced all kind of #ConspiracyTheories  and #qanon into Mainstream population talk in the last couple of months. Now everybody is Conspiracy Theorist or Living the Conspiracy ? https://t.co/MpRQdnw10s," If they say people who do not vaccinate are a danger to people who do vaccinate what are those vaccines actually for then  Just trying to free your mind  Morpheus 
+",If they say people who do not vaccinate are danger to people who do vaccinate what are those actually for then mind Just trying to free your me
+AsianHate,CCPVirus,1293531005043855361,./data_AsianHate/CCPVirus/tweets2/EfOKPNkWAAApjCj.jpg,./annotation_data/AsianHate/EfOKPNkWAAApjCj.jpg,2.0,"@honghong975 CCP tries to colonize our country Iran by a secret 25-years treaty. CCP will never stop its expansionism ideology and will delete freedom once they control a country.
 We must get united against #CCPVirus.
 🦁☀️+🇭🇰+🇹🇼+🇮🇳+🇦🇺
-#MilkTeaAlliance https://t.co/CNdoH9DlbI", lalamny  D With 2100 209   rEE Hong Kn BAN LIBERATE HONG KONG IRA ellicom IS NORUAWEI BAN HUAWEI RELN OF DUR TIME RELEASE No War 23  Your People IRANS Greatest Regime IN LIBERATE HONG KONG  ALA IRANIAN LIVES MATTER Stop executing children in REVOLUTION OF DUR TIMES IRAN ,poe ae om aa Pay pat ae Cay mY LIBERATE HONG or wet
-Boomer,trumpliesamericansdie,1298965693904433152,./data_Boomer/trumpliesamericansdie/tweets4/Egbaag1WoAIaO1c.jpg,./annotation_data/Boomer/Egbaag1WoAIaO1c.jpg,,@CDCgov changes guidelines under direction of @realDonaldTrump a government agency bows down to the whim of a dictator #CDCBowsToTrump #TrumpLiesAmericansDie #TrumpLiesPeopleDie https://t.co/P7tqS2iENh, THANK ME FOR THE TREMENDOUS JOB im DOING ,ME FoR ie DOING oR ge As ey
-AsianHate,chinesevirus,1297472566743961600,./data_AsianHate/chinesevirus/tweets4/EgGLs-LXgAIL3jL.png,./annotation_data/AsianHate/EgGLs-LXgAIL3jL.png,,@chothep @bennetowuonda @SolomonKarori2 @Olaf_Ke @MwangP01 @Luther_Gen @slmiheso @WilsonWaGitau on another issue... these pics are making rounds all over social media even as billions meant for #ChineseVirus are being shared by the elite even before they touch the ground. &amp; some will arrogantly claim nani hawezi pata 50bob ya mask. yeah we always blame the victims https://t.co/omq5MsIMeo, EACCKemsaExposed OTOLEO ,ni iF ae
-AsianHate,ChinaVirus,1294875623417159681,./data_AsianHate/ChinaVirus/tweets3/EfhScg9XYAADhxf.jpg,./annotation_data/AsianHate/EfhScg9XYAADhxf.jpg,,"@Britnabee @BernardKerik @realDonaldTrump Oh, #ChinaVirus, Biden’s country https://t.co/yjPmj1bidK", Top three toughest jobs in America right now D Police officer 2 Crab fisherman 3 Sign language interpreter for Joe Biden ,Top three in right now fisherman interpreter for Joe
-AsianHate,ChinaLiedPeopleDied,1299993046776389633,./data_AsianHate/ChinaLiedPeopleDied/tweets5/EgqAyPfU4AAlqe5.jpg,./annotation_data/AsianHate/EgqAyPfU4AAlqe5.jpg,,Sri Lanka's India first policy has massive implications for regional security. Great step to protect South China Sea and hegemony of China in the region. #SouthChinaSea #ChinaLiedPeopleDied #SriLanka #ChineseButcher https://t.co/PAaA58CPSw, Will have India first policy China port k deal a mistake Lanka AP ers lls nd ng ith ili Iti ga on ers che 20 ex re President Gotabaya Rajapaksa right seen here with his brother and PM Mahinda Rajapaksa has said Sri Lanka cannot afford to be a strategic security threat to India We need to benefit from India ,Will have UG aCe ES ae st tat yn wae Ay right seen here with his brother said Sri ra Beam ak oe aL
-Boomer,karen,1295812713319292928,./data_Boomer/karen/tweets3/Efpz0s2XgAI1l-7.jpg,./annotation_data/Boomer/Efpz0s2XgAI1l-7.jpg,,"Watch full video here: https://t.co/aRU8fJgiqy
+#MilkTeaAlliance https://t.co/CNdoH9DlbI"," lalamny  D With 2100 209   rEE Hong Kn BAN LIBERATE HONG KONG IRA ellicom IS NORUAWEI BAN HUAWEI RELN OF DUR TIME RELEASE No War 23  Your People IRANS Greatest Regime IN LIBERATE HONG KONG  ALA IRANIAN LIVES MATTER Stop executing children in REVOLUTION OF DUR TIMES IRAN 
+",poe ae om aa Pay pat ae Cay mY LIBERATE HONG or wet
+Boomer,trumpliesamericansdie,1298965693904433152,./data_Boomer/trumpliesamericansdie/tweets4/Egbaag1WoAIaO1c.jpg,./annotation_data/Boomer/Egbaag1WoAIaO1c.jpg,1.0,@CDCgov changes guidelines under direction of @realDonaldTrump a government agency bows down to the whim of a dictator #CDCBowsToTrump #TrumpLiesAmericansDie #TrumpLiesPeopleDie https://t.co/P7tqS2iENh," THANK ME FOR THE TREMENDOUS JOB im DOING 
+",ME FoR ie DOING oR ge As ey
+AsianHate,chinesevirus,1297472566743961600,./data_AsianHate/chinesevirus/tweets4/EgGLs-LXgAIL3jL.png,./annotation_data/AsianHate/EgGLs-LXgAIL3jL.png,0.0,@chothep @bennetowuonda @SolomonKarori2 @Olaf_Ke @MwangP01 @Luther_Gen @slmiheso @WilsonWaGitau on another issue... these pics are making rounds all over social media even as billions meant for #ChineseVirus are being shared by the elite even before they touch the ground. &amp; some will arrogantly claim nani hawezi pata 50bob ya mask. yeah we always blame the victims https://t.co/omq5MsIMeo," EACCKemsaExposed OTOLEO 
+",ni iF ae
+AsianHate,ChinaVirus,1294875623417159681,./data_AsianHate/ChinaVirus/tweets3/EfhScg9XYAADhxf.jpg,./annotation_data/AsianHate/EfhScg9XYAADhxf.jpg,1.0,"@Britnabee @BernardKerik @realDonaldTrump Oh, #ChinaVirus, Biden’s country https://t.co/yjPmj1bidK"," Top three toughest jobs in America right now D Police officer 2 Crab fisherman 3 Sign language interpreter for Joe Biden 
+",Top three in right now fisherman interpreter for Joe
+AsianHate,ChinaLiedPeopleDied,1299993046776389633,./data_AsianHate/ChinaLiedPeopleDied/tweets5/EgqAyPfU4AAlqe5.jpg,./annotation_data/AsianHate/EgqAyPfU4AAlqe5.jpg,2.0,Sri Lanka's India first policy has massive implications for regional security. Great step to protect South China Sea and hegemony of China in the region. #SouthChinaSea #ChinaLiedPeopleDied #SriLanka #ChineseButcher https://t.co/PAaA58CPSw," Will have India first policy China port k deal a mistake Lanka AP ers lls nd ng ith ili Iti ga on ers che 20 ex re President Gotabaya Rajapaksa right seen here with his brother and PM Mahinda Rajapaksa has said Sri Lanka cannot afford to be a strategic security threat to India We need to benefit from India 
+",Will have UG aCe ES ae st tat yn wae Ay right seen here with his brother said Sri ra Beam ak oe aL
+Boomer,karen,1295812713319292928,./data_Boomer/karen/tweets3/Efpz0s2XgAI1l-7.jpg,./annotation_data/Boomer/Efpz0s2XgAI1l-7.jpg,1.0,"Watch full video here: https://t.co/aRU8fJgiqy
 
-#karenmemes #karensgonewild #karenmeme #freakout #freakouts #karenmemes #calmdownkaren #wayment #karen #karens #amycooper #tiktok #karenculture #Publicfreakout #Publicfreakouts #Karenfreakout #Karenfreakouts https://t.co/k2ePQGDaQ1", RACIST KAREN ARRESTED FOR ATTACKING LANDSCAPE WORKERS ,
-Immigration,immigration,1297503994735140864,./data_Immigration/immigration/tweets4/EgGpAWHXYAABXiQ.jpg,./annotation_data/Immigration/EgGpAWHXYAABXiQ.jpg,,"Amnesty Solicitors has a reputation for their litigation work. 
+#karenmemes #karensgonewild #karenmeme #freakout #freakouts #karenmemes #calmdownkaren #wayment #karen #karens #amycooper #tiktok #karenculture #Publicfreakout #Publicfreakouts #Karenfreakout #Karenfreakouts https://t.co/k2ePQGDaQ1"," RACIST KAREN ARRESTED FOR ATTACKING LANDSCAPE WORKERS 
+",
+Immigration,immigration,1297503994735140864,./data_Immigration/immigration/tweets4/EgGpAWHXYAABXiQ.jpg,./annotation_data/Immigration/EgGpAWHXYAABXiQ.jpg,2.0,"Amnesty Solicitors has a reputation for their litigation work. 
 Find out more on our website 👉 https://t.co/rEfbBc7QYv
-#immigration #uk #litigation #solicitors https://t.co/lFinZhweGI", AMNESTY SOLICITORS Legal Services for all Litigation matters ,Legal for all Litigation
-Boomer,trumpliesamericansdie,1292236130772045830,./data_Boomer/trumpliesamericansdie/tweets2/Ee7x5wmWsAIb90F.jpg,./annotation_data/Boomer/Ee7x5wmWsAIb90F.jpg,,"@JHoganGidley @realDonaldTrump Stop trying to shove this monster down our throats.
+#immigration #uk #litigation #solicitors https://t.co/lFinZhweGI"," AMNESTY SOLICITORS Legal Services for all Litigation matters 
+",Legal for all Litigation
+Boomer,trumpliesamericansdie,1292236130772045830,./data_Boomer/trumpliesamericansdie/tweets2/Ee7x5wmWsAIb90F.jpg,./annotation_data/Boomer/Ee7x5wmWsAIb90F.jpg,1.0,"@JHoganGidley @realDonaldTrump Stop trying to shove this monster down our throats.
 
 We hate him. We really hate him.
 
 #TrumpGenocide
-#TrumpGestapo #TrumpIsAMasdMurderer #TrumpLiesAmericansDie https://t.co/Sv6qAF0RfH", DONNIE BODYBAGS 160000 DEATHS AND COUNTING imgflipcom ,AND COUNTING
-Immigration,cdnpoli,1295058461932298240,./data_Immigration/cdnpoli/tweets3/Efj4zLBX0AAxuSl.jpg,./annotation_data/Immigration/Efj4zLBX0AAxuSl.jpg,,"#cdnpoli
+#TrumpGestapo #TrumpIsAMasdMurderer #TrumpLiesAmericansDie https://t.co/Sv6qAF0RfH"," DONNIE BODYBAGS 160000 DEATHS AND COUNTING imgflipcom 
+",AND COUNTING
+Immigration,cdnpoli,1295058461932298240,./data_Immigration/cdnpoli/tweets3/Efj4zLBX0AAxuSl.jpg,./annotation_data/Immigration/Efj4zLBX0AAxuSl.jpg,2.0,"#cdnpoli
 #Canada
 #USPolitics
 #StreetArt
 
 Amazing - 2
-. https://t.co/KTxyoFN3Ns", u ApHm ,at
-Political,maga,1300077419638988800,./data_Political/maga/tweets5/EgrNg8pU0AAuAqk.jpg,./annotation_data/Political/EgrNg8pU0AAuAqk.jpg,,"@SenJohnBarrasso Wyoming Dept of Health urges masks and caution.
+. https://t.co/KTxyoFN3Ns"," u ApHm 
+",at
+Political,maga,1300077419638988800,./data_Political/maga/tweets5/EgrNg8pU0AAuAqk.jpg,./annotation_data/Political/EgrNg8pU0AAuAqk.jpg,0.0,"@SenJohnBarrasso Wyoming Dept of Health urges masks and caution.
 
 Dr. barASSo denies the science, throwing caution (and #coronavirus) to the wind.
 
@@ -89,107 +119,145 @@ Quack!
 
 #BidenHarris2020 #TrumpFailure
 #TrumpIsUnwell #maga #kag #Resist #gop #BidenVoters #Biden
-#Trump https://t.co/oxZseoNSZc https://t.co/1aaofYKTf6", O SchittsCreek ITS FUNNY BECAUSE ,na ITS FUNNY BECAUSE
-Political,Trump2020,1299645495736893441,./data_Political/Trump2020/tweets5/EglEqbsU8AEIqZ6.png,./annotation_data/Political/EglEqbsU8AEIqZ6.png,,"Lead generation marketing is the most important in any marketing arsenal. If you are own a business then you must need high quality leads to increases your sales. I shall assist you to find the right leads. 
+#Trump https://t.co/oxZseoNSZc https://t.co/1aaofYKTf6"," O SchittsCreek ITS FUNNY BECAUSE 
+",na ITS FUNNY BECAUSE
+Political,Trump2020,1299645495736893441,./data_Political/Trump2020/tweets5/EglEqbsU8AEIqZ6.png,./annotation_data/Political/EglEqbsU8AEIqZ6.png,2.0,"Lead generation marketing is the most important in any marketing arsenal. If you are own a business then you must need high quality leads to increases your sales. I shall assist you to find the right leads. 
 https://t.co/XF8R4vBYAm
-#leadgeneration #digitalmarketing #Trump2020 https://t.co/lRpt6Fck9y", B2B Leads Generation Prospect List Building Business leads e ing Targeted Leads Email listing 100 Grunted Exclusively on Fiverr ,Generation Prospect List er Business EME alert ae
-Political,maga,1295791990718832640,./data_Political/maga/tweets3/EfuTeAuWsAAeAwr.jpg,./annotation_data/Political/EfuTeAuWsAAeAwr.jpg,,"@MadeInMexLoveUS @billnkate @DanScavino And just like that the narrative changes. #Chameleon
-#QAnonCult #MAGA #RacistInChief https://t.co/cjcMhagL3X", Why are we having all these people from shithole countries come here TRUMP WHITE HOUSE ,ae me all these people from come here TRUMP WHITE HOUSE
-Boomer,karen,1292921905025101826,./data_Boomer/karen/tweets2/EfFhnfsXgAUtXxN.jpg,./annotation_data/Boomer/EfFhnfsXgAUtXxN.jpg,,@TomiLahren is the new #KAREN for CON-SERVATISM https://t.co/b3Tvu1n4Y9, MELTDOWN ,
-AsianHate,ChinaVirus,1300209632821088256,./data_AsianHate/ChinaVirus/tweets5/EgtEbQgWoAMTqJV.jpg,./annotation_data/AsianHate/EgtEbQgWoAMTqJV.jpg,,@debragarrett @tedwheeler @realDonaldTrump @USNationalGuard That was the plan: Democrats release their domestic terrorists to run amok and blamed Trump for it just like #CCP unleashed their #ChinaVirus and they blamed Trump for the deaths. Dems keep trying to bring Trump down regardless of consequences because they basically hate America. https://t.co/heflaOKlSs, BRMCO Americans for Limited Government O2020 Creatorscom TRUMPS FAULT MURDER RATE RISING DEBLASIO COVID CRIMINAL RELEASE PROGRAM GUN VIOLENCE RISING RISING CRIME ,FAULT oe ey ae AD ae
-Mask,WearAMask,1290354988942872576,./data_Mask/WearAMask/tweets1/EehDBWCX0AEN-EZ.jpg,./annotation_data/Mask/EehDBWCX0AEN-EZ.jpg,,"Be a Prince, #wearamask. 
+#leadgeneration #digitalmarketing #Trump2020 https://t.co/lRpt6Fck9y"," B2B Leads Generation Prospect List Building Business leads e ing Targeted Leads Email listing 100 Grunted Exclusively on Fiverr 
+",Generation Prospect List er Business EME alert ae
+Political,maga,1295791990718832640,./data_Political/maga/tweets3/EfuTeAuWsAAeAwr.jpg,./annotation_data/Political/EfuTeAuWsAAeAwr.jpg,1.0,"@MadeInMexLoveUS @billnkate @DanScavino And just like that the narrative changes. #Chameleon
+#QAnonCult #MAGA #RacistInChief https://t.co/cjcMhagL3X"," Why are we having all these people from shithole countries come here TRUMP WHITE HOUSE 
+",ae me all these people from come here TRUMP WHITE HOUSE
+Boomer,karen,1292921905025101826,./data_Boomer/karen/tweets2/EfFhnfsXgAUtXxN.jpg,./annotation_data/Boomer/EfFhnfsXgAUtXxN.jpg,1.0,@TomiLahren is the new #KAREN for CON-SERVATISM https://t.co/b3Tvu1n4Y9," MELTDOWN 
+",
+AsianHate,ChinaVirus,1300209632821088256,./data_AsianHate/ChinaVirus/tweets5/EgtEbQgWoAMTqJV.jpg,./annotation_data/AsianHate/EgtEbQgWoAMTqJV.jpg,0.0,@debragarrett @tedwheeler @realDonaldTrump @USNationalGuard That was the plan: Democrats release their domestic terrorists to run amok and blamed Trump for it just like #CCP unleashed their #ChinaVirus and they blamed Trump for the deaths. Dems keep trying to bring Trump down regardless of consequences because they basically hate America. https://t.co/heflaOKlSs," BRMCO Americans for Limited Government O2020 Creatorscom TRUMPS FAULT MURDER RATE RISING DEBLASIO COVID CRIMINAL RELEASE PROGRAM GUN VIOLENCE RISING RISING CRIME 
+",FAULT oe ey ae AD ae
+Mask,WearAMask,1290354988942872576,./data_Mask/WearAMask/tweets1/EehDBWCX0AEN-EZ.jpg,./annotation_data/Mask/EehDBWCX0AEN-EZ.jpg,2.0,"Be a Prince, #wearamask. 
 😷
-#maskmonday #prince #iwoulddie4u #librarybook #librariesrock https://t.co/zmt7jh8djN", Im a Prince scholar and this is the ultimate Prince book QUESTLOVE I WOULD DIE 4 U WHY PRINCE BECAME AN ICON CE TOUR ,ae LOVE Prince book Quest ce scholar and this is the ne WOULD wi am ad FA ore Ne fi an ait car al pit ie an ti An
-Boomer,trumpliesamericansdie,1295040873504350209,./data_Boomer/trumpliesamericansdie/tweets3/EfjozmfXsAEv8eP.jpg,./annotation_data/Boomer/EfjozmfXsAEv8eP.jpg,,@HKrassenstein Jason Miller Lied?!....#TrumpSyncophant #TrumpLiesAmericansDie https://t.co/L8rzxeKp1N, I DID NOT SEE THAT COMING AT ALL ,
-Political,Trump2020,1289584882448924672,./data_Political/Trump2020/tweets1/EeWGnORUEAIeIlP.png,./annotation_data/Political/EeWGnORUEAIeIlP.png,,"Unisex American Flag Tee White shirt
+#maskmonday #prince #iwoulddie4u #librarybook #librariesrock https://t.co/zmt7jh8djN"," Im a Prince scholar and this is the ultimate Prince book QUESTLOVE I WOULD DIE 4 U WHY PRINCE BECAME AN ICON CE TOUR 
+",ae LOVE Prince book Quest ce scholar and this is the ne WOULD wi am ad FA ore Ne fi an ait car al pit ie an ti An
+Boomer,trumpliesamericansdie,1295040873504350209,./data_Boomer/trumpliesamericansdie/tweets3/EfjozmfXsAEv8eP.jpg,./annotation_data/Boomer/EfjozmfXsAEv8eP.jpg,0.0,@HKrassenstein Jason Miller Lied?!....#TrumpSyncophant #TrumpLiesAmericansDie https://t.co/L8rzxeKp1N," I DID NOT SEE THAT COMING AT ALL 
+",
+Political,Trump2020,1289584882448924672,./data_Political/Trump2020/tweets1/EeWGnORUEAIeIlP.png,./annotation_data/Political/EeWGnORUEAIeIlP.png,2.0,"Unisex American Flag Tee White shirt
 Order product here: https://t.co/VP9DI1e4KD
 #trump2020
 #Q
 #thinblueline
-#backtheblue https://t.co/mjwujIJe1Q", EST 2019 PDDEDE TRUMP  ,Ta ah linn Vas we
-Mask,masks,1290782087721750529,./data_Mask/masks/tweets1/EenHddHXkAMCerX.jpg,./annotation_data/Mask/EenHddHXkAMCerX.jpg,,"✨🃏🎭🎉⚜👑⚜🎉🎭🃏✨
+#backtheblue https://t.co/mjwujIJe1Q"," EST 2019 PDDEDE TRUMP  
+",Ta ah linn Vas we
+Mask,masks,1290782087721750529,./data_Mask/masks/tweets1/EenHddHXkAMCerX.jpg,./annotation_data/Mask/EenHddHXkAMCerX.jpg,2.0,"✨🃏🎭🎉⚜👑⚜🎉🎭🃏✨
  #MardiGras #Masks #Art #NOLA #Gifts 
 #shoppingonline Check for daily #discount #sale #couponcode #gifts #giftideas #giftsforhim #giftsforher #shopping #holidays #Celebrations
 🌏#WorldWide #shipping 🌏
 👉 #Free #Personalization 👈
-https://t.co/wTzZCQJpQq https://t.co/IaP0dTA3BC", She Mari Gtas Sift Stoe Mard Gras Keep Calm and Mardi d Gras Mar Sras MaSaal ,ae Mi ra
-Immigration,cdnpoli,1296429423927885824,./data_Immigration/cdnpoli/tweets3/Ef3XsJ1XgAERMyD.jpg,./annotation_data/Immigration/Ef3XsJ1XgAERMyD.jpg,,"The same journalists, politicians, political pundits that claimed Pierre Poilievre would be a great Prime Minister claim that Chrystia Freeland is not qualified to be the Minister of Finance! 🙄
+https://t.co/wTzZCQJpQq https://t.co/IaP0dTA3BC"," She Mari Gtas Sift Stoe Mard Gras Keep Calm and Mardi d Gras Mar Sras MaSaal 
+",ae Mi ra
+Immigration,cdnpoli,1296429423927885824,./data_Immigration/cdnpoli/tweets3/Ef3XsJ1XgAERMyD.jpg,./annotation_data/Immigration/Ef3XsJ1XgAERMyD.jpg,1.0,"The same journalists, politicians, political pundits that claimed Pierre Poilievre would be a great Prime Minister claim that Chrystia Freeland is not qualified to be the Minister of Finance! 🙄
 
-#cdnpoli https://t.co/eCeR55cnST", Harvard Career Politician Oxford Yells a lot Rhodes YesNo Scholar question specialist Best Selling TrudeauTriggered Author meme machine Speaks 5 Languanges Crayon economist Fighter Donk ,Career Politician lot Ne Scholar question specialist Best Selling bate rel machine ist Crayon aS
-Mask,WearYourMask,1297927856543203331,./data_Mask/WearYourMask/tweets4/EgMo80qXgAAKIid.jpg,./annotation_data/Mask/EgMo80qXgAAKIid.jpg,,"First day of classes! 
+#cdnpoli https://t.co/eCeR55cnST"," Harvard Career Politician Oxford Yells a lot Rhodes YesNo Scholar question specialist Best Selling TrudeauTriggered Author meme machine Speaks 5 Languanges Crayon economist Fighter Donk 
+",Career Politician lot Ne Scholar question specialist Best Selling bate rel machine ist Crayon aS
+Mask,WearYourMask,1297927856543203331,./data_Mask/WearYourMask/tweets4/EgMo80qXgAAKIid.jpg,./annotation_data/Mask/EgMo80qXgAAKIid.jpg,2.0,"First day of classes! 
 
 It's an exciting and interesting new semester. We hope you all have a safe and successful school year!
 
-Make sure to #WearYourMask ! https://t.co/NctAko89Nw", BK TO SCHOOL SEMO ,
-Vaccine,CoronavirusVaccine,1294542323922153478,./data_Vaccine/CoronavirusVaccine/tweets3/EfcjYXaWoAAsomK.jpg,./annotation_data/Vaccine/EfcjYXaWoAAsomK.jpg,,"▪️What you need to know about Coronavirus!
+Make sure to #WearYourMask ! https://t.co/NctAko89Nw"," BK TO SCHOOL SEMO 
+",
+Vaccine,CoronavirusVaccine,1294542323922153478,./data_Vaccine/CoronavirusVaccine/tweets3/EfcjYXaWoAAsomK.jpg,./annotation_data/Vaccine/EfcjYXaWoAAsomK.jpg,2.0,"▪️What you need to know about Coronavirus!
 
 👉🏻Find out more:
 🌐https://t.co/yGynjmdeAL
 
-#Beautiful #beautytips #beautytipjar #COVIDー19 #CoronavirusVaccine #coronavirus #bbnaijalockdown2020 https://t.co/oR13AJuECp", Reouly s fer the tiy k Seul What You Need to Know About CORONAVIRUS Covid19 It is transmitted Coughing Sneezing Close personal contact Touching an object then touching your mouth nose eyes Symptoms IP JAR BRAUTE Fever Cough Shortness of Breath Severe Illness tenuly W ,What You Need to Know About Sneezing Close personal contact TA Touching an object then touching your mouth nose UP Fever Cough Shortness of Breath the Severe Illness
-Immigration,cdnpoli,1297880755339657219,./data_Immigration/cdnpoli/tweets4/EgL95GpWAAEiIUU.jpg,./annotation_data/Immigration/EgL95GpWAAEiIUU.jpg,,"Are you looking for someone who can create State of the Art, Astonising, Stunning Website for your Business feel free to contact me.
+#Beautiful #beautytips #beautytipjar #COVIDー19 #CoronavirusVaccine #coronavirus #bbnaijalockdown2020 https://t.co/oR13AJuECp"," Reouly s fer the tiy k Seul What You Need to Know About CORONAVIRUS Covid19 It is transmitted Coughing Sneezing Close personal contact Touching an object then touching your mouth nose eyes Symptoms IP JAR BRAUTE Fever Cough Shortness of Breath Severe Illness tenuly W 
+",What You Need to Know About Sneezing Close personal contact TA Touching an object then touching your mouth nose UP Fever Cough Shortness of Breath the Severe Illness
+Immigration,cdnpoli,1297880755339657219,./data_Immigration/cdnpoli/tweets4/EgL95GpWAAEiIUU.jpg,./annotation_data/Immigration/EgL95GpWAAEiIUU.jpg,2.0,"Are you looking for someone who can create State of the Art, Astonising, Stunning Website for your Business feel free to contact me.
 https://t.co/30wasURLHU
-#elementor #MondayMotivation #JaredIsEvil #mondaythoughts #MondayVibes #qanda #aflpiesroos #4corners #mediawatch #cdnpoli https://t.co/F5wW2s1tcI", Browse our Blog THE TECHNOLOGY SKILL PLATFORM IE elementor Python Devekopment Java Sm Master T frnun rlanturya e lakung t erleed pot Fed d How to get started Responsive WordPress Website  Landing pages Latest Articles Fr Latest Articles From Health Tips ELLO httpswwwfiverrcomiamusmankazmi Cek Ch S 100 2000 10 ,ME PRO Responsive Landing
-Vaccine,VaccinesWork,1292845663311425536,./data_Vaccine/VaccinesWork/tweets2/EeR8qNPXYAEXvW6.png,./annotation_data/Vaccine/EeR8qNPXYAEXvW6.png,,"Vaccines are safe for you and your family, and they are effective at preventing diseases, such as pertussis and measles. #VaccinesWork #NationalImmunizationAwarenessMonth #IVax2Protect https://t.co/4maA0AnZjD", Vaccines are safe and effective at preventing serious diseases National Immunization Awareness Month ,are safe and effective NA serious Awareness Month
-AsianHate,wuhanvirus,1290040459125854209,./data_AsianHate/wuhanvirus/tweets1/Eeck9RTWsAcwLmW.jpg,./annotation_data/AsianHate/Eeck9RTWsAcwLmW.jpg,,"@Ktsimmi @TCA63 @WCVB That’s what matters! Not asymptomatic cases! 🙄 It’s quite elementary that DEATHS &amp; HOSPITALIZATIONS matter! Only 406 of 7M residents hospitalized NOW. #WuhanVirus All-time low was last week @ 347! It’s simple math, FFS! 🙄🦠😷 https://t.co/IVWwLLUrz8", WHOMP WHOMP ,ra Se
-Political,trumpvirus,1297221629421006849,./data_Political/trumpvirus/tweets4/EgCoMmMXkAIQq8e.jpg,./annotation_data/Political/EgCoMmMXkAIQq8e.jpg,,@realDonaldTrump Weird. Last I heard...you’re the occupier blackmailing governors with taxpayer money. You’re the reason #TrumpVirus death toll is climbing to insane numbers. YOU. Trump is still recruiting. DON’T SiGN UP. https://t.co/fs7fzQlR61, I WANTYOU TO DIE for our ECONOMY OPEN AMERICA TODAY eTHOocOLuas OeTGLNYC ,TO DIE for our ECONOMY OPEN TODAY
-Vaccine,CoronavirusVaccine,1295364772632735746,./data_Vaccine/CoronavirusVaccine/tweets3/EfoPYeaWkAMaOMj.jpg,./annotation_data/Vaccine/EfoPYeaWkAMaOMj.jpg,,"Whole world after month of corona vaccine 
-#CoronaUpdatesInIndia #CoronavirusVaccine https://t.co/TdDlAEjhFk", Perwin Kunwar ,Or Per Ce wert eel
-Mask,facemask,1292680745421434881,./data_Mask/facemask/tweets2/EfCGQdhUEAEG2wt.jpg,./annotation_data/Mask/EfCGQdhUEAEG2wt.jpg,,"10Aug2020: When I saw this photo showing mandatory use of FaceMask in July 2020, #FaceMask &amp; #FaceShield in August, #MedicalUniform w/ #PhysicalProtectiveEquipment #PPE in September, &amp;  #AustronautUniform in October, I laughed. 🤓 #COVID19Pandemic #NewNormal #Travel #Backpacking https://t.co/zN21I7OW8P", When I saw this photo I laughed out loud Face Shie Dret Spiac JULY Ast September October ,When saw this photo out loud Face Sar en
-AsianHate,chinesevirus,1292833700317663232,./data_AsianHate/chinesevirus/tweets2/EfERZBwWoAM4QzU.jpg,./annotation_data/AsianHate/EfERZBwWoAM4QzU.jpg,,#China and #ChineseVirus are now controlling the world economies and BOTH are out of control... @Swamy39 https://t.co/kXhPcNZE5E, ht Maybe thats a question you should ask China ,Maybe thats question you should ask China
-AsianHate,wuhanvirus,1296446968835776513,./data_AsianHate/wuhanvirus/tweets3/Ef3npREUMAAQaP9.jpg,./annotation_data/AsianHate/Ef3npREUMAAQaP9.jpg,,"The Hong Kong gov is paving the wave for mass surveillance! This is worse than national security law.
+#elementor #MondayMotivation #JaredIsEvil #mondaythoughts #MondayVibes #qanda #aflpiesroos #4corners #mediawatch #cdnpoli https://t.co/F5wW2s1tcI"," Browse our Blog THE TECHNOLOGY SKILL PLATFORM IE elementor Python Devekopment Java Sm Master T frnun rlanturya e lakung t erleed pot Fed d How to get started Responsive WordPress Website  Landing pages Latest Articles Fr Latest Articles From Health Tips ELLO httpswwwfiverrcomiamusmankazmi Cek Ch S 100 2000 10 
+",ME PRO Responsive Landing
+Vaccine,VaccinesWork,1292845663311425536,./data_Vaccine/VaccinesWork/tweets2/EeR8qNPXYAEXvW6.png,./annotation_data/Vaccine/EeR8qNPXYAEXvW6.png,2.0,"Vaccines are safe for you and your family, and they are effective at preventing diseases, such as pertussis and measles. #VaccinesWork #NationalImmunizationAwarenessMonth #IVax2Protect https://t.co/4maA0AnZjD"," Vaccines are safe and effective at preventing serious diseases National Immunization Awareness Month 
+",are safe and effective NA serious Awareness Month
+AsianHate,wuhanvirus,1290040459125854209,./data_AsianHate/wuhanvirus/tweets1/Eeck9RTWsAcwLmW.jpg,./annotation_data/AsianHate/Eeck9RTWsAcwLmW.jpg,0.0,"@Ktsimmi @TCA63 @WCVB That’s what matters! Not asymptomatic cases! 🙄 It’s quite elementary that DEATHS &amp; HOSPITALIZATIONS matter! Only 406 of 7M residents hospitalized NOW. #WuhanVirus All-time low was last week @ 347! It’s simple math, FFS! 🙄🦠😷 https://t.co/IVWwLLUrz8"," WHOMP WHOMP 
+",ra Se
+Political,trumpvirus,1297221629421006849,./data_Political/trumpvirus/tweets4/EgCoMmMXkAIQq8e.jpg,./annotation_data/Political/EgCoMmMXkAIQq8e.jpg,1.0,@realDonaldTrump Weird. Last I heard...you’re the occupier blackmailing governors with taxpayer money. You’re the reason #TrumpVirus death toll is climbing to insane numbers. YOU. Trump is still recruiting. DON’T SiGN UP. https://t.co/fs7fzQlR61," I WANTYOU TO DIE for our ECONOMY OPEN AMERICA TODAY eTHOocOLuas OeTGLNYC 
+",TO DIE for our ECONOMY OPEN TODAY
+Vaccine,CoronavirusVaccine,1295364772632735746,./data_Vaccine/CoronavirusVaccine/tweets3/EfoPYeaWkAMaOMj.jpg,./annotation_data/Vaccine/EfoPYeaWkAMaOMj.jpg,2.0,"Whole world after month of corona vaccine 
+#CoronaUpdatesInIndia #CoronavirusVaccine https://t.co/TdDlAEjhFk"," Perwin Kunwar 
+",Or Per Ce wert eel
+Mask,facemask,1292680745421434881,./data_Mask/facemask/tweets2/EfCGQdhUEAEG2wt.jpg,./annotation_data/Mask/EfCGQdhUEAEG2wt.jpg,1.0,"10Aug2020: When I saw this photo showing mandatory use of FaceMask in July 2020, #FaceMask &amp; #FaceShield in August, #MedicalUniform w/ #PhysicalProtectiveEquipment #PPE in September, &amp;  #AustronautUniform in October, I laughed. 🤓 #COVID19Pandemic #NewNormal #Travel #Backpacking https://t.co/zN21I7OW8P"," When I saw this photo I laughed out loud Face Shie Dret Spiac JULY Ast September October 
+",When saw this photo out loud Face Sar en
+AsianHate,chinesevirus,1292833700317663232,./data_AsianHate/chinesevirus/tweets2/EfERZBwWoAM4QzU.jpg,./annotation_data/AsianHate/EfERZBwWoAM4QzU.jpg,1.0,#China and #ChineseVirus are now controlling the world economies and BOTH are out of control... @Swamy39 https://t.co/kXhPcNZE5E," ht Maybe thats a question you should ask China 
+",Maybe thats question you should ask China
+AsianHate,wuhanvirus,1296446968835776513,./data_AsianHate/wuhanvirus/tweets3/Ef3npREUMAAQaP9.jpg,./annotation_data/AsianHate/Ef3npREUMAAQaP9.jpg,0.0,"The Hong Kong gov is paving the wave for mass surveillance! This is worse than national security law.
 
 @realDonaldTrump please sanction against all individuals and insitutions that advocate and implement citywide #WuhanVirus testing in HK.
 
-#MedicalFascism #Covid1984 https://t.co/15P1o8YdC9 https://t.co/K4gkdztpYh", Calm down Were only doing fascism until we got all your dna data Hong Kong gov imgfipcom quickmncom ,Calm down Were only doing fascism until we got all your data
-Boomer,trumpliesamericansdie,1297525088816975873,./data_Boomer/trumpliesamericansdie/tweets4/EgG8LubXkAEafqR.jpg,./annotation_data/Boomer/EgG8LubXkAEafqR.jpg,,@realDonaldTrump Once again....#TrumpLiesAmericansDie #BidenHarris2020 https://t.co/uoc44XBUTH, GIVE ME A BREAK ,GIVE ME
-Boomer,caresact,1293932966264045569,./data_Boomer/caresact/tweets2/EfT5LM3XgAETuQN.jpg,./annotation_data/Boomer/EfT5LM3XgAETuQN.jpg,,"Local Minnesotan governments around the state are hustling to spend their share of an $841 million COVID-19 aid package from the federal CARES Act.
+#MedicalFascism #Covid1984 https://t.co/15P1o8YdC9 https://t.co/K4gkdztpYh"," Calm down Were only doing fascism until we got all your dna data Hong Kong gov imgfipcom quickmncom 
+",Calm down Were only doing fascism until we got all your data
+Boomer,trumpliesamericansdie,1297525088816975873,./data_Boomer/trumpliesamericansdie/tweets4/EgG8LubXkAEafqR.jpg,./annotation_data/Boomer/EgG8LubXkAEafqR.jpg,0.0,@realDonaldTrump Once again....#TrumpLiesAmericansDie #BidenHarris2020 https://t.co/uoc44XBUTH," GIVE ME A BREAK 
+",GIVE ME
+Boomer,caresact,1293932966264045569,./data_Boomer/caresact/tweets2/EfT5LM3XgAETuQN.jpg,./annotation_data/Boomer/EfT5LM3XgAETuQN.jpg,2.0,"Local Minnesotan governments around the state are hustling to spend their share of an $841 million COVID-19 aid package from the federal CARES Act.
 
 To access the article, visit https://t.co/YSeig2YhDV
 
-#SBDC #OneMinnesota #CARESACT https://t.co/00XP2k9clX", MINNPOST How Local Governments are Spending Their Share of MNs 841 Million in Federal COVID19 Aid AMERICAS Shared by the WC SBDC SBDC MINNESOTA ,How Local are Spending Their Share of Million in Federal Aid Tae TIT Ra anon eS os
-AsianHate,chinesevirus,1298919687154065408,./data_AsianHate/chinesevirus/tweets4/Egawj1xVAAQdXA0.jpg,./annotation_data/AsianHate/Egawj1xVAAQdXA0.jpg,,"@globaltimesnews #India does not believe dealing with #Galwan traitor n expansionist #China who gave #ChineseVirus #Madein #WuhanLab
+#SBDC #OneMinnesota #CARESACT https://t.co/00XP2k9clX"," MINNPOST How Local Governments are Spending Their Share of MNs 841 Million in Federal COVID19 Aid AMERICAS Shared by the WC SBDC SBDC MINNESOTA 
+",How Local are Spending Their Share of Million in Federal Aid Tae TIT Ra anon eS os
+AsianHate,chinesevirus,1298919687154065408,./data_AsianHate/chinesevirus/tweets4/Egawj1xVAAQdXA0.jpg,./annotation_data/AsianHate/Egawj1xVAAQdXA0.jpg,1.0,"@globaltimesnews #India does not believe dealing with #Galwan traitor n expansionist #China who gave #ChineseVirus #Madein #WuhanLab
 #China hacked other NTN knowledge n belives in falsehood
 Time for #India 2sever all bilateral relations with #China untill all occupied lands r returned
-Jai Hind https://t.co/dDO4tUueNK", Sarvoday Foundation COTCHINA      Sarveday through Email  sarvo transparency Raigad egn Web wwwsa Afghanistan China COK 1 POK COK 2 bakistan     RECLAIM OCCUPIED LAND ,TI wun fin aes on
-Vaccine,CoronavirusVaccine,1293442337549373440,./data_Vaccine/CoronavirusVaccine/tweets2/EfM68z0U8AE4hDw.jpg,./annotation_data/Vaccine/EfM68z0U8AE4hDw.jpg,,@KremlinRussia_E  Putin taking orders of corona vaccine 😂😂 #RussianVaccine #CoronavirusVaccine #COVID @ashchanchlani #ashishchanchlani #wednesdaymorning https://t.co/Dwxgv6PApq, LOco ,wi Ai at As
-Political,Trump2020,1291411744934502400,./data_Political/Trump2020/tweets1/EewDftiXoAM9Pya.jpg,./annotation_data/Political/EewDftiXoAM9Pya.jpg,,"VOTE @DHarshbargerTN1 in the #TennesseePrimary today! Diana is a licensed pharmacist and ran a successful business for the past thirty years. She's just the conservative we need in congress!
+Jai Hind https://t.co/dDO4tUueNK"," Sarvoday Foundation COTCHINA      Sarveday through Email  sarvo transparency Raigad egn Web wwwsa Afghanistan China COK 1 POK COK 2 bakistan     RECLAIM OCCUPIED LAND 
+",TI wun fin aes on
+Vaccine,CoronavirusVaccine,1293442337549373440,./data_Vaccine/CoronavirusVaccine/tweets2/EfM68z0U8AE4hDw.jpg,./annotation_data/Vaccine/EfM68z0U8AE4hDw.jpg,2.0,@KremlinRussia_E  Putin taking orders of corona vaccine 😂😂 #RussianVaccine #CoronavirusVaccine #COVID @ashchanchlani #ashishchanchlani #wednesdaymorning https://t.co/Dwxgv6PApq," LOco 
+",wi Ai at As
+Political,Trump2020,1291411744934502400,./data_Political/Trump2020/tweets1/EewDftiXoAM9Pya.jpg,./annotation_data/Political/EewDftiXoAM9Pya.jpg,2.0,"VOTE @DHarshbargerTN1 in the #TennesseePrimary today! Diana is a licensed pharmacist and ran a successful business for the past thirty years. She's just the conservative we need in congress!
 
 https://t.co/Wp5lutYUiZ
 
-#republicanprimary #maga #trump2020 #tennessee https://t.co/gfaIehM9iL", TN 01 Diana Harshbarger ,mA ae
-AsianHate,CCPVirus,1290872154934763521,./data_AsianHate/CCPVirus/tweets1/EeoZYC-UYAA7NKp.jpg,./annotation_data/AsianHate/EeoZYC-UYAA7NKp.jpg,,"@Kate_OKeeffe @robert_spalding #WarRoomPandemic Dr. Li Meng Yan (M.D, PhD):Comparison of protein 3D structure, on the right is the link mechanism of ACE2 receptor and virus-artificial virus microorganism! biochemical weapon! #CCP_is_terrorist #CCPVirus  #virus #weapons https://t.co/Obv7F7c58C", Americas Vice Dr Li Meng Yan MD PhD WAR ROOM PANDEMIC TRUMP CONFRONTED WITH DIVIDED ELECTORATE PRESIDENT TRUMP MEETS WITH THE NATI ProAl ,om ea ie ES Voice velte Or ti Meng Yon TRUMP WITH DIVIDED ELECTORATE PRESIDENT TRUMP WITH THE
-Vaccine,CovidHoax,1292959052876611584,./data_Vaccine/CovidHoax/tweets2/EfGDaCNXkAQbN0d.jpg,./annotation_data/Vaccine/EfGDaCNXkAQbN0d.jpg,,"Pedophiles Now Control America - No Child is Safe from Medical Kidnapping
+#republicanprimary #maga #trump2020 #tennessee https://t.co/gfaIehM9iL"," TN 01 Diana Harshbarger 
+",mA ae
+AsianHate,CCPVirus,1290872154934763521,./data_AsianHate/CCPVirus/tweets1/EeoZYC-UYAA7NKp.jpg,./annotation_data/AsianHate/EeoZYC-UYAA7NKp.jpg,0.0,"@Kate_OKeeffe @robert_spalding #WarRoomPandemic Dr. Li Meng Yan (M.D, PhD):Comparison of protein 3D structure, on the right is the link mechanism of ACE2 receptor and virus-artificial virus microorganism! biochemical weapon! #CCP_is_terrorist #CCPVirus  #virus #weapons https://t.co/Obv7F7c58C"," Americas Vice Dr Li Meng Yan MD PhD WAR ROOM PANDEMIC TRUMP CONFRONTED WITH DIVIDED ELECTORATE PRESIDENT TRUMP MEETS WITH THE NATI ProAl 
+",om ea ie ES Voice velte Or ti Meng Yon TRUMP WITH DIVIDED ELECTORATE PRESIDENT TRUMP WITH THE
+Vaccine,CovidHoax,1292959052876611584,./data_Vaccine/CovidHoax/tweets2/EfGDaCNXkAQbN0d.jpg,./annotation_data/Vaccine/EfGDaCNXkAQbN0d.jpg,1.0,"Pedophiles Now Control America - No Child is Safe from Medical Kidnapping
 
 Read the full story here: https://t.co/P0r4ZN88HZ
 
-#medicalkidnap #Plandemic #CovidHoax #ChildTrafficking #CPS #PizzaGate https://t.co/mIMiVzn9ur", Kidnapping Doctors Susan M Lamb Alice Whittier Newton Bethany Mohr Channing Petrak Deborah Lowen Stacy Wood Thomas Nancy Henderson Shannon L Thompson MaryFran Crosswell Amy Barton Verena Brown OFO Kathryn R Crowell Michelle T Chudow Roberta Hibbard Terra Nicole Frazier Matthew J Cox Carol Berkowitz ,aT maple yas Lam Nice Newton Mohr Lower Wood Ne ae me Con Carol Berkowitz
-Immigration,americafirst,1292442592081260544,./data_Immigration/americafirst/tweets2/Ee-trwKXsAAZogL.jpg,./annotation_data/Immigration/Ee-trwKXsAAZogL.jpg,,@PressSec @realDonaldTrump It's nice to see a politician who's doing what's best for America...#AmericaFirst https://t.co/c6Sguxg0Cz, THIS deserves a SLOW CLAP ,CLAP
-Political,trumpvirus,1300116495637385217,./data_Political/trumpvirus/tweets5/EgrxDytXsAAGpW9.jpg,./annotation_data/Political/EgrxDytXsAAGpW9.jpg,,Only flags flying are #TrumpIsis flags. The white domestic terrorist and @realDonaldTrump are what’s wrong in America! Where are the jobs-the healthcare-we are in a depression because of this morons inability to lead! #TrumpRiots #TrumpVirus #TrumpViolence enough #TrumpDeath https://t.co/SvwbV0yA4O https://t.co/i0ceLz5ncp, TRUMP TEXT TRUMP te 88022 Deyton Ohie MARE AMERICA GREAY AGAIN ,
-Immigration,liberals,1296581002735652864,./data_Immigration/liberals/tweets3/Ef5hjF8UcAE48ro.jpg,./annotation_data/Immigration/Ef5hjF8UcAE48ro.jpg,,Basically... #JoeBiden #JoeBidenKamalaHarris2020 #DemocraticNationalConvention #PEDOGATEISREAL #KamalaHarrisVP #Liberals #Democrats https://t.co/vWQXRcmV8P, Libs we just want leaders who support free healthcare and free college DNC Best I can do is an old retarded pedo and the Rachel Dolezal of cops ,we just want who support free and free college be at oe ay Best is an old retarded Do
-AsianHate,chinesevirus,1296375831972007936,./data_AsianHate/chinesevirus/tweets3/Ef2m2LDXgAIcTcc.jpg,./annotation_data/AsianHate/Ef2m2LDXgAIcTcc.jpg,,"@qNkqy528TsBZFZw Why you can't say #Nazi's #ConcentrationCamps is beautiful, Beautiful scenery of #Tibet serving #CCPProganda, in reality #CCP's Prison 
+#medicalkidnap #Plandemic #CovidHoax #ChildTrafficking #CPS #PizzaGate https://t.co/mIMiVzn9ur"," Kidnapping Doctors Susan M Lamb Alice Whittier Newton Bethany Mohr Channing Petrak Deborah Lowen Stacy Wood Thomas Nancy Henderson Shannon L Thompson MaryFran Crosswell Amy Barton Verena Brown OFO Kathryn R Crowell Michelle T Chudow Roberta Hibbard Terra Nicole Frazier Matthew J Cox Carol Berkowitz 
+",aT maple yas Lam Nice Newton Mohr Lower Wood Ne ae me Con Carol Berkowitz
+Immigration,americafirst,1292442592081260544,./data_Immigration/americafirst/tweets2/Ee-trwKXsAAZogL.jpg,./annotation_data/Immigration/Ee-trwKXsAAZogL.jpg,0.0,@PressSec @realDonaldTrump It's nice to see a politician who's doing what's best for America...#AmericaFirst https://t.co/c6Sguxg0Cz," THIS deserves a SLOW CLAP 
+",CLAP
+Political,trumpvirus,1300116495637385217,./data_Political/trumpvirus/tweets5/EgrxDytXsAAGpW9.jpg,./annotation_data/Political/EgrxDytXsAAGpW9.jpg,0.0,Only flags flying are #TrumpIsis flags. The white domestic terrorist and @realDonaldTrump are what’s wrong in America! Where are the jobs-the healthcare-we are in a depression because of this morons inability to lead! #TrumpRiots #TrumpVirus #TrumpViolence enough #TrumpDeath https://t.co/SvwbV0yA4O https://t.co/i0ceLz5ncp," TRUMP TEXT TRUMP te 88022 Deyton Ohie MARE AMERICA GREAY AGAIN 
+",
+Immigration,liberals,1296581002735652864,./data_Immigration/liberals/tweets3/Ef5hjF8UcAE48ro.jpg,./annotation_data/Immigration/Ef5hjF8UcAE48ro.jpg,1.0,Basically... #JoeBiden #JoeBidenKamalaHarris2020 #DemocraticNationalConvention #PEDOGATEISREAL #KamalaHarrisVP #Liberals #Democrats https://t.co/vWQXRcmV8P," Libs we just want leaders who support free healthcare and free college DNC Best I can do is an old retarded pedo and the Rachel Dolezal of cops 
+",we just want who support free and free college be at oe ay Best is an old retarded Do
+AsianHate,chinesevirus,1296375831972007936,./data_AsianHate/chinesevirus/tweets3/Ef2m2LDXgAIcTcc.jpg,./annotation_data/AsianHate/Ef2m2LDXgAIcTcc.jpg,0.0,"@qNkqy528TsBZFZw Why you can't say #Nazi's #ConcentrationCamps is beautiful, Beautiful scenery of #Tibet serving #CCPProganda, in reality #CCP's Prison 
 
-#FreeTibet #FreeHK #BoycottMadeInChina #BoycottHuawei #BoycottChineseApps #ChineseVirus #XiJinping #India #59chineseapps #PMModi #IntoTibet2020 https://t.co/gntD6bT2bC", NAT Freedom level 2018 100  most free Finlands 100 Canadas 99 Japan 96 Germany 94 France 90 Italy 89 US 86 S Korea 84 Brazil 78 India 77 Mexico 62 Nigeria 50 Turkeys 32 Russiaa 20 China14 Tibet between North Korea  Syria O US Freedom House TibetPeople ,ae at an io ran ora rea are ar an oes eon Ly al ean North Ge pare he US Freedom aa san bom Ey coo
-Political,maga,1292252442944393216,./data_Political/maga/tweets2/Ee6cdKXU8AEawah.jpg,./annotation_data/Political/Ee6cdKXU8AEawah.jpg,,#uspoli #Putin #Russia DOMINATES djt by @Patbagley https://t.co/mBzvSqxNrA   #uspolitics #bunkerboy 🇺🇸🇺🇸🇺🇸🇺🇸 #maga #kag #PersonWomanManCameraTv #insiders, THE SAUT LAKE TRIBUNE TAKING A KNEE ,oF me TAKING KNEE
-Political,Trump2020,1292897669250199552,./data_Political/Trump2020/tweets2/EfFLik1XoAgxBzh.jpg,./annotation_data/Political/EfFLik1XoAgxBzh.jpg,,"@FSUKXAZ @247Sports No, the democratic radical deep state Governors which are the same ones who dont have control of their cities and who are just wanting a shot as Joe Bidens VP pick are the ones causing all the hysteria. #Trump2020 landslide incoming. https://t.co/3LE31Obvt0", HIN1 Virus COVID 19  US CASES   US CASES  46 MILLION lo date 8120 608 MILLION  PANIC LEVEL   PANIC LEVEL  ZERO MASS HYSTERIA US CLOSED  CHINA BLAMED   TRUMP BLAMED  Which of these presidents gave a 37 Mil grant to Wuhan labs ,ad Virus COVID US US MILLION MIL ION Ta PANIC LEVEL PANIC LI ZERO aa Say eA onset TRUE BLAMED Which of these gave Mil grant to
-Immigration,refugees,1295266931537215488,./data_Immigration/refugees/tweets3/Efm2ZkdXkAAsjDf.jpg,./annotation_data/Immigration/Efm2ZkdXkAAsjDf.jpg,,"#Mondaymotivation
+#FreeTibet #FreeHK #BoycottMadeInChina #BoycottHuawei #BoycottChineseApps #ChineseVirus #XiJinping #India #59chineseapps #PMModi #IntoTibet2020 https://t.co/gntD6bT2bC"," NAT Freedom level 2018 100  most free Finlands 100 Canadas 99 Japan 96 Germany 94 France 90 Italy 89 US 86 S Korea 84 Brazil 78 India 77 Mexico 62 Nigeria 50 Turkeys 32 Russiaa 20 China14 Tibet between North Korea  Syria O US Freedom House TibetPeople 
+",ae at an io ran ora rea are ar an oes eon Ly al ean North Ge pare he US Freedom aa san bom Ey coo
+Political,maga,1292252442944393216,./data_Political/maga/tweets2/Ee6cdKXU8AEawah.jpg,./annotation_data/Political/Ee6cdKXU8AEawah.jpg,1.0,#uspoli #Putin #Russia DOMINATES djt by @Patbagley https://t.co/mBzvSqxNrA   #uspolitics #bunkerboy 🇺🇸🇺🇸🇺🇸🇺🇸 #maga #kag #PersonWomanManCameraTv #insiders," THE SAUT LAKE TRIBUNE TAKING A KNEE 
+",oF me TAKING KNEE
+Political,Trump2020,1292897669250199552,./data_Political/Trump2020/tweets2/EfFLik1XoAgxBzh.jpg,./annotation_data/Political/EfFLik1XoAgxBzh.jpg,1.0,"@FSUKXAZ @247Sports No, the democratic radical deep state Governors which are the same ones who dont have control of their cities and who are just wanting a shot as Joe Bidens VP pick are the ones causing all the hysteria. #Trump2020 landslide incoming. https://t.co/3LE31Obvt0"," HIN1 Virus COVID 19  US CASES   US CASES  46 MILLION lo date 8120 608 MILLION  PANIC LEVEL   PANIC LEVEL  ZERO MASS HYSTERIA US CLOSED  CHINA BLAMED   TRUMP BLAMED  Which of these presidents gave a 37 Mil grant to Wuhan labs 
+",ad Virus COVID US US MILLION MIL ION Ta PANIC LEVEL PANIC LI ZERO aa Say eA onset TRUE BLAMED Which of these gave Mil grant to
+Immigration,refugees,1295266931537215488,./data_Immigration/refugees/tweets3/Efm2ZkdXkAAsjDf.jpg,./annotation_data/Immigration/Efm2ZkdXkAAsjDf.jpg,2.0,"#Mondaymotivation
 
 An incredible story of @AlphonsoDavies from unimaginable real life struggles to global reckoning and fame.
 
 Read full story in bio!
 #AlphonsoDavies #Liberian #Canadian #bundesliga #focus #football #hardwork #refugees #immigrants 
 
-#Spidercomms get the job done! https://t.co/XHobCAhupm", Alphonso Davies From refugee camp to Bayern Munich Alphonso Davies humble beginnings are fuel for the inextinguishable spirit that got him to where he is today to Bayern Munich ,From refugee camp to on humble are fuel for the inextinguishable spirit that got him to where he is today to
-Political,trumpvirus,1295582822678306816,./data_Political/trumpvirus/tweets3/EfrVr8fWAAAtKsG.jpg,./annotation_data/Political/EfrVr8fWAAAtKsG.jpg,,@ericsslater @weijia Not to mention the distraction from #coronavirus as more Americans die because of his incompetence. #COVID19 #TrumpHasNoPlan #TuesdayMotivation #SaveTheUSPS #VoteBidenHarrisToSaveAmerica #Resist #TrumpVirus #Cult45 #QAnon #FauxNews #OANN https://t.co/Q4dy90JlMv, No amount of lies can hide his FAILURE ,Ca No amount of ide FAIL RE
-Political,Trump2020,1299080907836489736,./data_Political/Trump2020/tweets4/EgdDM3mUYAA9JQK.jpg,./annotation_data/Political/EgdDM3mUYAA9JQK.jpg,,"Says it all.
+#Spidercomms get the job done! https://t.co/XHobCAhupm"," Alphonso Davies From refugee camp to Bayern Munich Alphonso Davies humble beginnings are fuel for the inextinguishable spirit that got him to where he is today to Bayern Munich 
+",From refugee camp to on humble are fuel for the inextinguishable spirit that got him to where he is today to
+Political,trumpvirus,1295582822678306816,./data_Political/trumpvirus/tweets3/EfrVr8fWAAAtKsG.jpg,./annotation_data/Political/EfrVr8fWAAAtKsG.jpg,0.0,@ericsslater @weijia Not to mention the distraction from #coronavirus as more Americans die because of his incompetence. #COVID19 #TrumpHasNoPlan #TuesdayMotivation #SaveTheUSPS #VoteBidenHarrisToSaveAmerica #Resist #TrumpVirus #Cult45 #QAnon #FauxNews #OANN https://t.co/Q4dy90JlMv," No amount of lies can hide his FAILURE 
+",Ca No amount of ide FAIL RE
+Political,Trump2020,1299080907836489736,./data_Political/Trump2020/tweets4/EgdDM3mUYAA9JQK.jpg,./annotation_data/Political/EgdDM3mUYAA9JQK.jpg,0.0,"Says it all.
 #trump2020
 #maga
 #HidinBiden 
 #goodvsevil
-#AmericaFirst https://t.co/bYKZGziB5L", 1619 PROJECT ELECTION 2020 Est 76 NO ACCOUNTS FOR WHITE ylal ADVOCACY AL White People Have a Racist Subconscious Virus HIRE FEWER WHITES macys POLICE ACCSM HAS PACE NERE HINNEAPOLIS PORTLAND DEFUND CRY CHICAGO NTIFA TOLKE ALL WHITES ARG NAZIS GOD BLESS AMERICA ALL COPS AR BLM HOLY FINE PEOPLE HOAX BIDEN HARRIS TRUMP AMERICA FIRST AMERICA IS RACIST ,te tae Ni oN an pik ye ie te WIRD ie Se TRUMP
-Boomer,trumpliesamericansdie,1292646234625376256,./data_Boomer/trumpliesamericansdie/tweets2/EfBm5RdXgAExVBA.jpg,./annotation_data/Boomer/EfBm5RdXgAExVBA.jpg,,@RudyGiuliani Little @RudyGiuliani taking time in the #bunker with #bunkerbitchDonnie to play #RoyCohn games.  #AmericansKnowTheTruth #TrumpIsANationalDisgrace #TrumpLiesAmericansDie #TrumpIsANationalDisgrace #TrumpLiesEverytimeHeSpeaks https://t.co/6Cf7CejxiA, 924 ET WAIT LIVE ,al
-Political,Trump2020,1291423018850439174,./data_Political/Trump2020/tweets1/EewOYxfXsAAIcgK.jpg,./annotation_data/Political/EewOYxfXsAAIcgK.jpg,,"@NRA The #NYAG is going after your fiances not your #2ndAmendment rights, #Doofus. This is A State issue not Federal so #Trump2020 &amp; #Barr can't help. Wanna scare a rich guy? Just say #Audit. Now maybe needless #GunViolence can stop. #VoteBlue https://t.co/nMOJpUcsmm", ATH TRIGGERED ,So RED
-Mask,facemask,1295287278814732293,./data_Mask/facemask/tweets3/EfnI6iwWsAEJ__S.jpg,./annotation_data/Mask/EfnI6iwWsAEJ__S.jpg,,"Low Fade Fohawk.
+#AmericaFirst https://t.co/bYKZGziB5L"," 1619 PROJECT ELECTION 2020 Est 76 NO ACCOUNTS FOR WHITE ylal ADVOCACY AL White People Have a Racist Subconscious Virus HIRE FEWER WHITES macys POLICE ACCSM HAS PACE NERE HINNEAPOLIS PORTLAND DEFUND CRY CHICAGO NTIFA TOLKE ALL WHITES ARG NAZIS GOD BLESS AMERICA ALL COPS AR BLM HOLY FINE PEOPLE HOAX BIDEN HARRIS TRUMP AMERICA FIRST AMERICA IS RACIST 
+",te tae Ni oN an pik ye ie te WIRD ie Se TRUMP
+Boomer,trumpliesamericansdie,1292646234625376256,./data_Boomer/trumpliesamericansdie/tweets2/EfBm5RdXgAExVBA.jpg,./annotation_data/Boomer/EfBm5RdXgAExVBA.jpg,0.0,@RudyGiuliani Little @RudyGiuliani taking time in the #bunker with #bunkerbitchDonnie to play #RoyCohn games.  #AmericansKnowTheTruth #TrumpIsANationalDisgrace #TrumpLiesAmericansDie #TrumpIsANationalDisgrace #TrumpLiesEverytimeHeSpeaks https://t.co/6Cf7CejxiA," 924 ET WAIT LIVE 
+",al
+Political,Trump2020,1291423018850439174,./data_Political/Trump2020/tweets1/EewOYxfXsAAIcgK.jpg,./annotation_data/Political/EewOYxfXsAAIcgK.jpg,0.0,"@NRA The #NYAG is going after your fiances not your #2ndAmendment rights, #Doofus. This is A State issue not Federal so #Trump2020 &amp; #Barr can't help. Wanna scare a rich guy? Just say #Audit. Now maybe needless #GunViolence can stop. #VoteBlue https://t.co/nMOJpUcsmm"," ATH TRIGGERED 
+",So RED
+Mask,facemask,1295287278814732293,./data_Mask/facemask/tweets3/EfnI6iwWsAEJ__S.jpg,./annotation_data/Mask/EfnI6iwWsAEJ__S.jpg,2.0,"Low Fade Fohawk.
 
 By Style Director Ram Gore.
 At @AKreationsIndia
@@ -197,20 +265,25 @@ At @AKreationsIndia
 Contact us on 7208999911 or 8976228999.
 Valet parking available.
 
-#LuxurySalon #AkreationsIndia #Safety #Precuations #Covid-19 #Hygiene #FaceMask #ClientSafety #CoronaPrecautions #HaircutforMen #MensGrooming https://t.co/dPIljCfOJ7", AK AKREATIONS BEFORE HAIR  BEYOND LUXURY SALON AFTER d t bl AK AK AKREATIONS AKREATIONS HAIR  BEYOND LUXURY SALON HAIR  BEYOND LUXURY SALON ,HAIR BEYOND LUXURY SALON Se Wy tad re ae err farce
-Mask,maskon,1299060724472389633,./data_Mask/maskon/tweets4/Egcw1YdXcAIAtB1.jpg,./annotation_data/Mask/Egcw1YdXcAIAtB1.jpg,,"#covid19zim update as of today
+#LuxurySalon #AkreationsIndia #Safety #Precuations #Covid-19 #Hygiene #FaceMask #ClientSafety #CoronaPrecautions #HaircutforMen #MensGrooming https://t.co/dPIljCfOJ7"," AK AKREATIONS BEFORE HAIR  BEYOND LUXURY SALON AFTER d t bl AK AK AKREATIONS AKREATIONS HAIR  BEYOND LUXURY SALON HAIR  BEYOND LUXURY SALON 
+",HAIR BEYOND LUXURY SALON Se Wy tad re ae err farce
+Mask,maskon,1299060724472389633,./data_Mask/maskon/tweets4/Egcw1YdXcAIAtB1.jpg,./annotation_data/Mask/Egcw1YdXcAIAtB1.jpg,2.0,"#covid19zim update as of today
 Zimbabwe recorded 10 deaths and 41 new cases
 Active cases have gone up to 1093
 9 recoveries have been recorded - 
 @MoHCCZim
-#TheFeedZW #MaskOn https://t.co/gURytsyspQ", Source  Ministry of Health  Child Care COVID19 Zim Update 27 August 2020 6292 Confirmed cases fO You Tube 5010 Recovered cases thefeedzw 1093 Active cases 189 Deaths THE FEED ZW If its nonessential we encourage everyone to Stay home and StopTheSpread COVID19 Zimbabwe ,Pee Loci Update August Confirmed Sok Clue Active TE en Bien Ce an
-Political,Election2020,1298611212016652289,./data_Political/Election2020/tweets4/EgWYAyAXoAE7x59.jpg,./annotation_data/Political/EgWYAyAXoAE7x59.jpg,,"@jimiuorio this by far is the funniest thing I’ve seen in a while...
- #MailInVoting #Election2020 #VoteByMail2020 https://t.co/BTtGrVVps3", THE POLITICAL PARTY WHO LOST 3300O EMAILS WANTS MAILIN VOTING imgflip com ,ba
-Boomer,karen,1297534797275959296,./data_Boomer/karen/tweets4/EgHFBWeXYAA6no4.jpg,./annotation_data/Boomer/EgHFBWeXYAA6no4.jpg,,"If you're out, be kind. Don't be a #Karen https://t.co/Yc1MLyi6zE", Church is over Time to go be a cunt to some poor food worker ifunnyco ,Church over ae ae Time to go to some poor food worker
-Political,Election2020,1298857440432324609,./data_Political/Election2020/tweets4/EgZ3E88X0AE4nYL.jpg,./annotation_data/Political/EgZ3E88X0AE4nYL.jpg,,"Could #Democrats and the #GOP come together during  #Election2020 to honor #heroes &amp; #martyrs for a free #Cuba?
+#TheFeedZW #MaskOn https://t.co/gURytsyspQ"," Source  Ministry of Health  Child Care COVID19 Zim Update 27 August 2020 6292 Confirmed cases fO You Tube 5010 Recovered cases thefeedzw 1093 Active cases 189 Deaths THE FEED ZW If its nonessential we encourage everyone to Stay home and StopTheSpread COVID19 Zimbabwe 
+",Pee Loci Update August Confirmed Sok Clue Active TE en Bien Ce an
+Political,Election2020,1298611212016652289,./data_Political/Election2020/tweets4/EgWYAyAXoAE7x59.jpg,./annotation_data/Political/EgWYAyAXoAE7x59.jpg,0.0,"@jimiuorio this by far is the funniest thing I’ve seen in a while...
+ #MailInVoting #Election2020 #VoteByMail2020 https://t.co/BTtGrVVps3"," THE POLITICAL PARTY WHO LOST 3300O EMAILS WANTS MAILIN VOTING imgflip com 
+",ba
+Boomer,karen,1297534797275959296,./data_Boomer/karen/tweets4/EgHFBWeXYAA6no4.jpg,./annotation_data/Boomer/EgHFBWeXYAA6no4.jpg,1.0,"If you're out, be kind. Don't be a #Karen https://t.co/Yc1MLyi6zE"," Church is over Time to go be a cunt to some poor food worker ifunnyco 
+",Church over ae ae Time to go to some poor food worker
+Political,Election2020,1298857440432324609,./data_Political/Election2020/tweets4/EgZ3E88X0AE4nYL.jpg,./annotation_data/Political/EgZ3E88X0AE4nYL.jpg,0.0,"Could #Democrats and the #GOP come together during  #Election2020 to honor #heroes &amp; #martyrs for a free #Cuba?
 https://t.co/vNtqFHDmgv
-@SenateDems @SenateGOP @HouseGOP @HouseDemocrats  #CubaPorLaVida #CubaLibre https://t.co/GEGiWLQ2oe", Toast with a Real Cuba Libre Remember the Bay of Pigs Brigade 2506 heroes ,Fore FE oR Aes Ce Brat
-AsianHate,wuhanvirus,1297988934056718338,./data_AsianHate/wuhanvirus/tweets4/EgNiDrFXsAQ0PXX.jpg,./annotation_data/AsianHate/EgNiDrFXsAQ0PXX.jpg,,"Cargill meat packing plant closure: #COVID19 outbreak among foreign workers tops 500 cases
+@SenateDems @SenateGOP @HouseGOP @HouseDemocrats  #CubaPorLaVida #CubaLibre https://t.co/GEGiWLQ2oe"," Toast with a Real Cuba Libre Remember the Bay of Pigs Brigade 2506 heroes 
+",Fore FE oR Aes Ce Brat
+AsianHate,wuhanvirus,1297988934056718338,./data_AsianHate/wuhanvirus/tweets4/EgNiDrFXsAQ0PXX.jpg,./annotation_data/AsianHate/EgNiDrFXsAQ0PXX.jpg,1.0,"Cargill meat packing plant closure: #COVID19 outbreak among foreign workers tops 500 cases
 by #RebelNews - 23 Apr 2020
 
 new epicentre in Western #Canada
@@ -221,71 +294,98 @@ VID https://t.co/AqRBR1fl3w
 
 #CoronaVirus #WuhanVirus  #CCPVirus
 
-qt-covid19-vids-012 by #BorderObserver https://t.co/c5OLFN0Hq1", THIRD WORLD Cargill MEAT FACTORY ,THIRD WORLD
-Mask,WearAMask,1297757456060178434,./data_Mask/WearAMask/tweets4/EgKPhqqVoAASzbf.jpg,./annotation_data/Mask/EgKPhqqVoAASzbf.jpg,,"@TheSWPrincess @romanticskeptc @IDreamOfHamill @starwars @cwebbonline @DebbieDoesTwitt @DHStokyo @jomareewade @meg_Y12 @AryaKicksButt @Sky_Lee_1 Tired of people who refuse to wear masks?
+qt-covid19-vids-012 by #BorderObserver https://t.co/c5OLFN0Hq1"," THIRD WORLD Cargill MEAT FACTORY 
+",THIRD WORLD
+Mask,WearAMask,1297757456060178434,./data_Mask/WearAMask/tweets4/EgKPhqqVoAASzbf.jpg,./annotation_data/Mask/EgKPhqqVoAASzbf.jpg,0.0,"@TheSWPrincess @romanticskeptc @IDreamOfHamill @starwars @cwebbonline @DebbieDoesTwitt @DHStokyo @jomareewade @meg_Y12 @AryaKicksButt @Sky_Lee_1 Tired of people who refuse to wear masks?
 
-Share your best mask memes! #MaskUp #WearAMask #MasksOn https://t.co/NevRTvonsF", BidenHarris 2020 vwheato ,
-Mask,maskssavelives,1291045857769422849,./data_Mask/maskssavelives/tweets1/Eeq3BP2XgAIlZyf.jpg,./annotation_data/Mask/Eeq3BP2XgAIlZyf.jpg,,"#Todayin #NewJersey #CoronaVirusUpdates #COVID19 #COVID #COVIDー19 
+Share your best mask memes! #MaskUp #WearAMask #MasksOn https://t.co/NevRTvonsF"," BidenHarris 2020 vwheato 
+",
+Mask,maskssavelives,1291045857769422849,./data_Mask/maskssavelives/tweets1/Eeq3BP2XgAIlZyf.jpg,./annotation_data/Mask/Eeq3BP2XgAIlZyf.jpg,2.0,"#Todayin #NewJersey #CoronaVirusUpdates #COVID19 #COVID #COVIDー19 
 
 After yesterdays storm: 🤔😰
 
-#MaskUp #MaskUpAmerica #MasksSaveLives https://t.co/tXwdhmlHaS", New Jersey COVID19 Numbers Total Deaths 13989 New Deaths 8 Total Probable Deaths 1853 LTH CREATES ECON Learn more at covid19njgov 18 THE GREAT ,al Pit tie New Jersey Total New Bon Total Probable Learn more at
-Boomer,trumpliesamericansdie,1293702373869854720,./data_Boomer/trumpliesamericansdie/tweets2/EfQncvDXYAAm_u8.jpg,./annotation_data/Boomer/EfQncvDXYAAm_u8.jpg,,"@realDonaldTrump @foxandfriends @MariaBartiromo #Kamala OWNED #Trump with this line! She'll continue to stand up to #RacistTrump and call out his #LiesLiesLies cuz #TruthMatters !!!
+#MaskUp #MaskUpAmerica #MasksSaveLives https://t.co/tXwdhmlHaS"," New Jersey COVID19 Numbers Total Deaths 13989 New Deaths 8 Total Probable Deaths 1853 LTH CREATES ECON Learn more at covid19njgov 18 THE GREAT 
+",al Pit tie New Jersey Total New Bon Total Probable Learn more at
+Boomer,trumpliesamericansdie,1293702373869854720,./data_Boomer/trumpliesamericansdie/tweets2/EfQncvDXYAAm_u8.jpg,./annotation_data/Boomer/EfQncvDXYAAm_u8.jpg,0.0,"@realDonaldTrump @foxandfriends @MariaBartiromo #Kamala OWNED #Trump with this line! She'll continue to stand up to #RacistTrump and call out his #LiesLiesLies cuz #TruthMatters !!!
 
 160 days to go until adults retake the WH. 
 165K Americans dead.
 
 #TrumpLiesAmericansDie 
-#TrumpIsANationalDisgrace #BidenHarris2020ToSaveAmerica https://t.co/9smi95nmBC", Trump inherited the longest economic expansion in history from Barack Obama and Joe Biden And then like everything else Trump inherited he ran it straight into the ground  KAMALA HARRIS RIDIN WITH BIDEN ,Trump the economic expansion in history from and Joe And then like everything else Trump he ran it straight into the ground KAMALA
-AsianHate,wuhanvirus,1297536714932715523,./data_AsianHate/wuhanvirus/tweets4/EgHGw2AWkAAVXW2.jpg,./annotation_data/AsianHate/EgHGw2AWkAAVXW2.jpg,,"Dear @JoeBiden &amp; dear @realDonaldTrump - @POTUS in 2020 election - we🇺🇸need the #AmericanDream back for ALL, after we were #PearlHarbored by🇨🇳 #WuhanVirus. Or else #FrenchRevolution’s infamous #guillotine😱😰 - aka lawlessness in Gotham - in our Cities! @NYGovCuomo @NYCMayor 🇺🇸😘 https://t.co/zhtzoGQjd7", BLACK LIVES MATTER ,renin re oe el iE ah se it no amy Be te me oe Fa Ge te oe ie rie oe eS te so
-Mask,maskup,1294490389798363137,./data_Mask/maskup/tweets3/Efb0JBUXoAAnx4v.jpg,./annotation_data/Mask/Efb0JBUXoAAnx4v.jpg,,"We are ready! #MaskUp &amp; #Vote 
+#TrumpIsANationalDisgrace #BidenHarris2020ToSaveAmerica https://t.co/9smi95nmBC"," Trump inherited the longest economic expansion in history from Barack Obama and Joe Biden And then like everything else Trump inherited he ran it straight into the ground  KAMALA HARRIS RIDIN WITH BIDEN 
+",Trump the economic expansion in history from and Joe And then like everything else Trump he ran it straight into the ground KAMALA
+AsianHate,wuhanvirus,1297536714932715523,./data_AsianHate/wuhanvirus/tweets4/EgHGw2AWkAAVXW2.jpg,./annotation_data/AsianHate/EgHGw2AWkAAVXW2.jpg,2.0,"Dear @JoeBiden &amp; dear @realDonaldTrump - @POTUS in 2020 election - we🇺🇸need the #AmericanDream back for ALL, after we were #PearlHarbored by🇨🇳 #WuhanVirus. Or else #FrenchRevolution’s infamous #guillotine😱😰 - aka lawlessness in Gotham - in our Cities! @NYGovCuomo @NYCMayor 🇺🇸😘 https://t.co/zhtzoGQjd7"," BLACK LIVES MATTER 
+",renin re oe el iE ah se it no amy Be te me oe Fa Ge te oe ie rie oe eS te so
+Mask,maskup,1294490389798363137,./data_Mask/maskup/tweets3/Efb0JBUXoAAnx4v.jpg,./annotation_data/Mask/Efb0JBUXoAAnx4v.jpg,0.0,"We are ready! #MaskUp &amp; #Vote 
 
-#CivilRights | #VotingRights | #protection | #RepresentationMatters #HTownVotes https://t.co/bNnInWjY1G https://t.co/rG70QzyxUz", PROTECT MODE ON ,pA MODE ON
-Mask,facemask,1291354938879217665,./data_Mask/facemask/tweets1/EevQeTSWkAA3cIz.jpg,./annotation_data/Mask/EevQeTSWkAA3cIz.jpg,,Excited to share the latest addition to my #etsy shop: Back off novelty face mask funny face mask cute face mask unisex face mask https://t.co/jvCMQLfwHW #noveltyfacemask #facemask #funnyfacemask #cutefacemask #unisexfacemask #unisexmask #customfacemask #custommask #ma https://t.co/Ws3InhOzz5, IF Youre Close Enough To Read This BACK OFF ,ba Enough To Pac BACK OFF if
-Boomer,trumpliesamericansdie,1292951809556873217,./data_Boomer/trumpliesamericansdie/tweets2/EfF8z85X0AggqEf.jpg,./annotation_data/Boomer/EfF8z85X0AggqEf.jpg,,"@atrupar Nope, Secret Service would not just say ""shots fired"" out loud like that. 
+#CivilRights | #VotingRights | #protection | #RepresentationMatters #HTownVotes https://t.co/bNnInWjY1G https://t.co/rG70QzyxUz"," PROTECT MODE ON 
+",pA MODE ON
+Mask,facemask,1291354938879217665,./data_Mask/facemask/tweets1/EevQeTSWkAA3cIz.jpg,./annotation_data/Mask/EevQeTSWkAA3cIz.jpg,0.0,Excited to share the latest addition to my #etsy shop: Back off novelty face mask funny face mask cute face mask unisex face mask https://t.co/jvCMQLfwHW #noveltyfacemask #facemask #funnyfacemask #cutefacemask #unisexfacemask #unisexmask #customfacemask #custommask #ma https://t.co/Ws3InhOzz5," IF Youre Close Enough To Read This BACK OFF 
+",ba Enough To Pac BACK OFF if
+Boomer,trumpliesamericansdie,1292951809556873217,./data_Boomer/trumpliesamericansdie/tweets2/EfF8z85X0AggqEf.jpg,./annotation_data/Boomer/EfF8z85X0AggqEf.jpg,2.0,"@atrupar Nope, Secret Service would not just say ""shots fired"" out loud like that. 
 
-Staged distraction #TrumpLiesAmericansDie https://t.co/ZHKatGsnFE", os WITH UMP TRUMP TEXT TRUMP to 88022 Dayton Ohio MAKE AMERICA GREAT AGAINL ,Yr TRUMP to ye ae
-AsianHate,ChinaLiedPeopleDied,1289534818624012293,./data_AsianHate/ChinaLiedPeopleDied/tweets1/EeVZEGsUEAEOW_X.jpg,./annotation_data/AsianHate/EeVZEGsUEAEOW_X.jpg,,@HawleyMO @BytedanceTalk #tiktokban indeed #ChinaLiedPeopleDied #WuhanVirusMadeInChina https://t.co/NWQT2lZ9Ec, TikTok is a racist app Banned GeorgeFloyd Delete TikTok now ,is racist Delete no
-AsianHate,ChinaVirus,1296116610571341824,./data_AsianHate/ChinaVirus/tweets3/Efy7L8MWkAIgQWE.jpg,./annotation_data/AsianHate/Efy7L8MWkAIgQWE.jpg,,"Wow, #KAG! Like the #ChinaVirus , #MAGA hats are made in CHINA. 
+Staged distraction #TrumpLiesAmericansDie https://t.co/ZHKatGsnFE"," os WITH UMP TRUMP TEXT TRUMP to 88022 Dayton Ohio MAKE AMERICA GREAT AGAINL 
+",Yr TRUMP to ye ae
+AsianHate,ChinaLiedPeopleDied,1289534818624012293,./data_AsianHate/ChinaLiedPeopleDied/tweets1/EeVZEGsUEAEOW_X.jpg,./annotation_data/AsianHate/EeVZEGsUEAEOW_X.jpg,0.0,@HawleyMO @BytedanceTalk #tiktokban indeed #ChinaLiedPeopleDied #WuhanVirusMadeInChina https://t.co/NWQT2lZ9Ec," TikTok is a racist app Banned GeorgeFloyd Delete TikTok now 
+",is racist Delete no
+AsianHate,ChinaVirus,1296116610571341824,./data_AsianHate/ChinaVirus/tweets3/Efy7L8MWkAIgQWE.jpg,./annotation_data/AsianHate/Efy7L8MWkAIgQWE.jpg,2.0,"Wow, #KAG! Like the #ChinaVirus , #MAGA hats are made in CHINA. 
 #JoeBiden hats are made in the USA🇺🇸! 
-Who is REALLY Keeping America Great? Somebody who talks smack to American workers — or somebody who EMPLOYS American workers? #labor #jobs #Biden #BidenHarris2020ToSaveAmerica https://t.co/QudaXhxQ51", WOOL 65 ERYLIC 35 MADE IN CHINA UNIONWEAR MADE UNON MACENTHE UMA workers unted or ERICA AIN ,we
-Political,Trump2020,1289609533128491009,./data_Political/Trump2020/tweets1/EeWdBXYX0AML5sb.png,./annotation_data/Political/EeWdBXYX0AML5sb.png,,"@PastorDScott @realDonaldTrump Vote #Trump2020 and Save Christianity!!!
+Who is REALLY Keeping America Great? Somebody who talks smack to American workers — or somebody who EMPLOYS American workers? #labor #jobs #Biden #BidenHarris2020ToSaveAmerica https://t.co/QudaXhxQ51"," WOOL 65 ERYLIC 35 MADE IN CHINA UNIONWEAR MADE UNON MACENTHE UMA workers unted or ERICA AIN 
+",we
+Political,Trump2020,1289609533128491009,./data_Political/Trump2020/tweets1/EeWdBXYX0AML5sb.png,./annotation_data/Political/EeWdBXYX0AML5sb.png,2.0,"@PastorDScott @realDonaldTrump Vote #Trump2020 and Save Christianity!!!
 APPLAUDED TRUMP HOLDING UP THE BIBLE &amp; SHOWING
-STRENGTH FOR THE CHURCH. OUR CHURCH. https://t.co/5QIdPaKATk", NS CURCN hase EELINE ALL ARE WELCK THE BEEREN R0 PIE NECTER MIE BLLBED R LLIAN ORn AYANAN PNER ,
-Boomer,trumpliesamericansdie,1296121126494466048,./data_Boomer/trumpliesamericansdie/tweets3/Efy_SziUEAA2O2W.jpg,./annotation_data/Boomer/Efy_SziUEAA2O2W.jpg,,@realDonaldTrump This is your brand. Hatred. Divisiveness. Cheating. Lying. Racism. Misogyny. And did I mention hatred???? #AmericaOrTrump #TrumpLiesAmericansDie #TrumpIsANationalDisgrace https://t.co/TQw9eLt2oj, GREAT AGAIN YOU CANT SPELL HATRED MAKE AMERIC GREAT AGAIN WITHOUT A RED HAT ,HATRED AGA re ae RED HAT
-Mask,facemasks,1290887670575632384,./data_Mask/facemasks/tweets1/EeonfEWWAAAR-SD.png,./annotation_data/Mask/EeonfEWWAAAR-SD.png,,"https://t.co/7xM2l8GD7Q
+STRENGTH FOR THE CHURCH. OUR CHURCH. https://t.co/5QIdPaKATk"," NS CURCN hase EELINE ALL ARE WELCK THE BEEREN R0 PIE NECTER MIE BLLBED R LLIAN ORn AYANAN PNER 
+",
+Boomer,trumpliesamericansdie,1296121126494466048,./data_Boomer/trumpliesamericansdie/tweets3/Efy_SziUEAA2O2W.jpg,./annotation_data/Boomer/Efy_SziUEAA2O2W.jpg,1.0,@realDonaldTrump This is your brand. Hatred. Divisiveness. Cheating. Lying. Racism. Misogyny. And did I mention hatred???? #AmericaOrTrump #TrumpLiesAmericansDie #TrumpIsANationalDisgrace https://t.co/TQw9eLt2oj," GREAT AGAIN YOU CANT SPELL HATRED MAKE AMERIC GREAT AGAIN WITHOUT A RED HAT 
+",HATRED AGA re ae RED HAT
+Mask,facemasks,1290887670575632384,./data_Mask/facemasks/tweets1/EeonfEWWAAAR-SD.png,./annotation_data/Mask/EeonfEWWAAAR-SD.png,2.0,"https://t.co/7xM2l8GD7Q
 
-Would your 2019 self have believed me if I told you that #facemasks would become a significant fashion trend next year? Not. But thanks to capitalism, it is! https://t.co/D4URw63uAh", 6 Local Brands That Introduced Face Masks Amid COVID19 brandsynariocom ,Ras me PA we Local That Face Amid ran
-AsianHate,CCPVirus,1297339425458753537,./data_AsianHate/CCPVirus/tweets4/EgETVBWUYAAuTOu.jpg,./annotation_data/AsianHate/EgETVBWUYAAuTOu.jpg,,"@UndergroundSilk Those poor 1 billion Chinese people, such a bad situation: 
+Would your 2019 self have believed me if I told you that #facemasks would become a significant fashion trend next year? Not. But thanks to capitalism, it is! https://t.co/D4URw63uAh"," 6 Local Brands That Introduced Face Masks Amid COVID19 brandsynariocom 
+",Ras me PA we Local That Face Amid ran
+AsianHate,CCPVirus,1297339425458753537,./data_AsianHate/CCPVirus/tweets4/EgETVBWUYAAuTOu.jpg,./annotation_data/AsianHate/EgETVBWUYAAuTOu.jpg,0.0,"@UndergroundSilk Those poor 1 billion Chinese people, such a bad situation: 
 Floods, 
 Infected water 
 #CCPvirus
 Poverty
 Homes collapsing
 
-Except about them 100 million CPP communist totalitarian members, f*** &amp; forget them. CCP members will get what you deserve one day. https://t.co/uIvoHP6keJ", FCK YOU ,me YOU
-Boomer,karen,1298310417111044096,./data_Boomer/karen/tweets4/EgSGcQ5XoAI_5t-.jpg,./annotation_data/Boomer/EgSGcQ5XoAI_5t-.jpg,,"Saw part of the the #RNC2020 replay. Did y’all see Don Jr. #cocaineeyes and his fiancé  @kimguilfoyle gave the best #Karen impression I’ve ever seen. If that’s how she acts when she’s aware of the camera, God help the employee that pisses her off. #UltimateKaren #2020Election https://t.co/WZeoA3oWcC", Ultimatekaren ,ATE wy
-Immigration,cdnpoli,1296555946705973249,./data_Immigration/cdnpoli/tweets3/Ef5Kl-xUEAA9vek.png,./annotation_data/Immigration/Ef5Kl-xUEAA9vek.png,,@mfa_russia @RussianEmbassy @RusEmbIran @IRIMFA_EN @RussiaUN @UN @RusEmbUSA @StateDept @MFA_China @AmbRusFrance ... «its own» ... #cdnpoli ... #bcpoli https://t.co/ZIujMQoprE, DailySabah  15m D5 Presidential elections in Belarus were neither fair nor free and therefore the results would not be recognized by the EU Germanys Merkel says DAILY SABAH ode Netanyahu Israel is determined to fight hate fanaticism and terrorism from whatever side ajeioqtrx Berlin cautious against Russian interference in Belarus ,cade eS ae eR Mi iN determined to fight hate fanaticism and terrorism from de de is
-Boomer,trumpliesamericansdie,1297537321206714368,./data_Boomer/trumpliesamericansdie/tweets4/EgHHTSSWkAEzbGt.jpg,./annotation_data/Boomer/EgHHTSSWkAEzbGt.jpg,,@BleedingMarine Of course #TrumpsVaccineIsALie because everything The Obese Orange AntiChrist says is a lie. He’s pathological &amp; genetically incapable of telling the truth 🤥 #TrumpLiesAmericansDie #SundayMorning https://t.co/mgM9pcRmiT, SURGEON GENERALS WARNING Listening To This Moron May Be Hazardous To Your Health ,St eR STROM alco Ca MOR We
-Immigration,liberals,1293584380305211400,./data_Immigration/liberals/tweets2/EfO8IoLXsAACnQL.jpg,./annotation_data/Immigration/EfO8IoLXsAACnQL.jpg,,#newsome sucks! #Liberals #DemocratsAreDestroyingAmerica https://t.co/77sSqMvbh1, CALIFORNIA CANNOT PAY FOR TRUMPS UNEMPLOYMENT BENEFITS THERE IS NO MONEY SITTING IN THE PIGGY BANK Gov Gavin Newsome FOR AMERICA SAYS THE GOVERNOR WHOSE STATE JUST GAVE STIMULUS CHECKS TO ILLEGAL IMMIGRANTS Brigitte Gabriel ,CANNOT PAY UNEMPLOYMENT THERE IS NO MONEY SITTING IN THE PIGGY BANK THE GOVERNOR WHOSE STATE JUST GAVE STIMULUS TO ILLEGAL
-Immigration,cdnpoli,1292841593813204999,./data_Immigration/cdnpoli/tweets2/EfEXpStWAAAaoAo.jpg,./annotation_data/Immigration/EfEXpStWAAAaoAo.jpg,,"Demand #Ontario MPP's ensure #SafeSeptember. Current plan &amp; funding is insufficient &amp; poses serious risk to children, staff &amp; their families Sign &amp; share @CdnChange  petition now https://t.co/8H5D6F2qW3 
-#onted #onpoli #cdnpoli #topoli @tdsb @TCDSB @ETFOeducators #UnsafeSeptember https://t.co/gTLhWwSOXT", DEMAND ONTARIO MPPS PROVIDE ADEQUATE FUNDING  RESOURCES NEEDED TO ENSURE A SAFESEPTEMBER ,DEMAND ay PROVIDE AA ADEQUATE eH TO ENSURE ba
-Vaccine,CoronavirusVaccine,1293135525834940416,./data_Vaccine/CoronavirusVaccine/tweets2/EfIj2AcU0AEO-rZ.jpg,./annotation_data/Vaccine/EfIj2AcU0AEO-rZ.jpg,,#Russia announces world's first #CoronavirusVaccine https://t.co/ujm3kyFpXv, Modiji Putin Ramdev Rula diya na bechaari ko ,aN na ko
-Boomer,karen,1291397645265547264,./data_Boomer/karen/tweets1/Eev3UIFU4AsLZkw.jpg,./annotation_data/Boomer/Eev3UIFU4AsLZkw.jpg,,2 Bedroom Master En-suite) Kilimani https://t.co/rdHkgs88Lj #realestate #realestateagent #Karen #Homes #Houses #bungalow #Villas #Holidays #vacaymode #Affordable#GatedCommunity #Furnished #Plots #LandforSale #nairobi #ForSale #coronaviruskenya #Realtor #NairobiApartments... https://t.co/ZSLMUyHsFy, 0780783784 GOLDMUT GROUP 2 BEDROOM APARTMENTS KILELESHWA 0780783784 Kshs 14 M FOR SALE goldmutgroup wwwgoldmutgroupcoke 14 ,id FOR BALE HAN
-Political,Election2020,1297156247855276032,./data_Political/Election2020/tweets4/EgBsulkWsAASf7Z.jpg,./annotation_data/Political/EgBsulkWsAASf7Z.jpg,,Stay tuned...next week we will unveil our positive vision for #SD20. We need leaders who see America at her best and work to achieve it. I’m ready. #Election2020 🇺🇸 https://t.co/4H9Ayrr4MH, DANNY BURGESS Fave her Jut DANNY BURGESS JL VIDEO URGESS DANNY BURGESS COLORED BY STEVEN QUACH DANNY BURGESS ,ye scale BURGESS Hey ae Ara ae be BURGESS TEN en os
-Immigration,cdnpoli,1296093364832542721,./data_Immigration/cdnpoli/tweets3/Efyl_4DU8AAYvNG.jpg,./annotation_data/Immigration/Efyl_4DU8AAYvNG.jpg,,"Today on the Canadian History Ehx podcast, I look at Canada in 1890. It was a year that saw three provincial elections, the birth of some very important Canadians and the death of the iconic Chief Crowfoot
+Except about them 100 million CPP communist totalitarian members, f*** &amp; forget them. CCP members will get what you deserve one day. https://t.co/uIvoHP6keJ"," FCK YOU 
+",me YOU
+Boomer,karen,1298310417111044096,./data_Boomer/karen/tweets4/EgSGcQ5XoAI_5t-.jpg,./annotation_data/Boomer/EgSGcQ5XoAI_5t-.jpg,1.0,"Saw part of the the #RNC2020 replay. Did y’all see Don Jr. #cocaineeyes and his fiancé  @kimguilfoyle gave the best #Karen impression I’ve ever seen. If that’s how she acts when she’s aware of the camera, God help the employee that pisses her off. #UltimateKaren #2020Election https://t.co/WZeoA3oWcC"," Ultimatekaren 
+",ATE wy
+Immigration,cdnpoli,1296555946705973249,./data_Immigration/cdnpoli/tweets3/Ef5Kl-xUEAA9vek.png,./annotation_data/Immigration/Ef5Kl-xUEAA9vek.png,2.0,@mfa_russia @RussianEmbassy @RusEmbIran @IRIMFA_EN @RussiaUN @UN @RusEmbUSA @StateDept @MFA_China @AmbRusFrance ... «its own» ... #cdnpoli ... #bcpoli https://t.co/ZIujMQoprE," DailySabah  15m D5 Presidential elections in Belarus were neither fair nor free and therefore the results would not be recognized by the EU Germanys Merkel says DAILY SABAH ode Netanyahu Israel is determined to fight hate fanaticism and terrorism from whatever side ajeioqtrx Berlin cautious against Russian interference in Belarus 
+",cade eS ae eR Mi iN determined to fight hate fanaticism and terrorism from de de is
+Boomer,trumpliesamericansdie,1297537321206714368,./data_Boomer/trumpliesamericansdie/tweets4/EgHHTSSWkAEzbGt.jpg,./annotation_data/Boomer/EgHHTSSWkAEzbGt.jpg,1.0,@BleedingMarine Of course #TrumpsVaccineIsALie because everything The Obese Orange AntiChrist says is a lie. He’s pathological &amp; genetically incapable of telling the truth 🤥 #TrumpLiesAmericansDie #SundayMorning https://t.co/mgM9pcRmiT," SURGEON GENERALS WARNING Listening To This Moron May Be Hazardous To Your Health 
+",St eR STROM alco Ca MOR We
+Immigration,liberals,1293584380305211400,./data_Immigration/liberals/tweets2/EfO8IoLXsAACnQL.jpg,./annotation_data/Immigration/EfO8IoLXsAACnQL.jpg,0.0,#newsome sucks! #Liberals #DemocratsAreDestroyingAmerica https://t.co/77sSqMvbh1," CALIFORNIA CANNOT PAY FOR TRUMPS UNEMPLOYMENT BENEFITS THERE IS NO MONEY SITTING IN THE PIGGY BANK Gov Gavin Newsome FOR AMERICA SAYS THE GOVERNOR WHOSE STATE JUST GAVE STIMULUS CHECKS TO ILLEGAL IMMIGRANTS Brigitte Gabriel 
+",CANNOT PAY UNEMPLOYMENT THERE IS NO MONEY SITTING IN THE PIGGY BANK THE GOVERNOR WHOSE STATE JUST GAVE STIMULUS TO ILLEGAL
+Immigration,cdnpoli,1292841593813204999,./data_Immigration/cdnpoli/tweets2/EfEXpStWAAAaoAo.jpg,./annotation_data/Immigration/EfEXpStWAAAaoAo.jpg,0.0,"Demand #Ontario MPP's ensure #SafeSeptember. Current plan &amp; funding is insufficient &amp; poses serious risk to children, staff &amp; their families Sign &amp; share @CdnChange  petition now https://t.co/8H5D6F2qW3 
+#onted #onpoli #cdnpoli #topoli @tdsb @TCDSB @ETFOeducators #UnsafeSeptember https://t.co/gTLhWwSOXT"," DEMAND ONTARIO MPPS PROVIDE ADEQUATE FUNDING  RESOURCES NEEDED TO ENSURE A SAFESEPTEMBER 
+",DEMAND ay PROVIDE AA ADEQUATE eH TO ENSURE ba
+Vaccine,CoronavirusVaccine,1293135525834940416,./data_Vaccine/CoronavirusVaccine/tweets2/EfIj2AcU0AEO-rZ.jpg,./annotation_data/Vaccine/EfIj2AcU0AEO-rZ.jpg,1.0,#Russia announces world's first #CoronavirusVaccine https://t.co/ujm3kyFpXv," Modiji Putin Ramdev Rula diya na bechaari ko 
+",aN na ko
+Boomer,karen,1291397645265547264,./data_Boomer/karen/tweets1/Eev3UIFU4AsLZkw.jpg,./annotation_data/Boomer/Eev3UIFU4AsLZkw.jpg,2.0,2 Bedroom Master En-suite) Kilimani https://t.co/rdHkgs88Lj #realestate #realestateagent #Karen #Homes #Houses #bungalow #Villas #Holidays #vacaymode #Affordable#GatedCommunity #Furnished #Plots #LandforSale #nairobi #ForSale #coronaviruskenya #Realtor #NairobiApartments... https://t.co/ZSLMUyHsFy," 0780783784 GOLDMUT GROUP 2 BEDROOM APARTMENTS KILELESHWA 0780783784 Kshs 14 M FOR SALE goldmutgroup wwwgoldmutgroupcoke 14 
+",id FOR BALE HAN
+Political,Election2020,1297156247855276032,./data_Political/Election2020/tweets4/EgBsulkWsAASf7Z.jpg,./annotation_data/Political/EgBsulkWsAASf7Z.jpg,2.0,Stay tuned...next week we will unveil our positive vision for #SD20. We need leaders who see America at her best and work to achieve it. I’m ready. #Election2020 🇺🇸 https://t.co/4H9Ayrr4MH," DANNY BURGESS Fave her Jut DANNY BURGESS JL VIDEO URGESS DANNY BURGESS COLORED BY STEVEN QUACH DANNY BURGESS 
+",ye scale BURGESS Hey ae Ara ae be BURGESS TEN en os
+Immigration,cdnpoli,1296093364832542721,./data_Immigration/cdnpoli/tweets3/Efyl_4DU8AAYvNG.jpg,./annotation_data/Immigration/Efyl_4DU8AAYvNG.jpg,2.0,"Today on the Canadian History Ehx podcast, I look at Canada in 1890. It was a year that saw three provincial elections, the birth of some very important Canadians and the death of the iconic Chief Crowfoot
 Available on all podcast platforms
-#indigenous #canada #history #cdnpoli https://t.co/jVpGxemntb", CANADIAN HISTORY EHX PRSENTS CANADA YEARBYYEAR 1890 ,tou Os sa baa
-Vaccine,covidvaccine,1293000884293472512,./data_Vaccine/covidvaccine/tweets2/EfGpYSEUYAER7Q3.jpg,./annotation_data/Vaccine/EfGpYSEUYAER7Q3.jpg,,"President Duterte in a late-night address on Monday sees a 'Covid-free' December with possible distribution of Russia-developed vaccine by September or October.
+#indigenous #canada #history #cdnpoli https://t.co/jVpGxemntb"," CANADIAN HISTORY EHX PRSENTS CANADA YEARBYYEAR 1890 
+",tou Os sa baa
+Vaccine,covidvaccine,1293000884293472512,./data_Vaccine/covidvaccine/tweets2/EfGpYSEUYAER7Q3.jpg,./annotation_data/Vaccine/EfGpYSEUYAER7Q3.jpg,2.0,"President Duterte in a late-night address on Monday sees a 'Covid-free' December with possible distribution of Russia-developed vaccine by September or October.
 
 The President says he volunteers to be vaccinated: ""para walang satsat diyan, pabakuna ako in public.""
 
-#CovidVaccine https://t.co/2Gl24uUhs7", 66 Maligayangmaligaya ako Ang Russia kaibigan natin ito Ang ano nila magbigay sila ng bakuna Wala naman sila sinabing bayaran mo Tingin ko kay President Putin tulong nila sa atin Someday makabayad kami ng utang na loob namin sa inyo President Rodrigo Duterte August 10 2020 Photo from Azerbaycan24 wwwsagisagcom sagisagphilippines sagisagph sagisagph SagisagTV ,ako Russia mo ko kay President sa Someday na sa President August Photo from
-Mask,maskup,1294016456942915584,./data_Mask/maskup/tweets2/EfU9tFBXgAAhqkh.jpg,./annotation_data/Mask/EfU9tFBXgAAhqkh.jpg,,"#MaskUp! When at a NRHN facility, all must be masked anytime they are within 6 feet of someone else. This is required everywhere.
+#CovidVaccine https://t.co/2Gl24uUhs7"," 66 Maligayangmaligaya ako Ang Russia kaibigan natin ito Ang ano nila magbigay sila ng bakuna Wala naman sila sinabing bayaran mo Tingin ko kay President Putin tulong nila sa atin Someday makabayad kami ng utang na loob namin sa inyo President Rodrigo Duterte August 10 2020 Photo from Azerbaycan24 wwwsagisagcom sagisagphilippines sagisagph sagisagph SagisagTV 
+",ako Russia mo ko kay President sa Someday na sa President August Photo from
+Mask,maskup,1294016456942915584,./data_Mask/maskup/tweets2/EfU9tFBXgAAhqkh.jpg,./annotation_data/Mask/EfU9tFBXgAAhqkh.jpg,2.0,"#MaskUp! When at a NRHN facility, all must be masked anytime they are within 6 feet of someone else. This is required everywhere.
 
 We are all responsible for Masking Up to keep our community safe. Thank you for #MaskingUp while in public!
-#MaskUpNH #MaskUpNewHampshire #MaskUpMA https://t.co/5kWIPtgzcM", ALL CIN ARE WE THIS IRE NRH Northeast Rehabilitation Hospital Network MY MASK PROTECTS YOU YOUR MASK PROTECTS ME MaskUpMA9 MASKUPNH TOGETHER WE CAN KEEP NH HEALTHY wwwmassgovMaskUp ,AN at Tad Wit es St es Northeast Rehabilitation Hospital Network MY MASK YOU ea ae
-Boomer,trumpliesamericansdie,1297141476028305408,./data_Boomer/trumpliesamericansdie/tweets4/EgBfS1BX0AEL69-.jpg,./annotation_data/Boomer/EgBfS1BX0AEL69-.jpg,,"@DonaldJTrumpJr I think you mean WHEN Democrats win.  The hell we are in now because of @realDonaldTrump and his failure to lead. Do not scare the undereducated #MAGA.  We see you. We’re done. Help daddy start packing. Thank god he loves orange. 
+#MaskUpNH #MaskUpNewHampshire #MaskUpMA https://t.co/5kWIPtgzcM"," ALL CIN ARE WE THIS IRE NRH Northeast Rehabilitation Hospital Network MY MASK PROTECTS YOU YOUR MASK PROTECTS ME MaskUpMA9 MASKUPNH TOGETHER WE CAN KEEP NH HEALTHY wwwmassgovMaskUp 
+",AN at Tad Wit es St es Northeast Rehabilitation Hospital Network MY MASK YOU ea ae
+Boomer,trumpliesamericansdie,1297141476028305408,./data_Boomer/trumpliesamericansdie/tweets4/EgBfS1BX0AEL69-.jpg,./annotation_data/Boomer/EgBfS1BX0AEL69-.jpg,0.0,"@DonaldJTrumpJr I think you mean WHEN Democrats win.  The hell we are in now because of @realDonaldTrump and his failure to lead. Do not scare the undereducated #MAGA.  We see you. We’re done. Help daddy start packing. Thank god he loves orange. 
 
-#vote #BidenHarris2020 #TrumpLiesAmericansDie 🇺🇸 https://t.co/3Ouqyqg8gj", Fake news Im the President Believe me SHOWTIME ,an Li Fake news the Bel mi Seamer
-Boomer,karen,1293437438610702336,./data_Boomer/karen/tweets2/EfM2dCEUYAEAJae.jpg,./annotation_data/Boomer/EfM2dCEUYAEAJae.jpg,,#binod #karen #civilwar #end game https://t.co/49WbMWuvCq, karen I need to speak to your manger Binod I am Binod ,you Se
+#vote #BidenHarris2020 #TrumpLiesAmericansDie 🇺🇸 https://t.co/3Ouqyqg8gj"," Fake news Im the President Believe me SHOWTIME 
+",an Li Fake news the Bel mi Seamer
+Boomer,karen,1293437438610702336,./data_Boomer/karen/tweets2/EfM2dCEUYAEAJae.jpg,./annotation_data/Boomer/EfM2dCEUYAEAJae.jpg,0.0,#binod #karen #civilwar #end game https://t.co/49WbMWuvCq," karen I need to speak to your manger Binod I am Binod 
+",you Se
