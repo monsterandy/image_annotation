@@ -133,8 +133,14 @@ class ImageAnnotater:
         self.btn_save.configure(text='Save', fg='black')
         self.option_value.set('Select an label')
         if not np.isnan(self.curr_dic['label']):
-            option = self.option_list[int(float(self.curr_dic['label']))]
-            self.option_value.set(option)
+            option = -1
+            if self.curr_dic['label'] == 0:
+                option = 1
+            elif self.curr_dic['label'] == 1:
+                option = 0
+            else:
+                option = 2
+            self.option_value.set(self.option_list[option])
         
         self.text_input_imgtext.delete('1.0', tk.END)
         # if not np.isnan(self.curr_dic['image_text']):
