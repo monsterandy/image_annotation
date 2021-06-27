@@ -217,8 +217,9 @@ class ImageAnnotater:
 
 if __name__ == '__main__':
     # Specify your name; Capitalize first letter
-    name = 'Name'
-    csv_path = './csv_data/sample_100_' + name + '.csv'
+    # name = 'Name'
+    # csv_path = './csv_data/sample_100_' + name + '.csv'
+    csv_path = './csv_data/sample_100_diff.csv'
     start_idx = 1
-    end_idx = 100
+    end_idx = 47
     ImageAnnotater(csv_path, start_idx, end_idx)

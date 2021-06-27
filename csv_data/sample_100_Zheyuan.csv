@@ -2,7 +2,8 @@ topic,hashtag,tweet_id,image_path,sample_path,label,body_text,image_text,text_wi
 Mask,NoMasks,1290561571312328706,./data_Mask/NoMasks/tweets1/Eej-523WsAAJa6h.jpg,./annotation_data/Mask/Eej-523WsAAJa6h.jpg,2.0,"@RupertaMargate @FrancaisFarage @John35542712 @WestminsterWAG What?
 Based on what I've seen, as above ...the conspiracy theorists and #NoMasks brigade are often Brexiters and/or Trump fans 🤪🤪 https://t.co/3S2xvR2lfc"," FALLONTONIGHT 
 ",Ser ah
-Immigration,cdnpoli,1297693936782213123,./data_Immigration/cdnpoli/tweets4/EgJVvpkUMAALB8Z.png,./annotation_data/Immigration/EgJVvpkUMAALB8Z.png,1.0,"You beat me to it, lol .. #cpc #cpcldr #cdnpoli @CPC_HQ @DonMartinCTV https://t.co/9eUCgkDGyL https://t.co/pECUu00tGi"," You couldnt organize a two car funeral procession somee cards user card 
+Immigration,cdnpoli,1297693936782213123,./data_Immigration/cdnpoli/tweets4/EgJVvpkUMAALB8Z.png,./annotation_data/Immigration/EgJVvpkUMAALB8Z.png,0.0,"You beat me to it, lol .. #cpc #cpcldr #cdnpoli @CPC_HQ @DonMartinCTV https://t.co/9eUCgkDGyL https://t.co/pECUu00tGi"," You couldnt organize a two car funeral procession somee cards user card 
+
 ",You organize two car funeral procession iS
 Vaccine,CovidHoax,1294984802890911746,./data_Vaccine/CovidHoax/tweets3/Efi1z_iXsAICXnH.jpg,./annotation_data/Vaccine/Efi1z_iXsAICXnH.jpg,1.0,"States are stock piling food in empty arenas, getting ready for #CivilWar the Elite #DivideAndConquer #Riots #RaceWars #NWO is here! #SnakePoem #TrojanHorse #CovidHoax 
 🔥NEVER LOCKED UP #HILLARY, AND HE NEVER WILL! 🤬🔥 https://t.co/lmhif2oU76"," Operation Mockingbird Public Perception Management Programming FOx NEWS CNN CIA Project  Fake News 
