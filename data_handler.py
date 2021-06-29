@@ -12,6 +12,9 @@ class DataHandler:
         if 'label' not in self.df.columns:
             self.df.insert(loc=5, column='label', value=np.nan)
     
+    def get_dataset_len(self):
+        return len(self.df.index)
+
     def get_data_on_row(self, idx):
         index = idx - 1
         result_dic = self.df.iloc[index].to_dict()

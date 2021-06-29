@@ -1,6 +1,7 @@
 # Customize
 test.*
 .vscode
+config.py
 
 
 

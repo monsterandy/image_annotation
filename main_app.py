@@ -1,3 +1,4 @@
+from config import csv_path, start_idx, end_idx
 import numpy as np
 import tkinter as tk
 from tkinter import messagebox
@@ -10,7 +11,9 @@ class ImageAnnotater:
         self.data_handler = DataHandler(csv_path)
         self.start_idx = start_idx
         self.curr_idx = self.start_idx - 1
-        self.end_idx = end_idx
+        if end_idx == 0:
+            self.end_idx = self.data_handler.get_dataset_len()
+        else: self.end_idx = end_idx
 
         self.curr_dic = {}
 
@@ -19,7 +22,7 @@ class ImageAnnotater:
         self.window.geometry('1280x720')
         self.window.configure(background='#ececec')
 
-        self.option_list = ['Hateful IWT Meme', 'non-Hateful IWT Meme', 'NOT IWT Meme']
+        self.option_list = ['Hateful IWT Meme', 'non-Hateful IWT Meme', 'NOT IWT Meme', 'Not Sure']
         self.option_value = tk.StringVar(self.window)
         
         self.frame_img = tk.Frame(master=self.window, width=700, height=720, bg='#ececec')
@@ -139,7 +142,7 @@ class ImageAnnotater:
             elif self.curr_dic['label'] == 1:
                 option = 0
             else:
-                option = 2
+                option = int(self.curr_dic['label'])
             self.option_value.set(self.option_list[option])
         
         self.text_input_imgtext.delete('1.0', tk.END)
@@ -169,8 +172,10 @@ class ImageAnnotater:
             self.data_handler.set_label_on_row(self.curr_idx, 1)
         elif opt == 'non-Hateful IWT Meme':
             self.data_handler.set_label_on_row(self.curr_idx, 0)
-        else:
+        elif opt == 'NOT IWT Meme':
             self.data_handler.set_label_on_row(self.curr_idx, 2)
+        else:
+            self.data_handler.set_label_on_row(self.curr_idx, 3)
 
         self.btn_save.configure(text='Saved!', fg='green')
         text = self.text_input_imgtext.get('1.0', tk.END)
@@ -216,10 +221,4 @@ class ImageAnnotater:
 
 
 if __name__ == '__main__':
-    # Specify your name; Capitalize first letter
-    # name = 'Name'
-    # csv_path = './csv_data/sample_100_' + name + '.csv'
-    csv_path = './csv_data/sample_100_diff.csv'
-    start_idx = 1
-    end_idx = 47
     ImageAnnotater(csv_path, start_idx, end_idx)
