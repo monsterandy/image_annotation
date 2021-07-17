@@ -97,7 +97,7 @@ class ImageAnnotater:
                                 font=('TkDefaultFont', 18), relief=tk.GROOVE, command=self.btn_previous_press)
         self.btn_previous.grid(row=0, column=0)
 
-        self.btn_save = tk.Button(master=self.frame_input_btns, text='Save', width=12, height=2, fg='black',\
+        self.btn_save = tk.Button(master=self.frame_input_btns, text='Save & Next', width=12, height=2, fg='black',\
                                 font=('TkDefaultFont', 18), relief=tk.GROOVE, command=self.btn_save_press)
         self.btn_save.grid(row=0, column=1, padx=5)
 
@@ -133,7 +133,7 @@ class ImageAnnotater:
         self.text_info_bodytext.configure(state=tk.DISABLED)
 
         self.label_input_optmenu.configure(fg='dim grey')
-        self.btn_save.configure(text='Save', fg='black')
+        # self.btn_save.configure(text='Save & Next', fg='black')
         self.option_value.set('Select an label')
         if not np.isnan(self.curr_dic['label']):
             option = -1
@@ -177,10 +177,12 @@ class ImageAnnotater:
         else:
             self.data_handler.set_label_on_row(self.curr_idx, 3)
 
-        self.btn_save.configure(text='Saved!', fg='green')
+        # self.btn_save.configure(text='Saved!', fg='green')
         text = self.text_input_imgtext.get('1.0', tk.END)
         if text != '\n':
             self.data_handler.set_image_text_on_row(self.curr_idx, text)
+
+        self.load_next_img()
 
     def key_return(self, *event):
         self.window.focus_set()
