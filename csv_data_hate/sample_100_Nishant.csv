@@ -1,18 +1,21 @@
-,topic,hashtag,tweet_id,image_path,sample_path,body_text,label,image_text,text_with_OCR
+Unnamed: 0,topic,hashtag,tweet_id,image_path,sample_path,body_text,label,image_text,text_with_OCR
 0,asianhate_04,ChinaVirus,1254162507020763137,./tweet_data/asianhate_04/ChinaVirus/tweets4/EWeuJgbXkAAz1OD.jpg,./annot_data_hate/EWeuJgbXkAAz1OD.jpg,"@Reuters How long can we stay at home? This is not permanent solution.
 #VirusGuard is the only solution to cope with #COVID19❗
 
 https://t.co/XwEak900vC
 
-#wuhanvirus #chinavirus #coronavirus #chinaoutbreak #wuhanoutbreak #Mers #Covid_19 https://t.co/80KoQdV5Gh",,sy virus guard sustainable disinfection 10 day disinfection protection wwi ae aera ny pe,sy virus guard sustainable disinfection 10 day disinfection protection wwi ae aera ny pe
+#wuhanvirus #chinavirus #coronavirus #chinaoutbreak #wuhanoutbreak #Mers #Covid_19 https://t.co/80KoQdV5Gh",2.0,"sy virus guard sustainable disinfection 10 day disinfection protection wwi ae aera ny pe
+",sy virus guard sustainable disinfection 10 day disinfection protection wwi ae aera ny pe
 1,vaccine_04,BillGatesBioTerrorist,1248344434120560642,./tweet_data/vaccine_04/BillGatesBioTerrorist/tweets2/EVMCpJxXQAEsSLi.jpg,./annot_data_hate/EVMCpJxXQAEsSLi.jpg,"So. Many. SHEEPLE! WAKE UUUPP!
 #BillGatesBioTerrorist 
 #BillGatesIsEvil 
 #BillGatesPublicEnemy1 
 #BillGatesIsNotOurFriend 
 #BillGatesVaccine
-#BillGatesVirus https://t.co/rFkHJGQvOV",,ie alright,ie alright
-2,politics_08,TrumpIsALaughingStock,1294450197435645952,./tweet_data/politics_08/TrumpIsALaughingStock/tweets3/EfbPlPOWAAEj3NC.jpg,./annot_data_hate/EfbPlPOWAAEj3NC.jpg,@AintParler @Lorrain86857415 @TheWorldWatch @SpinneyJr @hsbanik @sacmac11 @KraigtheBunny @MercerCreed @_White__Rabbit @TheTruthFairy4 @FiestyKiwi @G2Precision @WarrenJPierce @KumbarRajesh @sk8djglfrfoos @Acknowledgerea3 @JayCory7 @ADevotedYogi @Heather012177 @CrystalLozano4 @LisaSing75 @COCrowe @PhillipDenton @EricO_2020 @Janesmi74403686 @suprdupe @bkmoore777 @Jah18186004 @TideFanJoe @JackieO69045443 @TheTrollHunte14 @SockRocket2019 @stevendem @sham786364 @natehansen42 @mannazesq @Gummbyman32 @forcemultipler @HerpesMichael @nzhippygirl @SGijora @AdHomin1711 @ShaktiForTrump @WhoFeedsYou @JDavidBourne1 @rygh_sherrie @iflysims70 @kruttika108 @LisaSwartz8 @thedjrichyb Thank you for your opinion of the impeachment regardless of your feelings he is still impeached. I'm sending big hugs your way.🤗🤗🤗🤗🤗🤗 #TrumpFailedAmerica #TrumpIsACriminal #TrumpIsALaughingStock #ProsecuteTrump #jailtime #PutinsPuppet #BIGHUGTOYOU https://t.co/Jo7ZZszJDJ,,oa boohoo sorry aaa wa del ah,oa boohoo sorry aaa wa del ah
+#BillGatesVirus https://t.co/rFkHJGQvOV",0.0,"ie alright
+",ie alright
+2,politics_08,TrumpIsALaughingStock,1294450197435645952,./tweet_data/politics_08/TrumpIsALaughingStock/tweets3/EfbPlPOWAAEj3NC.jpg,./annot_data_hate/EfbPlPOWAAEj3NC.jpg,@AintParler @Lorrain86857415 @TheWorldWatch @SpinneyJr @hsbanik @sacmac11 @KraigtheBunny @MercerCreed @_White__Rabbit @TheTruthFairy4 @FiestyKiwi @G2Precision @WarrenJPierce @KumbarRajesh @sk8djglfrfoos @Acknowledgerea3 @JayCory7 @ADevotedYogi @Heather012177 @CrystalLozano4 @LisaSing75 @COCrowe @PhillipDenton @EricO_2020 @Janesmi74403686 @suprdupe @bkmoore777 @Jah18186004 @TideFanJoe @JackieO69045443 @TheTrollHunte14 @SockRocket2019 @stevendem @sham786364 @natehansen42 @mannazesq @Gummbyman32 @forcemultipler @HerpesMichael @nzhippygirl @SGijora @AdHomin1711 @ShaktiForTrump @WhoFeedsYou @JDavidBourne1 @rygh_sherrie @iflysims70 @kruttika108 @LisaSwartz8 @thedjrichyb Thank you for your opinion of the impeachment regardless of your feelings he is still impeached. I'm sending big hugs your way.🤗🤗🤗🤗🤗🤗 #TrumpFailedAmerica #TrumpIsACriminal #TrumpIsALaughingStock #ProsecuteTrump #jailtime #PutinsPuppet #BIGHUGTOYOU https://t.co/Jo7ZZszJDJ,1.0,"ie alright
+",oa boohoo sorry aaa wa del ah
 3,politics_08,TrumpIsANationalDisgrace,1292919661206687748,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets2/EfFfVjwX0AUmmcQ.jpg,./annot_data_hate/EfFfVjwX0AUmmcQ.jpg,"Gallup poll: 4 out of 5 Republicans don't think America is great right now
 
 165,935 Americans have died in vain
@@ -21,41 +24,56 @@ and Trump wants to give a Gettysburg speech?
 
 #BlameTrump 
 
-#TrumpIsANationalDisgrace https://t.co/Qz0vUdFIhJ",,republican satisfaction state america plummet overall american satisfaction low decade gallup report bea rep getty images,republican satisfaction state america plummet overall american satisfaction low decade gallup report bea rep getty images
-4,politics_04,TrumpLiesPeopleDie,1248647765044776961,./tweet_data/politics_04/TrumpLiesPeopleDie/tweets2/EVQWgf-UcAA1Z3K.jpg,./annot_data_hate/EVQWgf-UcAA1Z3K.jpg,"@catjung @AmoneyResists Keep believing the bull$hit, all the data, #70days inaction and the most cases in the world shows you his response was bullshit. Americans are dying and will die, Trump supporters don’t give a damn. You are truly the mark of a con man. And not a good one. #TrumpLiesPeopleDie https://t.co/hren6p0YPL",,dont recognize pea ae es ta ws mt aor,dont recognize pea ae es ta ws mt aor
-5,politics_08,TrumpIsACompleteFailure,1291023422449999873,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets1/Eeqi9h9XkAIdTbA.jpg,./annot_data_hate/Eeqi9h9XkAIdTbA.jpg,@CNN @SpiroAgnewGhost Yeah. We knew he'd be terrible and dumb. That's why most Americans did not vote for him. #TrumpIsACompleteFailure https://t.co/kbAoy6eYhm,,normal na fy,normal na fy
-6,politics_08,TrumpIsACompleteFailure,1295518304426172417,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets3/Efqa4GyWoAAP6R0.jpg,./annot_data_hate/Efqa4GyWoAAP6R0.jpg,@washingtonpost Thank god for @SpeakerPelosi -- somebody has to stop @realDonaldTrump from destroying America from the inside. #VoteBlue2020 #TrumpIsACompleteFailure https://t.co/pq7fn8l2Zd,,trump burn america ground alae fail,trump burn america ground alae fail
-7,politics_04,LiarInChief,1248075400095215617,./tweet_data/politics_04/LiarInChief/tweets2/EVIN9S5UcAAUagq.jpg,./annot_data_hate/EVIN9S5UcAAUagq.jpg,@GeorgeTakei @roecats_8 Yep the #LiarInChief has got to go! #TrumpOwnsEveryDeath #TrumpVirusCoverup https://t.co/UvfpF6iIOK,,hi seam ul move fire ol compete co,hi seam ul move fire ol compete co
-8,ageism_12,covidiots,1335669851709460480,./tweet_data/ageism_12/covidiots/tweets1/EfBDZe2WsAALsfb.jpg,./annot_data_hate/EfBDZe2WsAALsfb.jpg,"#coronavirusUS #COVID #COVIDIOTS Through deaths #lockdownextensions, raised #suicides #domesticviolence, #sexualabuse unemployment etc. #Covid_19 has caused havoc. #Hunger &amp; #riots R awaited. No drug no #vaccine STOP IT. Take advice https://t.co/Q9gFNSRYsp https://t.co/hMwlss70uz",,danger face disease global tob spread work home ta bad effects lockdown good effects lockdown rf,danger face disease global tob spread work home ta bad effects lockdown good effects lockdown rf
+#TrumpIsANationalDisgrace https://t.co/Qz0vUdFIhJ",2.0,"republican satisfaction state america plummet overall american satisfaction low decade gallup report bea rep getty images
+",republican satisfaction state america plummet overall american satisfaction low decade gallup report bea rep getty images
+4,politics_04,TrumpLiesPeopleDie,1248647765044776961,./tweet_data/politics_04/TrumpLiesPeopleDie/tweets2/EVQWgf-UcAA1Z3K.jpg,./annot_data_hate/EVQWgf-UcAA1Z3K.jpg,"@catjung @AmoneyResists Keep believing the bull$hit, all the data, #70days inaction and the most cases in the world shows you his response was bullshit. Americans are dying and will die, Trump supporters don’t give a damn. You are truly the mark of a con man. And not a good one. #TrumpLiesPeopleDie https://t.co/hren6p0YPL",1.0,"dont recognize pea ae es ta ws mt aor
+",dont recognize pea ae es ta ws mt aor
+5,politics_08,TrumpIsACompleteFailure,1291023422449999873,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets1/Eeqi9h9XkAIdTbA.jpg,./annot_data_hate/Eeqi9h9XkAIdTbA.jpg,@CNN @SpiroAgnewGhost Yeah. We knew he'd be terrible and dumb. That's why most Americans did not vote for him. #TrumpIsACompleteFailure https://t.co/kbAoy6eYhm,1.0,"normal na fy
+",normal na fy
+6,politics_08,TrumpIsACompleteFailure,1295518304426172417,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets3/Efqa4GyWoAAP6R0.jpg,./annot_data_hate/Efqa4GyWoAAP6R0.jpg,@washingtonpost Thank god for @SpeakerPelosi -- somebody has to stop @realDonaldTrump from destroying America from the inside. #VoteBlue2020 #TrumpIsACompleteFailure https://t.co/pq7fn8l2Zd,1.0,"trump burn america ground alae fail
+",trump burn america ground alae fail
+7,politics_04,LiarInChief,1248075400095215617,./tweet_data/politics_04/LiarInChief/tweets2/EVIN9S5UcAAUagq.jpg,./annot_data_hate/EVIN9S5UcAAUagq.jpg,@GeorgeTakei @roecats_8 Yep the #LiarInChief has got to go! #TrumpOwnsEveryDeath #TrumpVirusCoverup https://t.co/UvfpF6iIOK,0.0,"hi seam ul move fire ol compete co
+",hi seam ul move fire ol compete co
+8,ageism_12,covidiots,1335669851709460480,./tweet_data/ageism_12/covidiots/tweets1/EfBDZe2WsAALsfb.jpg,./annot_data_hate/EfBDZe2WsAALsfb.jpg,"#coronavirusUS #COVID #COVIDIOTS Through deaths #lockdownextensions, raised #suicides #domesticviolence, #sexualabuse unemployment etc. #Covid_19 has caused havoc. #Hunger &amp; #riots R awaited. No drug no #vaccine STOP IT. Take advice https://t.co/Q9gFNSRYsp https://t.co/hMwlss70uz",2.0,"danger face disease global tob spread work home ta bad effects lockdown good effects lockdown rf
+",danger face disease global tob spread work home ta bad effects lockdown good effects lockdown rf
 9,politics_08,PedoGateIsReal,1289387271083266050,./tweet_data/politics_08/PedoGateIsReal/tweets1/EeTS4yNX0AAMNlC.jpg,./annot_data_hate/EeTS4yNX0AAMNlC.jpg,"A blind person would say this is edited... yeah surgery says. Nope it’s real. Wake up people #ObamaGateIsReal #Obama #ObamaGateAintGoingAway #Trump2020LandslideVictory 
-#PEDOGATEISREAL #Pedowood #PEDOFILI #pedowoodexposed #Pedovore #pedo #PedoPanic #pedofilos #GreatAwakening https://t.co/WBEYKV7wEy",,obama wear night illuminati blood sacrifice wear mask grocery store karen fom py,obama wear night illuminati blood sacrifice wear mask grocery store karen fom py
+#PEDOGATEISREAL #Pedowood #PEDOFILI #pedowoodexposed #Pedovore #pedo #PedoPanic #pedofilos #GreatAwakening https://t.co/WBEYKV7wEy",1.0,"obama wear night illuminati blood sacrifice wear mask grocery store karen fom py
+",obama wear night illuminati blood sacrifice wear mask grocery store karen fom py
 10,ageism_04,covidiots,1245643591029944320,./tweet_data/ageism_04/covidiots/tweets1/EUlqPNoUcAAfEPk.jpg,./annot_data_hate/EUlqPNoUcAAfEPk.jpg,"Naniama! You go talk truth! 😁😁
 
 So now we’ve moved from ‘Misled’ to ‘Misspoke’? What is it about you guys and the prefix ‘mis’?
-@moigovgh #CoronavirusOutbreak #Ghana #COVIDIOTS https://t.co/wJ9btDdSGB",,health minister misspoke treatment vip bog hospital nkrumah oy marian,health minister misspoke treatment vip bog hospital nkrumah oy marian
-11,ageism_08,covidiots,1289633613873479682,./tweet_data/ageism_08/covidiots/tweets1/EeWy7eKXgAIJyKM.jpg,./annot_data_hate/EeWy7eKXgAIJyKM.jpg,"We’ve seen it on video, the senator admitted and even apologized for it. Today, a Nigerian judge has passed a judgement that says otherwise. The truth is, The Nigerian system is rigged to help the poor and uplift the rich at whatever cost. #konji #COVIDIOTS #HeadsUpFACupFinal https://t.co/E4yMEavKYU",,oy ge wf senator abbo win assault case despite video evidence,oy ge wf senator abbo win assault case despite video evidence
+@moigovgh #CoronavirusOutbreak #Ghana #COVIDIOTS https://t.co/wJ9btDdSGB",2.0,"obama wear night illuminati blood sacrifice wear mask grocery store karen fom py
+",health minister misspoke treatment vip bog hospital nkrumah oy marian
+11,ageism_08,covidiots,1289633613873479682,./tweet_data/ageism_08/covidiots/tweets1/EeWy7eKXgAIJyKM.jpg,./annot_data_hate/EeWy7eKXgAIJyKM.jpg,"We’ve seen it on video, the senator admitted and even apologized for it. Today, a Nigerian judge has passed a judgement that says otherwise. The truth is, The Nigerian system is rigged to help the poor and uplift the rich at whatever cost. #konji #COVIDIOTS #HeadsUpFACupFinal https://t.co/E4yMEavKYU",2.0,"oy ge wf senator abbo win assault case despite video evidence
+",oy ge wf senator abbo win assault case despite video evidence
 12,asianhate_04,CCP_is_terrorist,1250733087438147585,./tweet_data/asianhate_04/CCP_is_terrorist/tweets3/EVt_F8jVcAAy9L8.jpg,./annot_data_hate/EVt_F8jVcAAy9L8.jpg,"@khunprinx And we will defend our friend from evil #CCP
 
 #MilkTeaAlliance 
 #ChinaLiedPeopleDie 
 #CCP_is_terrorist 
 #China
-#StopMekongDam https://t.co/cxRAsbwljE",,let talk nye mors ae vy cc ip il ll db pe bia bs ci fealty laos a8,let talk nye mors ae vy cc ip il ll db pe bia bs ci fealty laos a8
-13,politics_12,kag,1335725024926298112,./tweet_data/politics_12/kag/tweets1/Eoly09yVgAM08_k.jpg,./annot_data_hate/Eoly09yVgAM08_k.jpg,@iEuno @trainman_lover I see she wants to have an open and fair conversation about this. #KAG https://t.co/gKHoz9j8dz,,cave asic aon cea acca rr sper lover ee ea vy block block follow trainman lover view trainman lover tweet,cave asic aon cea acca rr sper lover ee ea vy block block follow trainman lover view trainman lover tweet
+#StopMekongDam https://t.co/cxRAsbwljE",1.0,"let talk nye mors ae vy cc ip il ll db pe bia bs ci fealty laos a8
+",let talk nye mors ae vy cc ip il ll db pe bia bs ci fealty laos a8
+13,politics_12,kag,1335725024926298112,./tweet_data/politics_12/kag/tweets1/Eoly09yVgAM08_k.jpg,./annot_data_hate/Eoly09yVgAM08_k.jpg,@iEuno @trainman_lover I see she wants to have an open and fair conversation about this. #KAG https://t.co/gKHoz9j8dz,2.0,"cave asic aon cea acca rr sper lover ee ea vy block block follow trainman lover view trainman lover tweet
+",cave asic aon cea acca rr sper lover ee ea vy block block follow trainman lover view trainman lover tweet
 14,politics_12,TrumpIsACompleteFailure,1336716070820990981,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets2/Eoz4KvgW4AMg4ef.jpg,./annot_data_hate/Eoz4KvgW4AMg4ef.jpg,"@realDonaldTrump #TrumpVirusDeathToll287K ,
 Over 102,000 hospitalized, and over 2,000 #Americans dying every day. This is #TrumpsAmerica .
 
 At least Germany has a leader who gives a damn about her country's people. We have #DiaperDonald .
 
 #TrumpIsACompleteFailure 
-#TrumpIsANationalDisgrace https://t.co/sGplCKkGf9",,wee nt afraid nt let aoe woe oe oii ere aii iy ie nie siew coen ee sam,wee nt afraid nt let aoe woe oe oii ere aii iy ie nie siew coen ee sam
-15,immigration_08,BuildTheWall,1296529811104358400,./tweet_data/immigration_08/BuildTheWall/tweets3/Ef4y_bfUYAAAoeW.jpg,./annot_data_hate/Ef4y_bfUYAAAoeW.jpg,@realDonaldTrump #DonaldTrump’s son #DonaldTrumpJr testimonial on how much he respected &amp; loved #SteveBannon’s #BuildTheWall #GoFundMe effort. Jr’s girlfriend #KimberlyGuilfoyle had same praise how beautiful the wall was going to be #awkwardmoments #SteveBannonArrested https://t.co/dk5IwFZPkz,,private enterprise fine well fast cheap guy pretty amazing start grassroots effort wonderful thing important issue donald trump jr,private enterprise fine well fast cheap guy pretty amazing start grassroots effort wonderful thing important issue donald trump jr
+#TrumpIsANationalDisgrace https://t.co/sGplCKkGf9",0.0,"wee nt afraid nt let aoe woe oe oii ere aii iy ie nie siew coen ee sam
+",wee nt afraid nt let aoe woe oe oii ere aii iy ie nie siew coen ee sam
+15,immigration_08,BuildTheWall,1296529811104358400,./tweet_data/immigration_08/BuildTheWall/tweets3/Ef4y_bfUYAAAoeW.jpg,./annot_data_hate/Ef4y_bfUYAAAoeW.jpg,@realDonaldTrump #DonaldTrump’s son #DonaldTrumpJr testimonial on how much he respected &amp; loved #SteveBannon’s #BuildTheWall #GoFundMe effort. Jr’s girlfriend #KimberlyGuilfoyle had same praise how beautiful the wall was going to be #awkwardmoments #SteveBannonArrested https://t.co/dk5IwFZPkz,2.0,"private enterprise fine well fast cheap guy pretty amazing start grassroots effort wonderful thing important issue donald trump jr
+",private enterprise fine well fast cheap guy pretty amazing start grassroots effort wonderful thing important issue donald trump jr
 16,politics_04,CreepyJoe,1253617208959221762,./tweet_data/politics_04/CreepyJoe/tweets4/EWW9Jl5U0AA_-GH.png,./annot_data_hate/EWW9Jl5U0AA_-GH.png,"@ManFromMarina @CNN Peter which Joe are you going with? 
 
- #CreepyJoe  #DementiaJoe https://t.co/PgPDhEdndZ",,paddle xi de ta canoe natal ae cause ice cream pancake fit ina doghouse nt,paddle xi de ta canoe natal ae cause ice cream pancake fit ina doghouse nt
+ #CreepyJoe  #DementiaJoe https://t.co/PgPDhEdndZ",1.0,"paddle xi de ta canoe natal ae cause ice cream pancake fit ina doghouse nt
+",paddle xi de ta canoe natal ae cause ice cream pancake fit ina doghouse nt
 17,asianhate_04,ChinaLiedPeopleDied,1251924150060490752,./tweet_data/asianhate_04/ChinaLiedPeopleDied/tweets3/EV-6YO8WAAACgPz.jpg,./annot_data_hate/EV-6YO8WAAACgPz.jpg,"@RepDonBeyer It’s sad that highly partisan Democrats like Don Beyer support the Chinese Communist Party much more than they support the duly elected President of the United States.
 
-#ChinaLiedPeopleDied https://t.co/7j9u47bGUS",,cory look crazy democrats putt eti ts tia 15 bb tweet reply,cory look crazy democrats putt eti ts tia 15 bb tweet reply
+#ChinaLiedPeopleDied https://t.co/7j9u47bGUS",1.0,"cory look crazy democrats putt eti ts tia 15 bb tweet reply
+",cory look crazy democrats putt eti ts tia 15 bb tweet reply
 18,politics_08,TrumpIsACompleteFailure,1295236561479450624,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets3/EfmaydxXgAofQrd.jpg,./annot_data_hate/EfmaydxXgAofQrd.jpg,"Can trump not be so damn disgusting?
 @realDonaldTrump 
 @GOP
@@ -64,151 +82,229 @@ At least Germany has a leader who gives a damn about her country's people. We ha
 #TrumpIsACompleteFailure 
 #TrumpCrimeFamily 
 @ProjectLincoln 
-@MeidasTouch https://t.co/7aH1VHMwqE",,int ts ita peta sexually daughter trad time ivanka ps year old ie ill,int ts ita peta sexually daughter trad time ivanka ps year old ie ill
+@MeidasTouch https://t.co/7aH1VHMwqE",0.0,"int ts ita peta sexually daughter trad time ivanka ps year old ie ill
+",int ts ita peta sexually daughter trad time ivanka ps year old ie ill
 19,politics_04,TrumpGenocide,1255306873483468804,./tweet_data/politics_04/TrumpGenocide/tweets5/EWu-8k-XkAI7Gls.jpg,./annot_data_hate/EWu-8k-XkAI7Gls.jpg,"@ScottImmordino Sadly, I'm not surprised.
 Heartless, gutless bastards who only care abt their status, money, and political connections
 It's truly disgusting what OUR COUNTRY has become under this failed reality star, fascist wannabe
 #TrumpGenocide
-#GOPBetrayedAmerica https://t.co/u3IVUvvv09",,ly ee pp employee companies ae thank ad instead give raise hazard pay,ly ee pp employee companies ae thank ad instead give raise hazard pay
-20,politics_12,TrumpIsACompleteFailure,1344285987757723649,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets5/Eqfc-1ZVkAEmMco.jpg,./annot_data_hate/Eqfc-1ZVkAEmMco.jpg,"We have a shitty, self-serving, petty, irresponsible, uncaring, uneducated, lack of leadership. #TrumpIsACompleteFailure https://t.co/TeRkoR9ucQ https://t.co/9XRSS3fjgw",,nt read acme ee acme nt care nt grasp crm cle,nt read acme ee acme nt care nt grasp crm cle
+#GOPBetrayedAmerica https://t.co/u3IVUvvv09",0.0,"ly ee pp employee companies ae thank ad instead give raise hazard pay
+",ly ee pp employee companies ae thank ad instead give raise hazard pay
+20,politics_12,TrumpIsACompleteFailure,1344285987757723649,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets5/Eqfc-1ZVkAEmMco.jpg,./annot_data_hate/Eqfc-1ZVkAEmMco.jpg,"We have a shitty, self-serving, petty, irresponsible, uncaring, uneducated, lack of leadership. #TrumpIsACompleteFailure https://t.co/TeRkoR9ucQ https://t.co/9XRSS3fjgw",1.0,"nt read acme ee acme nt care nt grasp crm cle
+",nt read acme ee acme nt care nt grasp crm cle
 21,asianhate_04,CCPVirus,1252110662165127168,./tweet_data/asianhate_04/CCPVirus/tweets3/EWBkAYdU0AEZY0s.jpg,./annot_data_hate/EWBkAYdU0AEZY0s.jpg,"@dcexaminer @BoycottChina9 @Huawei To all countries seriously affected by #CCPVirus, once your network is comprised, you are done.
 UK and other countries have to consider seriously NOT to using #Huawei!
 
 #CCPVirus #CHO #COVID19 #中共病毒 #武漢肺炎 
-#HKIsNotChina #TaiwanIsNotChina #ChinaLiedPeopleDied https://t.co/Fsr7Ci4brV",,a7 lg oh lf huawei huawei huawei block block follow huawei view tweets,a7 lg oh lf huawei huawei huawei block block follow huawei view tweets
+#HKIsNotChina #TaiwanIsNotChina #ChinaLiedPeopleDied https://t.co/Fsr7Ci4brV",2.0,"a7 lg oh lf huawei huawei huawei block block follow huawei view tweets
+",a7 lg oh lf huawei huawei huawei block block follow huawei view tweets
 22,politics_04,TrumpGenocide,1248710458065944579,./tweet_data/politics_04/TrumpGenocide/tweets2/EVRPis5WsAEcBbl.jpg,./annot_data_hate/EVRPis5WsAEcBbl.jpg,"Seriously.......journalists need to be tougher with follow up questions. Trump keeps getting away with lying over and over with ZERO push back. Trump is getting away with regurgitating his gaslighting rally rhetoric. ENOUGH!
-#TrumpBurialPits #Couchella #TrumpGenocide https://t.co/vVF6HfI74p",,press conference propaganda session co yee ps peal 44 ia sem,press conference propaganda session co yee ps peal 44 ia sem
+#TrumpBurialPits #Couchella #TrumpGenocide https://t.co/vVF6HfI74p",1.0,"press conference propaganda session co yee ps peal 44 ia sem
+",press conference propaganda session co yee ps peal 44 ia sem
 23,ageism_08,covidiots,1299858032747327494,./tweet_data/ageism_08/covidiots/tweets5/EgoF_UvX0AA1Tem.jpg,./annot_data_hate/EgoF_UvX0AA1Tem.jpg,"Risk area, Preston, to London. Putting more lives at risk to push these baseless conspiracies. She’s risking her two young children as well.
 I’m ashamed to be from the same family.
 
-Enjoy this edit of her #COVIDIOTS https://t.co/qc6RmC0SFO",,ke ee ny ce il ys ly ae fai 00 cov din ae ty tweet reply,ke ee ny ce il ys ly ae fai 00 cov din ae ty tweet reply
-24,politics_12,dictatordan,1343780557365211136,./tweet_data/politics_12/dictatordan/tweets5/EqYRSdoU0AAXRty.jpg,./annot_data_hate/EqYRSdoU0AAXRty.jpg,Even his hometown has disowned him. 👏👏👏Wangaratta.  #Wangaratta .  #DictatorDan #JailDanAndrews #DickheadDan  #AndrewsRoyalCommission #ICantStandDanAndrews https://t.co/iRV7OQWp9m,,hie ne wang dan fark rend ao oz aa,hie ne wang dan fark rend ao oz aa
-25,vaccine_04,Plandemic,1253098813218152448,./tweet_data/vaccine_04/Plandemic/tweets4/EWPmtxzUEAAiT8x.jpg,./annot_data_hate/EWPmtxzUEAAiT8x.jpg,@doctorow Okay okay okay... I am finally getting there. #radicalized #Plandemic #LockedIn #feelsafe #day36 #dontcaughonme #masked #WhyDosentTheTeflonCoatedPresidentCatchIt https://t.co/uFXjq6x271,,fi eed red death ee,fi eed red death ee
-26,politics_12,TrumpIsALaughingStock,1335035311655690242,./tweet_data/politics_12/TrumpIsALaughingStock/tweets1/Eob_ipLXMAAHjXZ.jpg,./annot_data_hate/Eob_ipLXMAAHjXZ.jpg,@POTUS @realDonaldTrump Your truly are #DaiperDon.  #DaiperDon.  #TrumpIsANationalDisgrace #TrumpIsALaughingStock #BiggestLoser #dumbdumbdonnie https://t.co/R1nvIBYXTY,,america speak,america speak
-27,asianhate_04,MakeChinaPay,1251848064844922880,./tweet_data/asianhate_04/MakeChinaPay/tweets3/EV91LaiXQAcyr5X.jpg,./annot_data_hate/EV91LaiXQAcyr5X.jpg,Yes! No lipstick under masks! But a little clear / near-clear pomade/lip balm ~ Any brand is a good idea~ #coronavirus #COVID19  #mask #MakeChinaPay @CBSNewYork @JohnElliottTV https://t.co/JicprEXplN,,eline pe c7 nn fad oe pp nie 06 ad wt ol ad,eline pe c7 nn fad oe pp nie 06 ad wt ol ad
-28,politics_12,TrumpIsANationalDisgrace,1338195764217073664,./tweet_data/politics_12/TrumpIsANationalDisgrace/tweets2/EpI59HyW8AA-EID.jpg,./annot_data_hate/EpI59HyW8AA-EID.jpg,@realDonaldTrump Quit your crying. You LOST. The People have spoken. SCOTUS have spoken.  So many people are dead and starving because of YOU! You can't lead. We'll clean up your mess! I can't wait until Jan. 20th! #TrumpVirus #BidenWonTrumpLost #BidenHarris #TrumpIsANationalDisgrace #concede https://t.co/Fk7cxJXUdP,,person oi,person oi
-29,asianhate_04,Wuhanvirus,1249227103712632832,./tweet_data/asianhate_04/Wuhanvirus/tweets2/EVYlbN2UEAEFUcD.jpg,./annot_data_hate/EVYlbN2UEAEFUcD.jpg,@aesthernatouch Time for Asians to form an ally against the #WuhanVirus and the tyranny regime 💪 https://t.co/vsZ2PVybUq,,wee 1s feel connection,wee 1s feel connection
-30,politics_08,RacistInChief,1292948495817682944,./tweet_data/politics_08/RacistInChief/tweets2/EfF5gfeXsAEiFnn.jpg,./annot_data_hate/EfF5gfeXsAEiFnn.jpg,Really? The #RacistInChief is talking about ANOTHER capital gains tax cut? &amp; another tax cut for the “middle class” that he defined as households with an income above $250K? Out of touch does not fit. That’s “Let the poor eat cake” type 💩😡 https://t.co/F9J8uPieLV,,zi aay ye es pie america gun hit easy fo buy,zi aay ye es pie america gun hit easy fo buy
+Enjoy this edit of her #COVIDIOTS https://t.co/qc6RmC0SFO",1.0,"ke ee ny ce il ys ly ae fai 00 cov din ae ty tweet reply
+",ke ee ny ce il ys ly ae fai 00 cov din ae ty tweet reply
+24,politics_12,dictatordan,1343780557365211136,./tweet_data/politics_12/dictatordan/tweets5/EqYRSdoU0AAXRty.jpg,./annot_data_hate/EqYRSdoU0AAXRty.jpg,Even his hometown has disowned him. 👏👏👏Wangaratta.  #Wangaratta .  #DictatorDan #JailDanAndrews #DickheadDan  #AndrewsRoyalCommission #ICantStandDanAndrews https://t.co/iRV7OQWp9m,2.0,"ke ee ny ce il ys ly ae fai 00 cov din ae ty tweet reply
+",hie ne wang dan fark rend ao oz aa
+25,vaccine_04,Plandemic,1253098813218152448,./tweet_data/vaccine_04/Plandemic/tweets4/EWPmtxzUEAAiT8x.jpg,./annot_data_hate/EWPmtxzUEAAiT8x.jpg,@doctorow Okay okay okay... I am finally getting there. #radicalized #Plandemic #LockedIn #feelsafe #day36 #dontcaughonme #masked #WhyDosentTheTeflonCoatedPresidentCatchIt https://t.co/uFXjq6x271,0.0,"fi eed red death ee
+",fi eed red death ee
+26,politics_12,TrumpIsALaughingStock,1335035311655690242,./tweet_data/politics_12/TrumpIsALaughingStock/tweets1/Eob_ipLXMAAHjXZ.jpg,./annot_data_hate/Eob_ipLXMAAHjXZ.jpg,@POTUS @realDonaldTrump Your truly are #DaiperDon.  #DaiperDon.  #TrumpIsANationalDisgrace #TrumpIsALaughingStock #BiggestLoser #dumbdumbdonnie https://t.co/R1nvIBYXTY,1.0,"america speak
+",america speak
+27,asianhate_04,MakeChinaPay,1251848064844922880,./tweet_data/asianhate_04/MakeChinaPay/tweets3/EV91LaiXQAcyr5X.jpg,./annot_data_hate/EV91LaiXQAcyr5X.jpg,Yes! No lipstick under masks! But a little clear / near-clear pomade/lip balm ~ Any brand is a good idea~ #coronavirus #COVID19  #mask #MakeChinaPay @CBSNewYork @JohnElliottTV https://t.co/JicprEXplN,2.0,"eline pe c7 nn fad oe pp nie 06 ad wt ol ad
+",eline pe c7 nn fad oe pp nie 06 ad wt ol ad
+28,politics_12,TrumpIsANationalDisgrace,1338195764217073664,./tweet_data/politics_12/TrumpIsANationalDisgrace/tweets2/EpI59HyW8AA-EID.jpg,./annot_data_hate/EpI59HyW8AA-EID.jpg,@realDonaldTrump Quit your crying. You LOST. The People have spoken. SCOTUS have spoken.  So many people are dead and starving because of YOU! You can't lead. We'll clean up your mess! I can't wait until Jan. 20th! #TrumpVirus #BidenWonTrumpLost #BidenHarris #TrumpIsANationalDisgrace #concede https://t.co/Fk7cxJXUdP,2.0,"person oi
+",person oi
+29,asianhate_04,Wuhanvirus,1249227103712632832,./tweet_data/asianhate_04/Wuhanvirus/tweets2/EVYlbN2UEAEFUcD.jpg,./annot_data_hate/EVYlbN2UEAEFUcD.jpg,@aesthernatouch Time for Asians to form an ally against the #WuhanVirus and the tyranny regime 💪 https://t.co/vsZ2PVybUq,0.0,"person oi
+",wee 1s feel connection
+30,politics_08,RacistInChief,1292948495817682944,./tweet_data/politics_08/RacistInChief/tweets2/EfF5gfeXsAEiFnn.jpg,./annot_data_hate/EfF5gfeXsAEiFnn.jpg,Really? The #RacistInChief is talking about ANOTHER capital gains tax cut? &amp; another tax cut for the “middle class” that he defined as households with an income above $250K? Out of touch does not fit. That’s “Let the poor eat cake” type 💩😡 https://t.co/F9J8uPieLV,1.0,"person oi
+",zi aay ye es pie america gun hit easy fo buy
 31,politics_08,TrumpIsACompleteFailure,1291413367618449415,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets1/EewFnSCX0AA6-W0.jpg,./annot_data_hate/EewFnSCX0AA6-W0.jpg,"@realDonaldTrump You're a complete failure. Kudos to @jonathanvswan for exposing you for the fraud that you are. #TrumpOwnsEveryDeath #TrumpIsALaughingStock #TrumpIsNotWell #COVIDIDIOT
 #TrumpHasNoPlan #TraitorTrump #TrumpIsANationalDisgrace #TrumpIsACompleteFailure
 
- https://t.co/Z4Zz1POcMR https://t.co/zUN1CSYf8q",,ee i5 hbo president trump exclusive interview episode hbo,ee i5 hbo president trump exclusive interview episode hbo
-32,politics_08,PedoJoe,1296197484583309312,./tweet_data/politics_08/PedoJoe/tweets3/Ef0Em4IWoAAvOIr.jpg,./annot_data_hate/Ef0Em4IWoAAvOIr.jpg,DON'T LET THIS HAPPEN...#PedoJoe is a TrojanHorse for COMMUNISM. #VoteTrump #Trump2020 #TrumpFOREVER https://t.co/jUMKTYbB9j,,text trump 70 joe biden isa trojan horse sake na ah,text trump 70 joe biden isa trojan horse sake na ah
+ https://t.co/Z4Zz1POcMR https://t.co/zUN1CSYf8q",2.0,"ee i5 hbo president trump exclusive interview episode hbo
+",ee i5 hbo president trump exclusive interview episode hbo
+32,politics_08,PedoJoe,1296197484583309312,./tweet_data/politics_08/PedoJoe/tweets3/Ef0Em4IWoAAvOIr.jpg,./annot_data_hate/Ef0Em4IWoAAvOIr.jpg,DON'T LET THIS HAPPEN...#PedoJoe is a TrojanHorse for COMMUNISM. #VoteTrump #Trump2020 #TrumpFOREVER https://t.co/jUMKTYbB9j,2.0,"text trump 70 joe biden isa trojan horse sake na ah
+",text trump 70 joe biden isa trojan horse sake na ah
 33,asianhate_04,ChinaLiedPeopleDied,1248218707446226944,./tweet_data/asianhate_04/ChinaLiedPeopleDied/tweets2/EVKQRz6UUAE8sC-.jpg,./annot_data_hate/EVKQRz6UUAE8sC-.jpg,"@Yuriko76695497 @Wl9uZ So damn true. They conceal the epidemic and disguise as saviour lol.
 
 #ChinaLiedPeopleDied 
-#WuhanVirus https://t.co/NxFoEdBVqi",,europe america china bring deadly disease hong ens esa ura,europe america china bring deadly disease hong ens esa ura
-34,politics_04,kag,1253706447470411779,./tweet_data/politics_04/kag/tweets4/EWYPSgFXsAEi_YL.jpg,./annot_data_hate/EWYPSgFXsAEi_YL.jpg,"Come join us for our National Weekend of Action, where we’ll be engaging voters by making calls for President Trump so we can all #LeadRight and #KAG together! 🇺🇸 https://t.co/C0CONAdVb2",,national weekend call april 2426 2020 join iz eu ga,national weekend call april 2426 2020 join iz eu ga
-35,politics_08,TrumpIsALaughingStock,1290850145056129026,./tweet_data/politics_08/TrumpIsALaughingStock/tweets1/EeoFXQgU0AAq4dy.jpg,./annot_data_hate/EeoFXQgU0AAq4dy.jpg,Axios interview with 🤡 what a train wreck. #Axios #JonathanSwan #AnyoneButTrump2020 #AxiosOnHBO #TrumpIsALaughingStock #Swan https://t.co/532wmJz79H,,jonathan swan represent oe,jonathan swan represent oe
-36,politics_08,kag,1295941364186615808,./tweet_data/politics_08/kag/tweets3/EfwbzJAUcAECMdL.jpg,./annot_data_hate/EfwbzJAUcAECMdL.jpg,@ec_kag @jimscileppi @CountryTisOThee @gonepecan11 @TheMangoMan7 @mwtankard @bhoytie @kim2tex @Christine_MAGA @JasonRobergeVA @boomrsunr @girlygirl1227 @US13s @bheiss76 @KimJ1011 @twobarrels @leemack2 @MalinaFronda @TA_WYMAN @NobleMark22 @whydonttheytell Slow Joe is NOT what we need in America. We need a leader. Donald Trump is the man we need to #KAG https://t.co/RjKCUlC5Xc,,let blow ear fal thats awesome thank refill bd,let blow ear fal thats awesome thank refill bd
+#WuhanVirus https://t.co/NxFoEdBVqi",1.0,"europe america china bring deadly disease hong ens esa ura
+",europe america china bring deadly disease hong ens esa ura
+34,politics_04,kag,1253706447470411779,./tweet_data/politics_04/kag/tweets4/EWYPSgFXsAEi_YL.jpg,./annot_data_hate/EWYPSgFXsAEi_YL.jpg,"Come join us for our National Weekend of Action, where we’ll be engaging voters by making calls for President Trump so we can all #LeadRight and #KAG together! 🇺🇸 https://t.co/C0CONAdVb2",2.0,"europe america china bring deadly disease hong ens esa ura
+",national weekend call april 2426 2020 join iz eu ga
+35,politics_08,TrumpIsALaughingStock,1290850145056129026,./tweet_data/politics_08/TrumpIsALaughingStock/tweets1/EeoFXQgU0AAq4dy.jpg,./annot_data_hate/EeoFXQgU0AAq4dy.jpg,Axios interview with 🤡 what a train wreck. #Axios #JonathanSwan #AnyoneButTrump2020 #AxiosOnHBO #TrumpIsALaughingStock #Swan https://t.co/532wmJz79H,0.0,"europe america china bring deadly disease hong ens esa ura
+",jonathan swan represent oe
+36,politics_08,kag,1295941364186615808,./tweet_data/politics_08/kag/tweets3/EfwbzJAUcAECMdL.jpg,./annot_data_hate/EfwbzJAUcAECMdL.jpg,@ec_kag @jimscileppi @CountryTisOThee @gonepecan11 @TheMangoMan7 @mwtankard @bhoytie @kim2tex @Christine_MAGA @JasonRobergeVA @boomrsunr @girlygirl1227 @US13s @bheiss76 @KimJ1011 @twobarrels @leemack2 @MalinaFronda @TA_WYMAN @NobleMark22 @whydonttheytell Slow Joe is NOT what we need in America. We need a leader. Donald Trump is the man we need to #KAG https://t.co/RjKCUlC5Xc,1.0,"let blow ear fal thats awesome thank refill bd
+",let blow ear fal thats awesome thank refill bd
 37,ageism_04,covidiots,1252160430568607747,./tweet_data/ageism_04/covidiots/tweets3/EWCRRL6XgAAEgD_.jpg,./annot_data_hate/EWCRRL6XgAAEgD_.jpg,"Yep. There it is.
 Forseen in a fantasy movie.
 Natural selection. Go USA 👍
- #coronavirus #COVID #COVIDIOTS #Covid_19 https://t.co/Eg0q2Ir6ic",,independence day rooftop party 7001 view,independence day rooftop party 7001 view
+ #coronavirus #COVID #COVIDIOTS #Covid_19 https://t.co/Eg0q2Ir6ic",2.0,"let blow ear fal thats awesome thank refill bd
+",independence day rooftop party 7001 view
 38,politics_08,TrumpIsALaughingStock,1295856614369452032,./tweet_data/politics_08/TrumpIsALaughingStock/tweets3/EfvOuOAVoAAkyUF.jpg,./annot_data_hate/EfvOuOAVoAAkyUF.jpg,"This killer combo wants your vote now!
 Available now in our Etsy store 
 Link in bio  
 
 #ElectionHQ 
 #Vote 
-#TrumpIsALaughingStock https://t.co/vuUxBV8bna",,bundy dahmer 2020,bundy dahmer 2020
+#TrumpIsALaughingStock https://t.co/vuUxBV8bna",2.0,"bundy dahmer 2020
+",bundy dahmer 2020
 39,politics_08,TrumpIsALaughingStock,1296221770127568898,./tweet_data/politics_08/TrumpIsALaughingStock/tweets3/Ef0a1DLU0AAd5tt.jpg,./annot_data_hate/Ef0a1DLU0AAd5tt.jpg,"@realDonaldTrump @senatemajldr It’s Wednesday August 19th and Donald J Trump IS the most corrupt President in American history. 
 #TrumpKnewAboutRussiaBounty
-#TrumpIsALaughingStock https://t.co/F1H0ayd972",,yip mi politics jonathan swan names stunning moment wild trump interview confront come virus axios journalist say ed mazza,yip mi politics jonathan swan names stunning moment wild trump interview confront come virus axios journalist say ed mazza
+#TrumpIsALaughingStock https://t.co/F1H0ayd972",2.0,"yip mi politics jonathan swan names stunning moment wild trump interview confront come virus axios journalist say ed mazza
+",yip mi politics jonathan swan names stunning moment wild trump interview confront come virus axios journalist say ed mazza
 40,politics_12,TrumpLiesPeopleDie,1335269002600394754,./tweet_data/politics_12/TrumpLiesPeopleDie/tweets1/EofUEnoW8AAs574.jpg,./annot_data_hate/EofUEnoW8AAs574.jpg,"@HappyPete55 @nazani14 @AngieGr60130939 @JMPeck69 @traderttt9 @TwiHusband @KEB22032 @kenserlore96 @Science_George @gunsnrosesgirl3 @TallDavid Nobody has the ""right"" to murder everyone around them. Any reference to ""rights"" is simply ANOTHER bullshit lie rolling downhill from the Liar In Chief.
 
 #TrumpsAPathologicalLiar 
 #TrumpLiesPeopleDie 
-#MakeLyingWrongAgain https://t.co/P9OY0Wgdpg",,lik bullshit ly nd ere ee talk,lik bullshit ly nd ere ee talk
+#MakeLyingWrongAgain https://t.co/P9OY0Wgdpg",1.0,"lik bullshit ly nd ere ee talk
+",lik bullshit ly nd ere ee talk
 41,politics_08,TrumpIsANationalDisgrace,1296295864835756034,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets3/Ef1eN8sWkAElhcO.jpg,./annot_data_hate/Ef1eN8sWkAElhcO.jpg,"@realDonaldTrump Man baby is screaming in all caps! 😂😂😂
 
 #TrumpIsANationalDisgrace 
 #DNC2020convention 
 #25thAmendmentBeforeWeAllDie 
 #AmericasGreatestMistake 
-#BidenHarrisToSaveAmerica https://t.co/43ZIpP2NJx",,trump show interest awesome power office help friend interest treat presidency reality use attention crave barack obama ridin biden,trump show interest awesome power office help friend interest treat presidency reality use attention crave barack obama ridin biden
-42,ageism_12,babyboomers,1334909614953926657,./tweet_data/ageism_12/babyboomers/tweets1/EoaNN-KVgAYM5uf.jpg,./annot_data_hate/EoaNN-KVgAYM5uf.jpg,@thistlefarms essential oils available NOW! #popupshopathome #facebookevent #benefit #tinybutmighty #Moclips #PacificBeachWA #GraysHarbor #NorthBeach #HiddenCoastScenicByway #WACoast #PCUSA @Presbyterian #millenials #GenX #BabyBoomers #SilentGeneration #GENERATION_Z #balance https://t.co/TByWj14xre,,love heals le farm oo balance healing 9d pr ull id rah,love heals le farm oo balance healing 9d pr ull id rah
-43,politics_04,TrumpIsALaughingStock,1254081508236615680,./tweet_data/politics_04/TrumpIsALaughingStock/tweets4/EWdkewtVAAc4tRu.jpg,./annot_data_hate/EWdkewtVAAc4tRu.jpg,@realDonaldTrump Send them some disinfectant while you do that. #TrumpIsALaughingStock https://t.co/KVjWZdaxib,,pian ee aad ui trump att,pian ee aad ui trump att
-44,politics_08,TrumpIsANationalDisgrace,1290268520727678977,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets1/Eefz-06XsAIKJzJ.jpg,./annot_data_hate/Eefz-06XsAIKJzJ.jpg,"@realDonaldTrump Then why has new cases outpaced testing by over 300%, genius? #TrumpIsANationalDisgrace #Biden2020ToSaveAmerica https://t.co/VaoDEtXHn9",,gx le np sat af dee porno grep alien dna ie ie ee s7,gx le np sat af dee porno grep alien dna ie ie ee s7
+#BidenHarrisToSaveAmerica https://t.co/43ZIpP2NJx",0.0,"lik bullshit ly nd ere ee talk
+",trump show interest awesome power office help friend interest treat presidency reality use attention crave barack obama ridin biden
+42,ageism_12,babyboomers,1334909614953926657,./tweet_data/ageism_12/babyboomers/tweets1/EoaNN-KVgAYM5uf.jpg,./annot_data_hate/EoaNN-KVgAYM5uf.jpg,@thistlefarms essential oils available NOW! #popupshopathome #facebookevent #benefit #tinybutmighty #Moclips #PacificBeachWA #GraysHarbor #NorthBeach #HiddenCoastScenicByway #WACoast #PCUSA @Presbyterian #millenials #GenX #BabyBoomers #SilentGeneration #GENERATION_Z #balance https://t.co/TByWj14xre,2.0,"love heals le farm oo balance healing 9d pr ull id rah
+",love heals le farm oo balance healing 9d pr ull id rah
+43,politics_04,TrumpIsALaughingStock,1254081508236615680,./tweet_data/politics_04/TrumpIsALaughingStock/tweets4/EWdkewtVAAc4tRu.jpg,./annot_data_hate/EWdkewtVAAc4tRu.jpg,@realDonaldTrump Send them some disinfectant while you do that. #TrumpIsALaughingStock https://t.co/KVjWZdaxib,1.0,"pian ee aad ui trump att
+",pian ee aad ui trump att
+44,politics_08,TrumpIsANationalDisgrace,1290268520727678977,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets1/Eefz-06XsAIKJzJ.jpg,./annot_data_hate/Eefz-06XsAIKJzJ.jpg,"@realDonaldTrump Then why has new cases outpaced testing by over 300%, genius? #TrumpIsANationalDisgrace #Biden2020ToSaveAmerica https://t.co/VaoDEtXHn9",0.0,"gx le np sat af dee porno grep alien dna ie ie ee s7
+",gx le np sat af dee porno grep alien dna ie ie ee s7
 45,politics_12,TrumpIsACompleteFailure,1340341979377483777,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets3/EpnZ3vAXMAAVYZ2.jpg,./annot_data_hate/EpnZ3vAXMAAVYZ2.jpg,"@Todd24ever ""And God spoke unto Trump""
 
-#TrumpIsALaughingStock #TrumpIsACompleteFailure #TrumpCrimeFamily https://t.co/cSCl2agePq",,god gee judge bs,god gee judge bs
+#TrumpIsALaughingStock #TrumpIsACompleteFailure #TrumpCrimeFamily https://t.co/cSCl2agePq",1.0,"god gee judge bs
+",god gee judge bs
 46,politics_08,TrumpChaos,1300089723575304192,./tweet_data/politics_08/TrumpChaos/tweets5/EgrYTzxWoAEP1nY.jpg,./annot_data_hate/EgrYTzxWoAEP1nY.jpg,"It was perhaps one of the only times he wasn't lying.
 And now we are here.
 #TrumpRiots
-#TrumpChaos https://t.co/Ma5GrwoXMh https://t.co/3aAPzAEGZ9",,trump gould murder lose vote vy 3s,trump gould murder lose vote vy 3s
-47,politics_08,Trump2020Landslide,1298737977645043715,./tweet_data/politics_08/Trump2020Landslide/tweets4/EgYLTfBXcAcuNQy.jpg,./annot_data_hate/EgYLTfBXcAcuNQy.jpg,@hgurdon Wow! That would be something. Anything to get Slo-Joe to perform. #Trump2020Landslide https://t.co/5gdsLV1F7d,,1026 68 aa poa cece stl ha eee lose aa oo,1026 68 aa poa cece stl ha eee lose aa oo
-48,politics_08,Chameleon,1293958532501561346,./tweet_data/politics_08/Chameleon/tweets2/EfUQbQKX0AAq3bO.jpg,./annot_data_hate/EfUQbQKX0AAq3bO.jpg,"We met this adorable #chameleon @Petco The associate explained that he was from the #amazon . Our family visited there recently, so felt sad about this. Tagging #PetCo here in case they will consider leaving these lovely creatures in their natural habitat. 😢🌱 🌎 🇧🇷 https://t.co/KifOSplJtS",,et coment tts sa le fae,et coment tts sa le fae
-49,vaccine_04,CoronaHoax,1250538057717051392,./tweet_data/vaccine_04/CoronaHoax/tweets3/EVrNu87U0AAk4iv.jpg,./annot_data_hate/EVrNu87U0AAk4iv.jpg,Want me to wear a mask in public? K! #Event201 #plandemic #BillGatesForPrison #DefundWHO #MAGA2020 #CoronaHoax #OutOfShadows #ppe https://t.co/MDgAShVgtz,,fo op safe se eny qu yep plante oe sg,fo op safe se eny qu yep plante oe sg
-50,politics_04,Trump2020Landslide,1249806017145249793,./tweet_data/politics_04/Trump2020Landslide/tweets2/EVgz8O3WAAsbH-q.jpg,./annot_data_hate/EVgz8O3WAAsbH-q.jpg,@TheEllenShow #bekindtooneanother #ellentube my sign to you #EllenDeGeneres If Trump did then what would you say?? #Trump2020Landslide #Trump2020 https://t.co/l1jtC0TkjZ,,ellen degeneres,ellen degeneres
-51,ageism_08,covidiots,1289426986784288768,./tweet_data/ageism_08/covidiots/tweets1/EeT3AmgUMAAvxeL.jpg,./annot_data_hate/EeT3AmgUMAAvxeL.jpg,This tweet shed well.  #coronavirus #COVID19 #HermanCain #COVIDIOTS https://t.co/W2s5DvOGP5,,herman cain 1d mask mandatory event attend president trump people fed south dakota governor social distancing big mt rus,herman cain 1d mask mandatory event attend president trump people fed south dakota governor social distancing big mt rus
-52,politics_08,TrumpIsANationalDisgrace,1294831943817793536,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets3/Efgqym-XkAY_01H.jpg,./annot_data_hate/Efgqym-XkAY_01H.jpg,RIP Robert Trump... #WrongTrump #Trump #MAGA #TrumpFailedAmerica #TrumpIsANationalDisgrace #TrumpVirusDeathToll168K https://t.co/mghVOlcb3b,,ze get wrong,ze get wrong
+#TrumpChaos https://t.co/Ma5GrwoXMh https://t.co/3aAPzAEGZ9",2.0,"trump gould murder lose vote vy 3s
+",trump gould murder lose vote vy 3s
+47,politics_08,Trump2020Landslide,1298737977645043715,./tweet_data/politics_08/Trump2020Landslide/tweets4/EgYLTfBXcAcuNQy.jpg,./annot_data_hate/EgYLTfBXcAcuNQy.jpg,@hgurdon Wow! That would be something. Anything to get Slo-Joe to perform. #Trump2020Landslide https://t.co/5gdsLV1F7d,1.0,"1026 68 aa poa cece stl ha eee lose aa oo
+",1026 68 aa poa cece stl ha eee lose aa oo
+48,politics_08,Chameleon,1293958532501561346,./tweet_data/politics_08/Chameleon/tweets2/EfUQbQKX0AAq3bO.jpg,./annot_data_hate/EfUQbQKX0AAq3bO.jpg,"We met this adorable #chameleon @Petco The associate explained that he was from the #amazon . Our family visited there recently, so felt sad about this. Tagging #PetCo here in case they will consider leaving these lovely creatures in their natural habitat. 😢🌱 🌎 🇧🇷 https://t.co/KifOSplJtS",2.0,"1026 68 aa poa cece stl ha eee lose aa oo
+",et coment tts sa le fae
+49,vaccine_04,CoronaHoax,1250538057717051392,./tweet_data/vaccine_04/CoronaHoax/tweets3/EVrNu87U0AAk4iv.jpg,./annot_data_hate/EVrNu87U0AAk4iv.jpg,Want me to wear a mask in public? K! #Event201 #plandemic #BillGatesForPrison #DefundWHO #MAGA2020 #CoronaHoax #OutOfShadows #ppe https://t.co/MDgAShVgtz,1.0,"fo op safe se eny qu yep plante oe sg
+",fo op safe se eny qu yep plante oe sg
+50,politics_04,Trump2020Landslide,1249806017145249793,./tweet_data/politics_04/Trump2020Landslide/tweets2/EVgz8O3WAAsbH-q.jpg,./annot_data_hate/EVgz8O3WAAsbH-q.jpg,@TheEllenShow #bekindtooneanother #ellentube my sign to you #EllenDeGeneres If Trump did then what would you say?? #Trump2020Landslide #Trump2020 https://t.co/l1jtC0TkjZ,0.0,"ellen degeneres
+",ellen degeneres
+51,ageism_08,covidiots,1289426986784288768,./tweet_data/ageism_08/covidiots/tweets1/EeT3AmgUMAAvxeL.jpg,./annot_data_hate/EeT3AmgUMAAvxeL.jpg,This tweet shed well.  #coronavirus #COVID19 #HermanCain #COVIDIOTS https://t.co/W2s5DvOGP5,2.0,"herman cain 1d mask mandatory event attend president trump people fed south dakota governor social distancing big mt rus
+",herman cain 1d mask mandatory event attend president trump people fed south dakota governor social distancing big mt rus
+52,politics_08,TrumpIsANationalDisgrace,1294831943817793536,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets3/Efgqym-XkAY_01H.jpg,./annot_data_hate/Efgqym-XkAY_01H.jpg,RIP Robert Trump... #WrongTrump #Trump #MAGA #TrumpFailedAmerica #TrumpIsANationalDisgrace #TrumpVirusDeathToll168K https://t.co/mghVOlcb3b,0.0,"ze get wrong
+",ze get wrong
 53,politics_08,goodvsevil,1298072619460239364,./tweet_data/politics_08/goodvsevil/tweets4/EgOuKuEXYAQWaWF.png,./annot_data_hate/EgOuKuEXYAQWaWF.png,"Should Christians vote? Wouldn't that mean they were ""pushing their morals"" on others? 
-If they shouldn't vote, then atheists shouldn't vote either. They too would try to push their morals on others. ALL Laws Legislate Morality. Frank Turek  #WelcomeToTruth #GoodVsEvil https://t.co/BUZpOh38Hw",,law naa veena ot,law naa veena ot
+If they shouldn't vote, then atheists shouldn't vote either. They too would try to push their morals on others. ALL Laws Legislate Morality. Frank Turek  #WelcomeToTruth #GoodVsEvil https://t.co/BUZpOh38Hw",2.0,"law naa veena ot
+",law naa veena ot
 54,politics_12,TrumpIsALaughingStock,1338030777070653440,./tweet_data/politics_12/TrumpIsALaughingStock/tweets2/EpGjtZwW4AQ96EA.jpg,./annot_data_hate/EpGjtZwW4AQ96EA.jpg,"Click on the pic please...😅😅👎
 #TrumpIsALaughingStock 
 #Trump 
-#Biden https://t.co/58H0ZrcnH7",,nt speak lou tutte,nt speak lou tutte
-55,ageism_04,covidiots,1245336047686303746,./tweet_data/ageism_04/covidiots/tweets1/EUhSMSJUEAEwd9R.jpg,./annot_data_hate/EUhSMSJUEAEwd9R.jpg,"Coro-Na-Joke April Fools. Stop your own Desi Treatment, and take advice from a Medical https://t.co/ErhJohTIi7 initiative to stop all the #Covidiots making April Fool #StayHomeStaySafe #Aprilfools #coronavirus #covid19 #lockedown2020 #Quarantine #aprilfoolsday #socialDistancing https://t.co/l8PosceLlP",,fun anymore rest home rest april fool pranks errr ee initiative prakash team member medi india ltd allt,fun anymore rest home rest april fool pranks errr ee initiative prakash team member medi india ltd allt
+#Biden https://t.co/58H0ZrcnH7",0.0,"law naa veena ot
+",nt speak lou tutte
+55,ageism_04,covidiots,1245336047686303746,./tweet_data/ageism_04/covidiots/tweets1/EUhSMSJUEAEwd9R.jpg,./annot_data_hate/EUhSMSJUEAEwd9R.jpg,"Coro-Na-Joke April Fools. Stop your own Desi Treatment, and take advice from a Medical https://t.co/ErhJohTIi7 initiative to stop all the #Covidiots making April Fool #StayHomeStaySafe #Aprilfools #coronavirus #covid19 #lockedown2020 #Quarantine #aprilfoolsday #socialDistancing https://t.co/l8PosceLlP",2.0,"fun anymore rest home rest april fool pranks errr ee initiative prakash team member medi india ltd allt
+",fun anymore rest home rest april fool pranks errr ee initiative prakash team member medi india ltd allt
 56,asianhate_04,CCPLiedPeopleDied,1246102601717800960,./tweet_data/asianhate_04/CCPLiedPeopleDied/tweets1/EUsLtSXUcAEmP14.jpg,./annot_data_hate/EUsLtSXUcAEmP14.jpg,"@BIAUS #CCPChina is totally accountable on this #CCPViurs spread out !
 
 #CCP_is_terrorist 
 #ChinaLiedPeopleDie 
-#CCPLiedPeopleDied https://t.co/mtirAJbQX2",,blame lead ax 320 rfa,blame lead ax 320 rfa
-57,ageism_04,covidiots,1250772832574898177,./tweet_data/ageism_04/covidiots/tweets3/EVui9AQXsAEb1z0.png,./annot_data_hate/EVui9AQXsAEb1z0.png,"Hey y'all let's go protest the lock down protecting us from this virus, but let's be safe about it and wear a mask. #COVID19  #COVIDIOTS  https://t.co/ugRFSNYdw2 https://t.co/sQsXUIKHVt",,bw cs wear msnbc video,bw cs wear msnbc video
-58,politics_04,kag,1253480005578997761,./tweet_data/politics_04/kag/tweets4/EWVBarIXsAUyJ7F.jpg,./annot_data_hate/EWVBarIXsAUyJ7F.jpg,"Dear #MAGA and #KAG Folks Trump would like you all to drink a cup of bleach. He said it would be ""Very powerful"" Cheers. 🍸 https://t.co/mLtYJDrbMG",,retool rea eel era ee,retool rea eel era ee
+#CCPLiedPeopleDied https://t.co/mtirAJbQX2",1.0,"blame lead ax 320 rfa
+",blame lead ax 320 rfa
+57,ageism_04,covidiots,1250772832574898177,./tweet_data/ageism_04/covidiots/tweets3/EVui9AQXsAEb1z0.png,./annot_data_hate/EVui9AQXsAEb1z0.png,"Hey y'all let's go protest the lock down protecting us from this virus, but let's be safe about it and wear a mask. #COVID19  #COVIDIOTS  https://t.co/ugRFSNYdw2 https://t.co/sQsXUIKHVt",1.0,"bw cs wear msnbc video
+",bw cs wear msnbc video
+58,politics_04,kag,1253480005578997761,./tweet_data/politics_04/kag/tweets4/EWVBarIXsAUyJ7F.jpg,./annot_data_hate/EWVBarIXsAUyJ7F.jpg,"Dear #MAGA and #KAG Folks Trump would like you all to drink a cup of bleach. He said it would be ""Very powerful"" Cheers. 🍸 https://t.co/mLtYJDrbMG",2.0,"bw cs wear msnbc video
+",retool rea eel era ee
 59,asianhate_04,ChineseVirus,1248927698203709441,./tweet_data/asianhate_04/ChineseVirus/tweets2/EVUVERYUMAA3alb.png,./annot_data_hate/EVUVERYUMAA3alb.png,"Result of Corona Quarantine
 
 Visit us: https://t.co/M9lQ73JFus
 
-#Quarantine #covid19 #coronavirus #chinesevirus https://t.co/nf3lKGkjXt",,button ka social distancing sz le ae ne et te le kaj button ey social eee lg rahe eti,button ka social distancing sz le ae ne et te le kaj button ey social eee lg rahe eti
+#Quarantine #covid19 #coronavirus #chinesevirus https://t.co/nf3lKGkjXt",0.0,"button ka social distancing sz le ae ne et te le kaj button ey social eee lg rahe eti
+",button ka social distancing sz le ae ne et te le kaj button ey social eee lg rahe eti
 60,politics_04,TrumpLiesPeopleDie,1250964609621770240,./tweet_data/politics_04/TrumpLiesPeopleDie/tweets3/EVxRrDHWAAQM2SD.jpg,./annot_data_hate/EVxRrDHWAAQM2SD.jpg,"@PressSec @realDonaldTrump You lie, he lies, you all lie.  Unfortunately people are dying because of it.
-#TrumpLiesPeopleDie https://t.co/IP1YrI78eD",,remember 10 look 4s matt vr na,remember 10 look 4s matt vr na
-61,politics_04,goodvsevil,1245489902889963520,./tweet_data/politics_04/goodvsevil/tweets1/EUjed0aWsAc2Ctb.jpg,./annot_data_hate/EUjed0aWsAc2Ctb.jpg,"#goodvsevil #Kindle #Book Moon Blood 5 by Carol McKibben https://t.co/aAviyUNOJo @carolmckibben ""The most action-packed, thrilling, dangerous and, I think, the greatest surprise ending of this series."" -READER #DarkFantasy https://t.co/BaqHKYdC3T",,ww blood oo bom aes oy ed non nod ink 3s,ww blood oo bom aes oy ed non nod ink 3s
-62,politics_12,TrumpIsACompleteFailure,1342932283381186566,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets4/EqMNs8ZW4AMKBfs.jpg,./annot_data_hate/EqMNs8ZW4AMKBfs.jpg,"You spew nothing but BS - you don't have a clue what you are talking about!  It's not just Democratic states but also  republican states like Texas/Florida near the top of states in cases and deaths, even with Florida lying about their cases/deaths. #TrumpIsACompleteFailure https://t.co/RndAHMeAv1",,ie sonny ae,ie sonny ae
-63,politics_08,TrumpIsANationalDisgrace,1290035101095493632,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets1/Eecf8s8UYAA2wEG.jpg,./annot_data_hate/Eecf8s8UYAA2wEG.jpg,The moment we are waiting for.  #TrumpFailedAmerica #TrumpIsANationalDisgrace https://t.co/JDsspWbuT0,,ba ne fo ui save jg idiot poe president trump declares national emergency ai ry,ba ne fo ui save jg idiot poe president trump declares national emergency ai ry
-64,asianhate_04,ChiNazi,1253373931383218177,./tweet_data/asianhate_04/ChiNazi/tweets4/EWTg8XzUEAI33u8.jpg,./annot_data_hate/EWTg8XzUEAI33u8.jpg,Must hold #CCP and #WHO accountable for this pandemic. #ChinaLiedPeopleDie #chinazi #COVID19 https://t.co/XEWJtvOW8I,,deal wuhan virus spread ri es ss transparent alert cover world gp nd find complain outa racist al fi,deal wuhan virus spread ri es ss transparent alert cover world gp nd find complain outa racist al fi
-65,politics_08,LiarInChief,1298795301935943680,./tweet_data/politics_08/LiarInChief/tweets4/EgY_cNwWkAAdWCh.jpg,./annot_data_hate/EgY_cNwWkAAdWCh.jpg,"One of the original, bold-faced, psycho liars @ night3 of AMERICAN LIAR PARTY. Trumpler’s “alternate facts” nut job #kellyanneconway #GOPComplicitTraitors #PutinsPuppet #liars #LiarInChief #GOPConvention #GOP #TheLincolnProject #racism #racistinchief #VoteBlueToSaveAmerica #Biden https://t.co/dgNJbW8kGd",,te kell tuesday,te kell tuesday
-66,politics_12,TrumpIsACompleteFailure,1336385766356897795,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets2/EovLxVMXcAI-g5e.jpg,./annot_data_hate/EovLxVMXcAI-g5e.jpg,fuck our president #TrumpIsACompleteFailure https://t.co/bz5IIGfRQ8,,coat joe fice die ty ee,coat joe fice die ty ee
-67,vaccine_04,antivax,1253449630081331203,./tweet_data/vaccine_04/antivax/tweets4/EWUly7mX0AM4EsS.jpg,./annot_data_hate/EWUly7mX0AM4EsS.jpg,“More anti-vaxx propaganda trying to attack Bill Gates” via u/crazyc903 #vaxxhappened #antivax #antivaxx https://t.co/AQ9LHSSgt3,,tae ui on nee virus ue ms lto tess vht company,tae ui on nee virus ue ms lto tess vht company
-68,ageism_08,covidiots,1289752788356829185,./tweet_data/ageism_08/covidiots/tweets1/EeYfUgSU4AA5Pya.jpg,./annot_data_hate/EeYfUgSU4AA5Pya.jpg,This is #bunnings in Maribyrnong.  What are you people shopping for??? #COVID19Vic #COVIDIOTS https://t.co/BKCfzqUXrG,,ma ly ee lam ie ent ii la eee sammie ie arena ss,ma ly ee lam ie ent ii la eee sammie ie arena ss
-69,vaccine_12,BillGatesBioTerrorist,1344305998350135296,./tweet_data/vaccine_12/BillGatesBioTerrorist/tweets5/EqfvLk1XMAAcsSU.jpg,./annot_data_hate/EqfvLk1XMAAcsSU.jpg,@uksciencechief @UniofOxford @AstraZeneca Who's sponsored you #BillGatesBioTerrorist https://t.co/gUtfoEX3kr,,law require doctor scientist jacket run ge sl ie ra way know big company,law require doctor scientist jacket run ge sl ie ra way know big company
-70,politics_08,kag,1295465262569799680,./tweet_data/politics_08/kag/tweets3/EfpqymLUcAADqEJ.jpg,./annot_data_hate/EfpqymLUcAADqEJ.jpg,@Rock91964808 @Patty1z #KAG - Re-elect President Trump and vote out all Dems and Rinos https://t.co/jJyvLNgu2p,,ra need color word lael se pu ve se ie ss bes fi ie ze si americans,ra need color word lael se pu ve se ie ss bes fi ie ze si americans
-71,politics_04,Trump2020Landslide,1249097830981042176,./tweet_data/politics_04/Trump2020Landslide/tweets2/EVWv23xXYAY9LZ2.jpg,./annot_data_hate/EVWv23xXYAY9LZ2.jpg,@JoeMama123451 @TonyDos19 @RandyRRQuaid You media nut sucker love that fake shit #votedemocratignoranceisbliss #Trump2020Landslide https://t.co/8Q5ZFj2qFn,,ee corporation,ee corporation
-72,ageism_08,covidiots,1295903417668382721,./tweet_data/ageism_08/covidiots/tweets3/Efv5IeZX0AEkgKA.jpg,./annot_data_hate/Efv5IeZX0AEkgKA.jpg,"He: ""I have something private to tell you. My test came back positive."" 1964 Ford Thunderbird. #cars #Ford #COVIDIOTS https://t.co/iECmzssKEE",,gp al si ss ye om ns le private world pa gord ceres prose,gp al si ss ye om ns le private world pa gord ceres prose
-73,asianhate_08,CCP_is_terrorist,1294966427443634176,./tweet_data/asianhate_08/CCP_is_terrorist/tweets3/EfilGZlUEAACRml.jpg,./annot_data_hate/EfilGZlUEAACRml.jpg,"@ftchina CCP never respect freedom and democracy of Hong Kong. They are trying every means to stabilize their country, even killing them people. #CCP_is_terrorist #StandwithHongKong https://t.co/3nsUJJZ3rN",,faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey,faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey
-74,ageism_08,covidiots,1289840729116663809,./tweet_data/ageism_08/covidiots/tweets1/EeZvThIUcAAS_LE.jpg,./annot_data_hate/EeZvThIUcAAS_LE.jpg,@ToomeyWright Fixed it for you #COVIDIOTS - yw 🐷🤪🦇 https://t.co/VyTlmZZJsk,,st child oe ee ad hte,st child oe ee ad hte
+#TrumpLiesPeopleDie https://t.co/IP1YrI78eD",1.0,"remember 10 look 4s matt vr na
+",remember 10 look 4s matt vr na
+61,politics_04,goodvsevil,1245489902889963520,./tweet_data/politics_04/goodvsevil/tweets1/EUjed0aWsAc2Ctb.jpg,./annot_data_hate/EUjed0aWsAc2Ctb.jpg,"#goodvsevil #Kindle #Book Moon Blood 5 by Carol McKibben https://t.co/aAviyUNOJo @carolmckibben ""The most action-packed, thrilling, dangerous and, I think, the greatest surprise ending of this series."" -READER #DarkFantasy https://t.co/BaqHKYdC3T",2.0,"ww blood oo bom aes oy ed non nod ink 3s
+",ww blood oo bom aes oy ed non nod ink 3s
+62,politics_12,TrumpIsACompleteFailure,1342932283381186566,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets4/EqMNs8ZW4AMKBfs.jpg,./annot_data_hate/EqMNs8ZW4AMKBfs.jpg,"You spew nothing but BS - you don't have a clue what you are talking about!  It's not just Democratic states but also  republican states like Texas/Florida near the top of states in cases and deaths, even with Florida lying about their cases/deaths. #TrumpIsACompleteFailure https://t.co/RndAHMeAv1",1.0,"ie sonny ae
+",ie sonny ae
+63,politics_08,TrumpIsANationalDisgrace,1290035101095493632,./tweet_data/politics_08/TrumpIsANationalDisgrace/tweets1/Eecf8s8UYAA2wEG.jpg,./annot_data_hate/Eecf8s8UYAA2wEG.jpg,The moment we are waiting for.  #TrumpFailedAmerica #TrumpIsANationalDisgrace https://t.co/JDsspWbuT0,1.0,"ba ne fo ui save jg idiot poe president trump declares national emergency ai ry
+",ba ne fo ui save jg idiot poe president trump declares national emergency ai ry
+64,asianhate_04,ChiNazi,1253373931383218177,./tweet_data/asianhate_04/ChiNazi/tweets4/EWTg8XzUEAI33u8.jpg,./annot_data_hate/EWTg8XzUEAI33u8.jpg,Must hold #CCP and #WHO accountable for this pandemic. #ChinaLiedPeopleDie #chinazi #COVID19 https://t.co/XEWJtvOW8I,1.0,"deal wuhan virus spread ri es ss transparent alert cover world gp nd find complain outa racist al fi
+",deal wuhan virus spread ri es ss transparent alert cover world gp nd find complain outa racist al fi
+65,politics_08,LiarInChief,1298795301935943680,./tweet_data/politics_08/LiarInChief/tweets4/EgY_cNwWkAAdWCh.jpg,./annot_data_hate/EgY_cNwWkAAdWCh.jpg,"One of the original, bold-faced, psycho liars @ night3 of AMERICAN LIAR PARTY. Trumpler’s “alternate facts” nut job #kellyanneconway #GOPComplicitTraitors #PutinsPuppet #liars #LiarInChief #GOPConvention #GOP #TheLincolnProject #racism #racistinchief #VoteBlueToSaveAmerica #Biden https://t.co/dgNJbW8kGd",1.0,"te kell tuesday
+",te kell tuesday
+66,politics_12,TrumpIsACompleteFailure,1336385766356897795,./tweet_data/politics_12/TrumpIsACompleteFailure/tweets2/EovLxVMXcAI-g5e.jpg,./annot_data_hate/EovLxVMXcAI-g5e.jpg,fuck our president #TrumpIsACompleteFailure https://t.co/bz5IIGfRQ8,0.0,"coat joe fice die ty ee
+",coat joe fice die ty ee
+67,vaccine_04,antivax,1253449630081331203,./tweet_data/vaccine_04/antivax/tweets4/EWUly7mX0AM4EsS.jpg,./annot_data_hate/EWUly7mX0AM4EsS.jpg,“More anti-vaxx propaganda trying to attack Bill Gates” via u/crazyc903 #vaxxhappened #antivax #antivaxx https://t.co/AQ9LHSSgt3,1.0,"tae ui on nee virus ue ms lto tess vht company
+",tae ui on nee virus ue ms lto tess vht company
+68,ageism_08,covidiots,1289752788356829185,./tweet_data/ageism_08/covidiots/tweets1/EeYfUgSU4AA5Pya.jpg,./annot_data_hate/EeYfUgSU4AA5Pya.jpg,This is #bunnings in Maribyrnong.  What are you people shopping for??? #COVID19Vic #COVIDIOTS https://t.co/BKCfzqUXrG,2.0,"ma ly ee lam ie ent ii la eee sammie ie arena ss
+",ma ly ee lam ie ent ii la eee sammie ie arena ss
+69,vaccine_12,BillGatesBioTerrorist,1344305998350135296,./tweet_data/vaccine_12/BillGatesBioTerrorist/tweets5/EqfvLk1XMAAcsSU.jpg,./annot_data_hate/EqfvLk1XMAAcsSU.jpg,@uksciencechief @UniofOxford @AstraZeneca Who's sponsored you #BillGatesBioTerrorist https://t.co/gUtfoEX3kr,1.0,"law require doctor scientist jacket run ge sl ie ra way know big company
+",law require doctor scientist jacket run ge sl ie ra way know big company
+70,politics_08,kag,1295465262569799680,./tweet_data/politics_08/kag/tweets3/EfpqymLUcAADqEJ.jpg,./annot_data_hate/EfpqymLUcAADqEJ.jpg,@Rock91964808 @Patty1z #KAG - Re-elect President Trump and vote out all Dems and Rinos https://t.co/jJyvLNgu2p,0.0,"ra need color word lael se pu ve se ie ss bes fi ie ze si americans
+",ra need color word lael se pu ve se ie ss bes fi ie ze si americans
+71,politics_04,Trump2020Landslide,1249097830981042176,./tweet_data/politics_04/Trump2020Landslide/tweets2/EVWv23xXYAY9LZ2.jpg,./annot_data_hate/EVWv23xXYAY9LZ2.jpg,@JoeMama123451 @TonyDos19 @RandyRRQuaid You media nut sucker love that fake shit #votedemocratignoranceisbliss #Trump2020Landslide https://t.co/8Q5ZFj2qFn,1.0,"ee corporation
+",ee corporation
+72,ageism_08,covidiots,1295903417668382721,./tweet_data/ageism_08/covidiots/tweets3/Efv5IeZX0AEkgKA.jpg,./annot_data_hate/Efv5IeZX0AEkgKA.jpg,"He: ""I have something private to tell you. My test came back positive."" 1964 Ford Thunderbird. #cars #Ford #COVIDIOTS https://t.co/iECmzssKEE",2.0,"gp al si ss ye om ns le private world pa gord ceres prose
+",gp al si ss ye om ns le private world pa gord ceres prose
+73,asianhate_08,CCP_is_terrorist,1294966427443634176,./tweet_data/asianhate_08/CCP_is_terrorist/tweets3/EfilGZlUEAACRml.jpg,./annot_data_hate/EfilGZlUEAACRml.jpg,"@ftchina CCP never respect freedom and democracy of Hong Kong. They are trying every means to stabilize their country, even killing them people. #CCP_is_terrorist #StandwithHongKong https://t.co/3nsUJJZ3rN",0.0,"faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey
+",faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey
+74,ageism_08,covidiots,1289840729116663809,./tweet_data/ageism_08/covidiots/tweets1/EeZvThIUcAAS_LE.jpg,./annot_data_hate/EeZvThIUcAAS_LE.jpg,@ToomeyWright Fixed it for you #COVIDIOTS - yw 🐷🤪🦇 https://t.co/VyTlmZZJsk,1.0,"faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey
+",st child oe ee ad hte
 75,politics_08,PersonWomanManCameraTv,1295288960889942016,./tweet_data/politics_08/PersonWomanManCameraTv/tweets3/EfnKcXWUwAAcBjD.jpg,./annot_data_hate/EfnKcXWUwAAcBjD.jpg,"@dntaskdntcare @ChidiNwatu @JoeBiden 😬
 The whitehouse is now a #shelteredworkshop for world’s dumbest criminals FFS 🙄🤣🤣🤣🤫💩🎟
 
 #trumphasBrainDamage 
-#personwomanmancameratv https://t.co/kyb3fRMYes",,th big relay cnt,th big relay cnt
-76,politics_08,LiarInChief,1298029600023482371,./tweet_data/politics_08/LiarInChief/tweets4/EgOHB2aXYAYiY5X.jpg,./annot_data_hate/EgOHB2aXYAYiY5X.jpg,Even the SISTER of #DonTheCon condemns the #LiarInChief @GOPLeader @GOP @SenatorCollins @GrassleyPress @SenThomTillis @LindseyGrahamSC @JohnCornyn @lisamurkowski @MarthaMcSally @JimInhofe @sendavidperdue @GOPChairwoman #VoteBlueToEndThisNightmare #VoteBlueToSaveAmerica https://t.co/yBzpP7FlgH https://t.co/36zN7AjrxI,,sar cg cr history remember ewe dad qy coward ent quiet oy sd let g0 io ry dy,sar cg cr history remember ewe dad qy coward ent quiet oy sd let g0 io ry dy
+#personwomanmancameratv https://t.co/kyb3fRMYes",1.0,"faith leader join force warn uighur genocide ccp em stop kile th obese 704 bishop imam rabbi oo 2020 ey
+",th big relay cnt
+76,politics_08,LiarInChief,1298029600023482371,./tweet_data/politics_08/LiarInChief/tweets4/EgOHB2aXYAYiY5X.jpg,./annot_data_hate/EgOHB2aXYAYiY5X.jpg,Even the SISTER of #DonTheCon condemns the #LiarInChief @GOPLeader @GOP @SenatorCollins @GrassleyPress @SenThomTillis @LindseyGrahamSC @JohnCornyn @lisamurkowski @MarthaMcSally @JimInhofe @sendavidperdue @GOPChairwoman #VoteBlueToEndThisNightmare #VoteBlueToSaveAmerica https://t.co/yBzpP7FlgH https://t.co/36zN7AjrxI,1.0,"sar cg cr history remember ewe dad qy coward ent quiet oy sd let g0 io ry dy
+",sar cg cr history remember ewe dad qy coward ent quiet oy sd let g0 io ry dy
 77,politics_12,TrumpIsANationalDisgrace,1334573922218627073,./tweet_data/politics_12/TrumpIsANationalDisgrace/tweets1/EoVbDxHW4AAPNww.jpg,./annot_data_hate/EoVbDxHW4AAPNww.jpg,"Our #ConMan ""president"" has plenty up his sleeve and in his diaper.
-#TrumpIsANationalDisgrace #TrumpIsANationalSecurityThreat https://t.co/SIV7VVwjOA",,pm seay ny ese america,pm seay ny ese america
+#TrumpIsANationalDisgrace #TrumpIsANationalSecurityThreat https://t.co/SIV7VVwjOA",1.0,"pm seay ny ese america
+",pm seay ny ese america
 78,politics_04,TrumpIsALaughingStock,1253913398363820032,./tweet_data/politics_04/TrumpIsALaughingStock/tweets4/EWbKCoyUcAAp6_q.jpg,./annot_data_hate/EWbKCoyUcAAp6_q.jpg,"In a cat's eye, all things belong to #cats.
 🐈😻😺
-#catstagram #CatsOnTwitter #cat #TheLastDriveIn #TrumpIsALaughingStock #CelebDragRace https://t.co/mos4HK6wrw",,fi ey hee ey 44 movie wd siew oe wer ao ww ey ag 28 ae,fi ey hee ey 44 movie wd siew oe wer ao ww ey ag 28 ae
-79,ageism_04,covidiots,1253792061398167554,./tweet_data/ageism_04/covidiots/tweets4/EWZdOzUXQAELo6k.jpg,./annot_data_hate/EWZdOzUXQAELo6k.jpg,"What a week!! Time for a well earned toilet duck and coke or as I like to call it, a DonaldDuck!! #Trump #DonaldJTrump #DonaldTrump #DontDrinkBleach #COVIDIOTS #BLEACH #disinfectant #idiotinthewhitehouse https://t.co/LDdXviyTi4",,original taste rs ome aa ge qui cft fg,original taste rs ome aa ge qui cft fg
-80,ageism_04,covidiots,1250634741117669376,./tweet_data/ageism_04/covidiots/tweets3/EVslqvAUEAE7zou.jpg,./annot_data_hate/EVslqvAUEAE7zou.jpg,@PurMeow @KyleClark @9NEWS @GovofCO @PatrickForCO Congratulations on your nomination for the 2020 Darwin Awards! Good luck with that #COVIDIOTS #Cult45 https://t.co/sX6YnraJZP,,sir mo swear fight pandemic 19 stupidity 1241 twitter iphone 345 retweets 11 likes tq,sir mo swear fight pandemic 19 stupidity 1241 twitter iphone 345 retweets 11 likes tq
-81,ageism_04,covidiots,1254766632603234314,./tweet_data/ageism_04/covidiots/tweets4/EWnTlpnU4AA2G3N.jpg,./annot_data_hate/EWnTlpnU4AA2G3N.jpg,@PIBFactCheck @ICMRDELHI @airnewsalerts @DDNewslive @PBNS_India PL CHECK THIS TOO &amp; REVERT.IF FAKE THEN TREAT THESE JOURNOS AS #COVIDIOTS . https://t.co/wTfWjMg6ZR,,jain sree 3h india buy overpriced faulty test kit report ndtv right,jain sree 3h india buy overpriced faulty test kit report ndtv right
-82,politics_12,kag,1337080739742015491,./tweet_data/politics_12/kag/tweets2/Eo5D17IW4AAZFAK.jpg,./annot_data_hate/Eo5D17IW4AAZFAK.jpg,Back to reality!#BidenConcede #Trump2020 #MAGA #KAG #CloserNation #CloserNews #ElectionFruad #Election2020 #election #USA #StopTheSteaI https://t.co/AKqOqwjjQ9,,elf ei late city final oe vr co mystery chinese spy pace 45 hunter probe tt pais tel,elf ei late city final oe vr co mystery chinese spy pace 45 hunter probe tt pais tel
-83,politics_08,TrumpIsACompleteFailure,1297415008092135426,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets4/EgFV5-rWoAEIa3E.png,./annot_data_hate/EgFV5-rWoAEIa3E.png,Trump looks like the kid that is mad b/c his parents made him take the Family Christmas/Holiday photo he didn't want to be in. #TrumpIsACompleteFailure #TrumpIsLosing https://t.co/QU6wOe6Gi9,,republican national convention key speaker oe donald trump jr ale eo sn,republican national convention key speaker oe donald trump jr ale eo sn
-84,politics_12,LiarInChief,1337289732850556930,./tweet_data/politics_12/LiarInChief/tweets2/Eo8BsEdVgAEvdor.jpg,./annot_data_hate/Eo8BsEdVgAEvdor.jpg,Trump has become America's Biggest Loser. The recognition that he is due. #WorstPresidentInHistory @WhiteHouse #fakepresident #LiarInChief #moroninchief He is officially asshole of the year. #TimeLoserTrump https://t.co/Ls2Vx6jCKO,,asshole year af aa ld pp,asshole year af aa ld pp
-85,politics_08,TrumpIsARapist,1289729993715511298,./tweet_data/politics_08/TrumpIsARapist/tweets1/EeYKlr9UYAcAj93.jpg,./annot_data_hate/EeYKlr9UYAcAj93.jpg,@realDonaldTrump  we all know your days are numbered! #TrumpIsARapist #TrumpIsUnwell #VoteBlueToSaveAmerica2020 https://t.co/67r6w5Q2iY,,pup ultra se pie time tm ey ready publicly te td,pup ultra se pie time tm ey ready publicly te td
-86,vaccine_04,CoronaHoax,1253123045599973379,./tweet_data/vaccine_04/CoronaHoax/tweets4/EWP8wppXgAAXvfr.jpg,./annot_data_hate/EWP8wppXgAAXvfr.jpg,Don’t give up on your freedom ..#freedom #Justice #FreeAssange #Covid19Out #CoronaBollocks #CoronaHoax #endthelockdown #EndTheShutdownNow #StaySafe #civildisobedience #standforsomething #Agenda2030 #FakePandemic #fakevirus #Plannedemic #CoronaVillains #FireFauci #PoliceBrutality https://t.co/c1h2qKU8YM,,free society law unjust obligation break law lh,free society law unjust obligation break law lh
+#catstagram #CatsOnTwitter #cat #TheLastDriveIn #TrumpIsALaughingStock #CelebDragRace https://t.co/mos4HK6wrw",2.0,"pm seay ny ese america
+",fi ey hee ey 44 movie wd siew oe wer ao ww ey ag 28 ae
+79,ageism_04,covidiots,1253792061398167554,./tweet_data/ageism_04/covidiots/tweets4/EWZdOzUXQAELo6k.jpg,./annot_data_hate/EWZdOzUXQAELo6k.jpg,"What a week!! Time for a well earned toilet duck and coke or as I like to call it, a DonaldDuck!! #Trump #DonaldJTrump #DonaldTrump #DontDrinkBleach #COVIDIOTS #BLEACH #disinfectant #idiotinthewhitehouse https://t.co/LDdXviyTi4",2.0,"original taste rs ome aa ge qui cft fg
+",original taste rs ome aa ge qui cft fg
+80,ageism_04,covidiots,1250634741117669376,./tweet_data/ageism_04/covidiots/tweets3/EVslqvAUEAE7zou.jpg,./annot_data_hate/EVslqvAUEAE7zou.jpg,@PurMeow @KyleClark @9NEWS @GovofCO @PatrickForCO Congratulations on your nomination for the 2020 Darwin Awards! Good luck with that #COVIDIOTS #Cult45 https://t.co/sX6YnraJZP,2.0,"sir mo swear fight pandemic 19 stupidity 1241 twitter iphone 345 retweets 11 likes tq
+",sir mo swear fight pandemic 19 stupidity 1241 twitter iphone 345 retweets 11 likes tq
+81,ageism_04,covidiots,1254766632603234314,./tweet_data/ageism_04/covidiots/tweets4/EWnTlpnU4AA2G3N.jpg,./annot_data_hate/EWnTlpnU4AA2G3N.jpg,@PIBFactCheck @ICMRDELHI @airnewsalerts @DDNewslive @PBNS_India PL CHECK THIS TOO &amp; REVERT.IF FAKE THEN TREAT THESE JOURNOS AS #COVIDIOTS . https://t.co/wTfWjMg6ZR,2.0,"jain sree 3h india buy overpriced faulty test kit report ndtv right
+",jain sree 3h india buy overpriced faulty test kit report ndtv right
+82,politics_12,kag,1337080739742015491,./tweet_data/politics_12/kag/tweets2/Eo5D17IW4AAZFAK.jpg,./annot_data_hate/Eo5D17IW4AAZFAK.jpg,Back to reality!#BidenConcede #Trump2020 #MAGA #KAG #CloserNation #CloserNews #ElectionFruad #Election2020 #election #USA #StopTheSteaI https://t.co/AKqOqwjjQ9,2.0,"elf ei late city final oe vr co mystery chinese spy pace 45 hunter probe tt pais tel
+",elf ei late city final oe vr co mystery chinese spy pace 45 hunter probe tt pais tel
+83,politics_08,TrumpIsACompleteFailure,1297415008092135426,./tweet_data/politics_08/TrumpIsACompleteFailure/tweets4/EgFV5-rWoAEIa3E.png,./annot_data_hate/EgFV5-rWoAEIa3E.png,Trump looks like the kid that is mad b/c his parents made him take the Family Christmas/Holiday photo he didn't want to be in. #TrumpIsACompleteFailure #TrumpIsLosing https://t.co/QU6wOe6Gi9,2.0,"republican national convention key speaker oe donald trump jr ale eo sn
+",republican national convention key speaker oe donald trump jr ale eo sn
+84,politics_12,LiarInChief,1337289732850556930,./tweet_data/politics_12/LiarInChief/tweets2/Eo8BsEdVgAEvdor.jpg,./annot_data_hate/Eo8BsEdVgAEvdor.jpg,Trump has become America's Biggest Loser. The recognition that he is due. #WorstPresidentInHistory @WhiteHouse #fakepresident #LiarInChief #moroninchief He is officially asshole of the year. #TimeLoserTrump https://t.co/Ls2Vx6jCKO,1.0,"asshole year af aa ld pp
+",asshole year af aa ld pp
+85,politics_08,TrumpIsARapist,1289729993715511298,./tweet_data/politics_08/TrumpIsARapist/tweets1/EeYKlr9UYAcAj93.jpg,./annot_data_hate/EeYKlr9UYAcAj93.jpg,@realDonaldTrump  we all know your days are numbered! #TrumpIsARapist #TrumpIsUnwell #VoteBlueToSaveAmerica2020 https://t.co/67r6w5Q2iY,1.0,"pup ultra se pie time tm ey ready publicly te td
+",pup ultra se pie time tm ey ready publicly te td
+86,vaccine_04,CoronaHoax,1253123045599973379,./tweet_data/vaccine_04/CoronaHoax/tweets4/EWP8wppXgAAXvfr.jpg,./annot_data_hate/EWP8wppXgAAXvfr.jpg,Don’t give up on your freedom ..#freedom #Justice #FreeAssange #Covid19Out #CoronaBollocks #CoronaHoax #endthelockdown #EndTheShutdownNow #StaySafe #civildisobedience #standforsomething #Agenda2030 #FakePandemic #fakevirus #Plannedemic #CoronaVillains #FireFauci #PoliceBrutality https://t.co/c1h2qKU8YM,2.0,"free society law unjust obligation break law lh
+",free society law unjust obligation break law lh
 87,politics_08,kag,1299686070628552705,./tweet_data/politics_08/kag/tweets5/EglplUVXgAAxOTg.jpg,./annot_data_hate/EglplUVXgAAxOTg.jpg,"This is the Election of our LIFETIME. A vote for President Trump is a vote to SAVE America #MAGA #KAG #TRUMP2020 #PATRIOT #CONSERVATIVE #Q #WWG1WGA #QAnon 
-#DeAnna4Congress https://t.co/qOpbCzPD6H",,a8 ay coy rad lu ely train,a8 ay coy rad lu ely train
-88,ageism_04,covidiots,1251693853838540800,./tweet_data/ageism_04/covidiots/tweets3/EV7o7AbXQAAV9Le.jpg,./annot_data_hate/EV7o7AbXQAAV9Le.jpg,They walk among us. But only for a little while longer probably #COVIDIOTS https://t.co/haTiZOp1gZ,,mes ss communism ay ead af oes ea eee te tt ai,mes ss communism ay ead af oes ea eee te tt ai
-89,politics_12,TrumpIsALaughingStock,1337581241911173120,./tweet_data/politics_12/TrumpIsALaughingStock/tweets2/EpALDLbXIAASqsM.jpg,./annot_data_hate/EpALDLbXIAASqsM.jpg,@realDonaldTrump Another win for Biden #PresidentElectBiden #TrumpDerangementSyndrome #TrumpMeltdown #TrumpIsANationalDisgrace #TrumpTheFool #TrumpIsALaughingStock https://t.co/ELSpNmG5qn,,tie year ox biden,tie year ox biden
-90,politics_08,bunkerboy,1298279152383074306,./tweet_data/politics_08/bunkerboy/tweets4/EgRqAedXkDQFIL1.jpg,./annot_data_hate/EgRqAedXkDQFIL1.jpg,@realDonaldTrump Who you calling crazy #bunkerboy https://t.co/HFodmH8ros,,ae te tet sit democrats uv light ass,ae te tet sit democrats uv light ass
-91,politics_08,TrumpChaos,1298606457739411457,./tweet_data/politics_08/TrumpChaos/tweets4/EgWTsLWXgAEB41B.jpg,./annot_data_hate/EgWTsLWXgAEB41B.jpg,My calendar know things #TrumpChaos https://t.co/Xf3DMhToXg,,sk eae sha aae ae saas go greasy pole politic step step british politician michael wednesday 2020,sk eae sha aae ae saas go greasy pole politic step step british politician michael wednesday 2020
-92,politics_08,kag,1299781558887473157,./tweet_data/politics_08/kag/tweets5/EgnAcC1WAAEdJXR.jpg,./annot_data_hate/EgnAcC1WAAEdJXR.jpg,@ChrisMurphyCT LOL!  Such bull!  Trump 2020!  #KAG 🇺🇸😇🇺🇸 https://t.co/CcKuYiIV5H,,rt ze ry bs er ff qin democrats cunt rt cl cu ay feed,rt ze ry bs er ff qin democrats cunt rt cl cu ay feed
+#DeAnna4Congress https://t.co/qOpbCzPD6H",2.0,"a8 ay coy rad lu ely train
+",a8 ay coy rad lu ely train
+88,ageism_04,covidiots,1251693853838540800,./tweet_data/ageism_04/covidiots/tweets3/EV7o7AbXQAAV9Le.jpg,./annot_data_hate/EV7o7AbXQAAV9Le.jpg,They walk among us. But only for a little while longer probably #COVIDIOTS https://t.co/haTiZOp1gZ,2.0,"mes ss communism ay ead af oes ea eee te tt ai
+",mes ss communism ay ead af oes ea eee te tt ai
+89,politics_12,TrumpIsALaughingStock,1337581241911173120,./tweet_data/politics_12/TrumpIsALaughingStock/tweets2/EpALDLbXIAASqsM.jpg,./annot_data_hate/EpALDLbXIAASqsM.jpg,@realDonaldTrump Another win for Biden #PresidentElectBiden #TrumpDerangementSyndrome #TrumpMeltdown #TrumpIsANationalDisgrace #TrumpTheFool #TrumpIsALaughingStock https://t.co/ELSpNmG5qn,2.0,"tie year ox biden
+",tie year ox biden
+90,politics_08,bunkerboy,1298279152383074306,./tweet_data/politics_08/bunkerboy/tweets4/EgRqAedXkDQFIL1.jpg,./annot_data_hate/EgRqAedXkDQFIL1.jpg,@realDonaldTrump Who you calling crazy #bunkerboy https://t.co/HFodmH8ros,1.0,"ae te tet sit democrats uv light ass
+",ae te tet sit democrats uv light ass
+91,politics_08,TrumpChaos,1298606457739411457,./tweet_data/politics_08/TrumpChaos/tweets4/EgWTsLWXgAEB41B.jpg,./annot_data_hate/EgWTsLWXgAEB41B.jpg,My calendar know things #TrumpChaos https://t.co/Xf3DMhToXg,2.0,"sk eae sha aae ae saas go greasy pole politic step step british politician michael wednesday 2020
+",sk eae sha aae ae saas go greasy pole politic step step british politician michael wednesday 2020
+92,politics_08,kag,1299781558887473157,./tweet_data/politics_08/kag/tweets5/EgnAcC1WAAEdJXR.jpg,./annot_data_hate/EgnAcC1WAAEdJXR.jpg,@ChrisMurphyCT LOL!  Such bull!  Trump 2020!  #KAG 🇺🇸😇🇺🇸 https://t.co/CcKuYiIV5H,1.0,"sk eae sha aae ae saas go greasy pole politic step step british politician michael wednesday 2020
+",rt ze ry bs er ff qin democrats cunt rt cl cu ay feed
 93,immigration_08,BuildTheWall,1298117910100140033,./tweet_data/immigration_08/BuildTheWall/tweets4/EgPW4XgXkAAiSDh.jpg,./annot_data_hate/EgPW4XgXkAAiSDh.jpg,"#SteveBannon has been arrested for his #BuildTheWall fraud scheme so he's apparently a crook as well as a #WhiteSupremacist; I hope #DonaldTrump's former adviser enjoys many years behind bars as well as walls~!
 
-https://t.co/mNNfQgDc7P https://t.co/zeLKkumDvn",,a5 nen er stone ws ce oh es en qe ae po kee qe 7y pap fon ce var,a5 nen er stone ws ce oh es en qe ae po kee qe 7y pap fon ce var
-94,ageism_12,covidiots,1344085666397708289,./tweet_data/ageism_12/covidiots/tweets5/Eqcl33fUcAANcu7.jpg,./annot_data_hate/Eqcl33fUcAANcu7.jpg,"@johnwcurtis those #covidiots sure do beLIEve some crazy things..like the ""test"" being used to fuel this plandemic is accurate!! The ones blamed ""broke the rules"" and aren't the ones getting tested and not getting traced back as vector of transmission..the media would have been ALL over that! https://t.co/29Defupshm",,seena cea mm ll bird coca cola bb arte cbd baie ie apple juice test positive,seena cea mm ll bird coca cola bb arte cbd baie ie apple juice test positive
-95,politics_04,TrumpGenocide,1245530004592697352,./tweet_data/politics_04/TrumpGenocide/tweets1/EUkC79lX0AAtzjx.jpg,./annot_data_hate/EUkC79lX0AAtzjx.jpg,We do not have a President. We have a heartless racist sociopath that will Kill many. He should go to jail for genocide #TrumpGenocide #COVID19 @GovRonDeSantis #Cuomo #biden #GOPDeathPanels https://t.co/qUWnwr7df5,,bibi cin hi story news popular wa ha ix ak rael hk trump couple week horrific world oo ps,bibi cin hi story news popular wa ha ix ak rael hk trump couple week horrific world oo ps
+https://t.co/mNNfQgDc7P https://t.co/zeLKkumDvn",1.0,"a5 nen er stone ws ce oh es en qe ae po kee qe 7y pap fon ce var
+",a5 nen er stone ws ce oh es en qe ae po kee qe 7y pap fon ce var
+94,ageism_12,covidiots,1344085666397708289,./tweet_data/ageism_12/covidiots/tweets5/Eqcl33fUcAANcu7.jpg,./annot_data_hate/Eqcl33fUcAANcu7.jpg,"@johnwcurtis those #covidiots sure do beLIEve some crazy things..like the ""test"" being used to fuel this plandemic is accurate!! The ones blamed ""broke the rules"" and aren't the ones getting tested and not getting traced back as vector of transmission..the media would have been ALL over that! https://t.co/29Defupshm",0.0,"seena cea mm ll bird coca cola bb arte cbd baie ie apple juice test positive
+",seena cea mm ll bird coca cola bb arte cbd baie ie apple juice test positive
+95,politics_04,TrumpGenocide,1245530004592697352,./tweet_data/politics_04/TrumpGenocide/tweets1/EUkC79lX0AAtzjx.jpg,./annot_data_hate/EUkC79lX0AAtzjx.jpg,We do not have a President. We have a heartless racist sociopath that will Kill many. He should go to jail for genocide #TrumpGenocide #COVID19 @GovRonDeSantis #Cuomo #biden #GOPDeathPanels https://t.co/qUWnwr7df5,2.0,"bibi cin hi story news popular wa ha ix ak rael hk trump couple week horrific world oo ps
+",bibi cin hi story news popular wa ha ix ak rael hk trump couple week horrific world oo ps
 96,politics_04,TrumpIsACompleteFailure,1253736935912353795,./tweet_data/politics_04/TrumpIsACompleteFailure/tweets4/EWYrGJUWAAQv81H.jpg,./annot_data_hate/EWYrGJUWAAQv81H.jpg,"@realDonaldTrump Sorry for them. Wonder if these are coming from the same place we were supposed to get ours from?
 
 We're still waiting. 
@@ -217,9 +313,13 @@ We're still waiting.
 
 #TrumpIsACompleteFailure 
 
-#TrumpIsTheWORSTPresidentEVER https://t.co/lwnQT2aJzH",,bole ge usa liar look like,bole ge usa liar look like
-97,ageism_04,covidiots,1252752375183552513,./tweet_data/ageism_04/covidiots/tweets4/EWKrpO_WsA0WzGF.jpg,./annot_data_hate/EWKrpO_WsA0WzGF.jpg,"Furloughed. Hours of frustration attempting to get assistance. Kids (one special needs) lives disrupted, those all important routines shot to hell. I’m thinking it can’t get worse, and this douchebags’ photo shows up on my feed. From my home state. Ugh. #COVIDIOTS https://t.co/qqz10gPOBF",,ae aera ory pa sic wow tenn,ae aera ory pa sic wow tenn
-98,politics_08,AmericaOrTrump,1292966849466920961,./tweet_data/politics_08/AmericaOrTrump/tweets2/EfGKEltUwAImVbX.jpg,./annot_data_hate/EfGKEltUwAImVbX.jpg,@realDonaldTrump You are responsible...like it or not. And so shallow that you lament the loss of entertainment instead of showing 'real' concern for the devastation your incompetence has wrought on the American people. #TrumpIsADisgrace #AmericaOrTrump #CrueltyIsThePoint #TrumpFailedAmerica https://t.co/ueMvjSYJQo,,rae right oi ae rc er ce ns ee oe lj endanger ie pay,rae right oi ae rc er ce ns ee oe lj endanger ie pay
+#TrumpIsTheWORSTPresidentEVER https://t.co/lwnQT2aJzH",1.0,"bole ge usa liar look like
+",bole ge usa liar look like
+97,ageism_04,covidiots,1252752375183552513,./tweet_data/ageism_04/covidiots/tweets4/EWKrpO_WsA0WzGF.jpg,./annot_data_hate/EWKrpO_WsA0WzGF.jpg,"Furloughed. Hours of frustration attempting to get assistance. Kids (one special needs) lives disrupted, those all important routines shot to hell. I’m thinking it can’t get worse, and this douchebags’ photo shows up on my feed. From my home state. Ugh. #COVIDIOTS https://t.co/qqz10gPOBF",2.0,"ae aera ory pa sic wow tenn
+",ae aera ory pa sic wow tenn
+98,politics_08,AmericaOrTrump,1292966849466920961,./tweet_data/politics_08/AmericaOrTrump/tweets2/EfGKEltUwAImVbX.jpg,./annot_data_hate/EfGKEltUwAImVbX.jpg,@realDonaldTrump You are responsible...like it or not. And so shallow that you lament the loss of entertainment instead of showing 'real' concern for the devastation your incompetence has wrought on the American people. #TrumpIsADisgrace #AmericaOrTrump #CrueltyIsThePoint #TrumpFailedAmerica https://t.co/ueMvjSYJQo,0.0,"rae right oi ae rc er ce ns ee oe lj endanger ie pay
+",rae right oi ae rc er ce ns ee oe lj endanger ie pay
 99,politics_08,TrumpChaos,1299550543191310337,./tweet_data/politics_08/TrumpChaos/tweets5/Egjt7VQU8AALkxe.jpg,./annot_data_hate/Egjt7VQU8AALkxe.jpg,"@ProjectLincoln End the nightmare on November 3rd!
 https://t.co/UvwzQMbIYW
-#TrumpChaos #TrumpIsLosing #TrumpMeltdown #BidenHarris #BidenHarris2020ToSaveAmerica https://t.co/v2PXpIk0xO",,nightmare eevee fina ix err vote count,nightmare eevee fina ix err vote count
+#TrumpChaos #TrumpIsLosing #TrumpMeltdown #BidenHarris #BidenHarris2020ToSaveAmerica https://t.co/v2PXpIk0xO",0.0,"nightmare eevee fina ix err vote count
+",nightmare eevee fina ix err vote count
