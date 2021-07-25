@@ -182,7 +182,8 @@ class ImageAnnotater:
         if text != '\n':
             self.data_handler.set_image_text_on_row(self.curr_idx, text)
 
-        self.load_next_img()
+        if self.curr_idx != self.end_idx:
+            self.load_next_img()
 
     def key_return(self, *event):
         self.window.focus_set()
