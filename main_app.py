@@ -22,8 +22,9 @@ class ImageAnnotater:
         self.window.geometry('1280x720')
         self.window.configure(background='#ececec')
 
-        self.option_list = ['Hateful IWT Meme', 'non-Hateful IWT Meme', 'NOT IWT Meme', 'Not Sure']
-        self.option_value = tk.StringVar(self.window)
+        # self.option_list = ['Hateful IWT Meme', 'non-Hateful IWT Meme', 'NOT IWT Meme', 'Not Sure']
+        # self.option_value = tk.StringVar(self.window)
+        self.option_value = -1
         
         self.frame_img = tk.Frame(master=self.window, width=700, height=720, bg='#ececec')
         self.frame_img.pack(fill=tk.BOTH, side=tk.LEFT, expand=True)
@@ -78,10 +79,21 @@ class ImageAnnotater:
         self.label_input_optmenu = tk.Label(master=self.frame_input, text='Image Label', bg='#ececec', fg='dim grey', font=("Arial", 14))
         self.label_input_optmenu.grid(row=0, sticky=W, pady=6)
 
-        self.option_value.set('Select an label')
-        self.optmenu_input = tk.OptionMenu(self.frame_input, self.option_value, *self.option_list)
-        self.optmenu_input.configure(fg='black')
-        self.optmenu_input.grid(row=1, sticky=W, padx=(0, 300))
+        self.frame_option_btns = tk.Frame(master=self.frame_input, height=20)
+        self.frame_option_btns.grid(row=1, sticky=W)
+
+        self.btn_option_1 = tk.Button(master=self.frame_option_btns, text='Hateful IMT Meme', width=12, height=1, fg='black',\
+                                font=('TkDefaultFont', 12), relief=tk.GROOVE, command=self.btn_option_1_press)
+        self.btn_option_1.grid(row=0, column=0, sticky=W)
+
+        self.btn_option_2 = tk.Button(master=self.frame_option_btns, text='Other Image', width=12, height=1, fg='black',\
+                                font=('TkDefaultFont', 12), relief=tk.GROOVE, command=self.btn_option_2_press)
+        self.btn_option_2.grid(row=0, column=1, sticky=W, padx=20)
+
+        # self.option_value.set('Select an label')
+        # self.optmenu_input = tk.OptionMenu(self.frame_input, self.option_value, *self.option_list)
+        # self.optmenu_input.configure(fg='black')
+        # self.optmenu_input.grid(row=1, sticky=W, padx=(0, 300))
 
         self.label_input_imgtext = tk.Label(master=self.frame_input, text='Image Text', bg='#ececec', fg='dim grey', font=("Arial", 14))
         self.label_input_imgtext.grid(row=2, sticky=W, pady=6)
@@ -91,11 +103,11 @@ class ImageAnnotater:
         self.text_input_imgtext.grid(row=3, sticky=W)
 
         self.frame_input_btns = tk.Frame(master=self.frame_input, height=60)
-        self.frame_input_btns.grid(row=4, pady=20)
+        self.frame_input_btns.grid(row=4, sticky=W, pady=20)
 
         self.btn_previous = tk.Button(master=self.frame_input_btns, text='Previous', width=12, height=2, fg='black',\
                                 font=('TkDefaultFont', 18), relief=tk.GROOVE, command=self.btn_previous_press)
-        self.btn_previous.grid(row=0, column=0)
+        self.btn_previous.grid(row=0, column=0, padx=(20, 5))
 
         self.btn_save = tk.Button(master=self.frame_input_btns, text='Save & Next', width=12, height=2, fg='black',\
                                 font=('TkDefaultFont', 18), relief=tk.GROOVE, command=self.btn_save_press)
@@ -103,9 +115,13 @@ class ImageAnnotater:
 
         self.btn_next = tk.Button(master=self.frame_input_btns, text='Next', width=12, height=2, fg='black',\
                                 font=('TkDefaultFont', 18), relief=tk.GROOVE, command=self.load_next_img)
-        self.btn_next.grid(row=0, column=2, padx=(0, 20))
+        self.btn_next.grid(row=0, column=2, padx=5)
         
         self.window.bind('<Return>', self.key_return)
+        self.window.bind('<Left>', self.key_left)
+        self.window.bind('<Up>', self.key_up)
+        self.window.bind('<Down>', self.key_down)
+        self.window.bind('<Right>', self.key_right)
         self.window.protocol('WM_DELETE_WINDOW', self.on_closing)
         self.load_next_img()
         self.window.mainloop()
@@ -133,21 +149,36 @@ class ImageAnnotater:
         self.text_info_bodytext.configure(state=tk.DISABLED)
 
         self.label_input_optmenu.configure(fg='dim grey')
-        # self.btn_save.configure(text='Save & Next', fg='black')
-        self.option_value.set('Select an label')
-        if not np.isnan(self.curr_dic['label']):
-            option = -1
-            if self.curr_dic['label'] == 0:
-                option = 1
-            elif self.curr_dic['label'] == 1:
-                option = 0
-            else:
-                option = int(self.curr_dic['label'])
-            self.option_value.set(self.option_list[option])
         
+        if not np.isnan(self.curr_dic['label']):
+            if int(self.curr_dic['label']) == 1:
+                self.option_value = 1
+                self.btn_option_1.configure(highlightbackground='#0070eb')
+                self.btn_option_2.configure(highlightbackground='#ececec')
+            else:
+                self.option_value = 0
+                self.btn_option_1.configure(highlightbackground='#ececec')
+                self.btn_option_2.configure(highlightbackground='#0070eb')
+        else:
+            self.option_value = -1
+            self.btn_option_1.configure(highlightbackground='#ececec')
+            self.btn_option_2.configure(highlightbackground='#ececec')
+
+        # self.option_value.set('Select an label')
+        # if not np.isnan(self.curr_dic['label']):
+        #     option = -1
+        #     if self.curr_dic['label'] == 0:
+        #         option = 1
+        #     elif self.curr_dic['label'] == 1:
+        #         option = 0
+        #     else:
+        #         option = int(self.curr_dic['label'])
+        #     self.option_value.set(self.option_list[option])
+        
+        self.text_input_imgtext.configure(state=tk.NORMAL)
         self.text_input_imgtext.delete('1.0', tk.END)
-        # if not np.isnan(self.curr_dic['image_text']):
         self.text_input_imgtext.insert('1.0', self.curr_dic['image_text'])
+        self.text_input_imgtext.configure(state=tk.DISABLED)
 
         if self.curr_idx == self.start_idx:
             self.btn_previous.configure(state=tk.DISABLED)
@@ -157,36 +188,68 @@ class ImageAnnotater:
             self.btn_next.configure(state=tk.DISABLED)
         else: self.btn_next.configure(state=tk.NORMAL)
 
+    def btn_option_1_press(self):
+        self.option_value = 1
+        self.btn_option_1.configure(highlightbackground='#0070eb')
+        self.btn_option_2.configure(highlightbackground='#ececec')
+
+    def btn_option_2_press(self):
+        self.option_value = 0
+        self.btn_option_1.configure(highlightbackground='#ececec')
+        self.btn_option_2.configure(highlightbackground='#0070eb')
+    
     def btn_previous_press(self):
         self.curr_idx -= 2
         self.load_next_img()
     
     def btn_save_press(self):
         self.label_input_optmenu.configure(fg='dim grey')
-        opt = self.option_value.get()
 
-        if opt == 'Select an label':
+        if self.option_value == 1: # Hateful
+            self.data_handler.set_label_on_row(self.curr_idx, 1)
+        elif self.option_value == 0: # Other
+            self.data_handler.set_label_on_row(self.curr_idx, 0)
+        elif self.option_value == -1: # Unlabeled
             self.label_input_optmenu.configure(fg='red')
             return
-        elif opt == 'Hateful IWT Meme':
-            self.data_handler.set_label_on_row(self.curr_idx, 1)
-        elif opt == 'non-Hateful IWT Meme':
-            self.data_handler.set_label_on_row(self.curr_idx, 0)
-        elif opt == 'NOT IWT Meme':
-            self.data_handler.set_label_on_row(self.curr_idx, 2)
-        else:
-            self.data_handler.set_label_on_row(self.curr_idx, 3)
+
+        # opt = self.option_value.get()
+        # if opt == 'Select an label':
+        #     self.label_input_optmenu.configure(fg='red')
+        #     return
+        # elif opt == 'Hateful IWT Meme':
+        #     self.data_handler.set_label_on_row(self.curr_idx, 1)
+        # elif opt == 'non-Hateful IWT Meme':
+        #     self.data_handler.set_label_on_row(self.curr_idx, 0)
+        # elif opt == 'NOT IWT Meme':
+        #     self.data_handler.set_label_on_row(self.curr_idx, 2)
+        # else:
+        #     self.data_handler.set_label_on_row(self.curr_idx, 3)
 
         # self.btn_save.configure(text='Saved!', fg='green')
-        text = self.text_input_imgtext.get('1.0', tk.END)
-        if text != '\n':
-            self.data_handler.set_image_text_on_row(self.curr_idx, text)
+        # text = self.text_input_imgtext.get('1.0', tk.END)
+        # if text != '\n':
+        #     self.data_handler.set_image_text_on_row(self.curr_idx, text)
 
         if self.curr_idx != self.end_idx:
             self.load_next_img()
 
     def key_return(self, *event):
-        self.window.focus_set()
+        if self.curr_idx != self.end_idx:
+            self.load_next_img()
+
+    def key_left(self, *event):
+        if self.curr_idx != self.start_idx:
+            self.btn_previous_press()
+
+    def key_up(self, *event):
+        self.btn_option_1_press()
+
+    def key_down(self, *event):
+        self.btn_option_2_press()
+
+    def key_right(self, *event):
+        self.btn_save_press()
 
     def on_closing(self):
         option = messagebox.askyesnocancel(title='Quit', message='Do you want to save the results?', default='yes')

@@ -18,3 +18,11 @@
 7. Commit and push your results.
 
 The labeling process CAN be exited in the middle and continued later. Just remember to save your results when you leave.
+
+## Keyboard Shortcuts
+
+- Left = 'Previous' Button
+- Up = 'Hateful IMT Meme' Button
+- Down = 'Other Image' Button
+- Right = 'Save & Next' Button
+- Enter = 'Next' Button
