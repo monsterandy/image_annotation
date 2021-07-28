@@ -11,7 +11,7 @@
 
 1. Clone the repo;
 2. Rename the `config_example.py` to `config.py`;
-3. Change the CSV path, start and end index in `config.py`;
+3. Change the CSV path, start and end index in `config.py` (index is starting from 1);
 4. Execute the `main_app.py` to start labeling;
 5. Remember to press the 'Save' button for each image;
 6. When you done, click the 'x' button of the window, and a message box will pop up. You can either save your results or discard them;
@@ -21,8 +21,8 @@ The labeling process CAN be exited in the middle and continued later. Just remem
 
 ## Keyboard Shortcuts
 
-- Left = 'Previous' Button
-- Up = 'Hateful IMT Meme' Button
-- Down = 'Other Image' Button
-- Right = 'Save & Next' Button
-- Enter = 'Next' Button
+- `<left>` = 'Previous' Button
+- `<Up>` = 'Hateful IMT Meme' Button
+- `<Down>` = 'Other Image' Button
+- `<Right>` = 'Save & Next' Button
+- `<Enter>` = 'Next' Button
